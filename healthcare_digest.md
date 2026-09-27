@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-09-27
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Exercise and Cancer Survival; COVID Vaccine and Immune Checkpoint Inhibitors](https://www.medpagetoday.com/podcasts/healthwatch/123146)** _(Sat, 26 Sep 2026 14:00:00 -0400)_
+- **[We've Seen Defensive Medicine, but It Was Never Taught](https://www.medpagetoday.com/opinion/second-opinions/123144)** _(Sat, 26 Sep 2026 12:00:00 -0400)_
+- **[Democrats Press RFK Jr. on an Ethics Agreement Change Involving Law Firm Fees](https://www.medpagetoday.com/washington-watch/washington-watch/123154)** _(Sat, 26 Sep 2026 10:00:00 -0400)_
+- **[Two Procedures May Yield Similar Symptom Relief for Uterine Fibroids](https://www.medpagetoday.com/obgyn/fibroids/123158)** _(Fri, 25 Sep 2026 17:44:36 -0400)_
+- **[Growing Support for Initiatives to Recognize Myopia as a Disease](https://www.medpagetoday.com/ophthalmology/generalophthalmology/123157)** _(Fri, 25 Sep 2026 17:38:46 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VVlhOS09vSHBGRUloc3VELUx6MjZka3VHcFNSSjRGMkh3SF9yMmZ6S05KYmZJaW1fTkZ0LTJlNEVXMkl3TG90VmNkSzVtUGg1Y2ZWZ09FUDNncWc?oc=5)** _(Sat, 26 Sep 2026 23:03:39 GMT)_
+- **[Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVcwVXpranllUGhnazJBdy0wYUlyaWVabzY1azRDejFVRDVmaFUtdGxIRXZVN0ljSllBUUtIWTF0eW5HVS1ISzBGdWRjYXJQTXY4WWFqR3NtOHBGdktkME1uVWliRTdxVnRZWmxZWlFwb2lvTnJXMTQ1RHkydm9MN2Z1X1pxUHFrMXN4alB3?oc=5)** _(Sat, 26 Sep 2026 23:15:00 GMT)_
+- **[Measles Has Returned To America. We’re No Longer In Containment Mode - Yahoo](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSV9YR3Rlcm9IYW9JUVlNZ0V0UERMRkFhSlVBcTVuTDZ5THc4cXZSdWNIVFZONno4RGlpQlluWTZJejZXT0ZlaHp0aGhZelMweThvRmxTRUQ0S0c5UWstSkptdWJJZzdMWU5tcU4ycWpVdGtDR1hfVno4ZG1sNHVKV1lBOU10QWxNcTRDa1pNSlJXZw?oc=5)** _(Sat, 26 Sep 2026 23:36:39 GMT)_
+- **[DR Congo’s Ebola outbreak spreads to two new health zones, WHO says - Al Jazeera](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajhDc0Z4ZFRxcVpRTlY5cU51S1Q2N3lvajg1TkhNREloRU01WkJaT3UyT25aVzhCdWVuVGNkZmRheURFZ01iUFpmOFBSNWJ4YTRILWJ2RlA3cFV2Z3AwSzNyZXY3WHVzRUR3Q25uYXF5MlliZHlseVIzWFFqeG5EbnpsRURJNkJUVkFJbUd3a2lSU3duaUFtNDlBUVZhamhjMGlKSkFENW0td9IBrwFBVV95cUxObmFQZlNxTUVqOGNCRHU5UlBWM0ljQm1tMkU4Z2tJOXU1blk0TkNDcnl0VVltTU5CdkJyV0w0bjk5VThGR19yZjlpaTRFUGhoaFB0RU1lNGMwSENlLTNjQm5melhMNzF3UHEtWkRaaUFtNURDRk9VekFFc21MR2h1V2V5XzNORWNWRTRBNGhIMnZvQ0NZVDMxY3lSUkdNdnRqVVhzT1BlYmFRaDFuNEhZ?oc=5)** _(Fri, 25 Sep 2026 22:24:26 GMT)_
+- **[One shot or two? What to know about HPV vaccination recommendations - AP News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTdsWVF3SGxHZXZoRUFmR21zWldoc19zUk9sY3NjSWNadllRbHFZX3dMSHBkMHBDcVNUTnFJbGk1N1hXVGRhX0Z5eFhOeEsxUWxiYWlZTWZ2THZXWDhHaTNzQTVzWGhNQUJrRFlWVm1aVktvVUhCNWM3YTBJdjRuR1lySW5OcDBJalBFb1RnRldKNVE?oc=5)** _(Sat, 26 Sep 2026 14:13:25 GMT)_
+
+---
+
 ## Digest Date: 2026-09-26
 
 ### Source: MedPageToday.com - medical news for physicians
