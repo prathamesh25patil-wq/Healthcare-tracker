@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-09-28
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **['We Cannot Distinguish Fake From Real': What We Heard This Week](https://www.medpagetoday.com/opinion/what-we-heard/123151)** _(Sun, 27 Sep 2026 16:00:00 -0400)_
+- **[It's Time for Reimbursement Parity in Anesthesia](https://www.medpagetoday.com/opinion/second-opinions/123147)** _(Sun, 27 Sep 2026 12:00:00 -0400)_
+- **[Exercise and Cancer Survival; COVID Vaccine and Immune Checkpoint Inhibitors](https://www.medpagetoday.com/podcasts/healthwatch/123146)** _(Sat, 26 Sep 2026 14:00:00 -0400)_
+- **[We've Seen Defensive Medicine, but It Was Never Taught](https://www.medpagetoday.com/opinion/second-opinions/123144)** _(Sat, 26 Sep 2026 12:00:00 -0400)_
+- **[Democrats Press RFK Jr. on an Ethics Agreement Change Involving Law Firm Fees](https://www.medpagetoday.com/washington-watch/washington-watch/123154)** _(Sat, 26 Sep 2026 10:00:00 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Pennsylvania Measles Outbreak Grows to Nearly 900 Cases - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGNrYUJ3aHgzTnRNLTJpTVZ5OW5lZHVneWpvMG9WaDdTenphVFFtR1NVZXB6clRyc0NzbVBKUXRBUDhtY0t2czJBS2oySFFYT1laeWFnSTlkekNXd0xhUEhiRUdTOFJoczhWODVJUjJEQzJPZkk3MGlZakZtRkFCR3QwNTA?oc=5)** _(Sun, 27 Sep 2026 19:17:09 GMT)_
+- **[WHO says Congo Ebola outbreak spreads to two new health zones - reuters.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWRrVWMzX3I0aFlwNVc2Zy1fY2N0VXk0akJHMXRDQjJfOGptb29EcVJJT1l3b1NOM0ZiZUVSZGdUMG56LXJzdmNuc2FNS05VdzZZRjVHaGZwNlViaVY4RmJpeEl2NmUtVFVYV09ZN0U1V3VaQm5WVDhpWGF3Mm5xVXkweFF5QUduZHQtOU9IMzRSRktDVXVqQkxMM2ZqVks0MnhweHNlQXhrV24wMzJadXBuRzd4c1oyZmd1M0lZbnBXVlJaVFJNZ2JB?oc=5)** _(Fri, 25 Sep 2026 19:14:13 GMT)_
+- **[Giving a tween a smartphone may increase the risk of body image issues and unhealthy eating - CNN](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVTBqYXI3ZFlFSjJ0djhvTlJ5TWxnakJtS29nU2R0MHJLbHVJb1E0azFmeUtlMlhLOXlPc0M2Sm91aTNRTmF1S3lJU2wwaHM1N0JxdjYxWUttVWxKakZ3WFBJYkYzQWVuUFlyN3VlellsTEN4Yi00Q3RyU2hzcXdVTzNzeEFhQQ?oc=5)** _(Fri, 25 Sep 2026 15:00:29 GMT)_
+- **[Confirmed case of measles reported in Lewis County in unvaccinated resident - Newzjunky](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHlpdW50SHhjZzRfQWpoN1BFcXh0YzVWXy1DYmhDQW9JSW5Hc1N1Ym1VSmtPTktPaEhLZTFyM09hR2lzQWVLV1F5MFgxVF9kdnh2Q0NLZnE0QS1lSkpKbVZOTjlOM2xnVkxxX3ZldnhZWGtiWGxWa3FlT1hKWVFqV3ZpV0ZvWmJIRWdGWE1Xc3RCTF9HZk5hNGxZTnFENGhLTjAwLQ?oc=5)** _(Sun, 27 Sep 2026 13:34:50 GMT)_
+- **[Even Very Slow Running Can Benefit The Brain, Study Suggests - ScienceAlert](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNFRLSmtQT2xSLXF6SlpoVG5ZelU0T1B4U2lCZzZIWWo3T012bmhJMFRIeHpsWFpsNlhxbU5fZHExSUlWWE9idkxMeTR0dFZrc1dwb0xUUE9yLUZ4RkswZ0RjM1B2RDlfNnB0N0M4NW9MNkxmRUNDNVNHTl85aE5zaGFsOUo5SHZ3dlVqR1NidEViUQ?oc=5)** _(Sun, 27 Sep 2026 13:02:31 GMT)_
+
+---
+
 ## Digest Date: 2026-09-27
 
 ### Source: MedPageToday.com - medical news for physicians
