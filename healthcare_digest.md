@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-09-29
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Boot Camp Promises a Submitted Paper in Just 2 Days](https://www.medpagetoday.com/special-reports/features/123178)** _(Mon, 28 Sep 2026 17:36:25 -0400)_
+- **[Unexpected Cognitive Improvement Emerges in Hearing Aid Trial](https://www.medpagetoday.com/neurology/dementia/123177)** _(Mon, 28 Sep 2026 17:22:14 -0400)_
+- **[Still in Pain After ACL Repair? Supervised Rehab Superior to Exercises Alone](https://www.medpagetoday.com/surgery/orthopedics/123174)** _(Mon, 28 Sep 2026 17:00:00 -0400)_
+- **[Insurance Formularies Holding Up Lower-Emission Asthma, COPD Inhalers](https://www.medpagetoday.com/pulmonology/asthma/123176)** _(Mon, 28 Sep 2026 16:39:41 -0400)_
+- **[Two Symptoms Linked to Antibiotic Delays in Presumed Sepsis](https://www.medpagetoday.com/criticalcare/sepsis/123175)** _(Mon, 28 Sep 2026 16:11:47 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Insomnia linked to higher risk of dementia, suicide, stroke and other major health issues: Study - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipgFBVV95cUxQOUVMbkZveGtKZFVYbUlXS1RzY2trM0FCWVNGZThUZkc3WHNtWW9hQnRLRWJGOXlMcnJpenRpblR5WTN0QWpkWDREQmtRUkZmbEotMmw3ZENfMnAwemdFdmRaS2U1SFNtYmd5SU9lZ1ZoOUhITlFZQXo0RmQxS2Y1djYzQWhkZlhpQ041WWl6ZU9pVlJZbnRNTkxnSDlPWlJRMlR0cXRR0gGrAUFVX3lxTE93QWNON3ZJdHBaSVhwRURzbXNhUnluZURaZENsZ3hRQ0pQalVScG5YaXlVdTBMaGZmS2Y1RWs3dkU2QVd6VWJ4T2d1YXF4SjhYNTRYWVprQ3pjZ1NtUjdpUC1RZUdvNGt1OTNGMU9wRjlOS0FQQWJoSFZMSWdSRmVSemtaUG8zWUF5cTFlSmQ5eGZjQko3aXAza1MxUzZ2S1dzNXZQQ2JoekEzaw?oc=5)** _(Mon, 28 Sep 2026 15:13:49 GMT)_
+- **[Congo’s Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - AP News](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHhqY2sxMy1CdFpVTmd5SFBWTWx2eEozaFl6NFZBR01jZjY3NWdxZzlBbzVVeW05VHJUcGI1b2ZDNGgwTXBMc2VUckNfSkhsMjdweUR0a25yNmsyeTdXZXpHZXFKOG9vMVBKcnYyNGFZUmcxa0w5LUd5Mm9iVEdZWGRfd2l2WVpVVk9kZUhBRQ?oc=5)** _(Mon, 28 Sep 2026 20:28:00 GMT)_
+- **[Pennsylvania surpasses 900 measles cases - The Hill](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDBiSGZOdUNlQjhoMUNLeUNHWTVlWlZQbkp6ZkhsODU4VG9DLW9OSzdFbUMxQlZnazZMS0dfdDdJV28tVDZhNXFnN0RpUHhlUkZGN0U3UmVreklCc1pPaUlyZjh6eXMxQUFrNFVXTDd2dVlnVTBESzM1QkZqeFRTUHNvZjNBYUsxSG9qMzVYMlpKWElo0gGaAUFVX3lxTE8xVGlNeUhhTmNiQ0pYUnJMNThFWnB0MUhQQ0tNRVZYVlBfSUxFVkdnM1ZpZHZtajRZRGVVQ1hkbkpJTEdhbncxQ0k0TXBGNnFIR0t4NFdQRE5mUVp4VTg0LUk3UnYybGdSTzVpXzZoeDFmRWVCOHM4Y09WWDJpS3Ryd0UxVUFUczFVVUIzX2xna1N5SE53TUFPY0E?oc=5)** _(Mon, 28 Sep 2026 22:19:00 GMT)_
+- **[Radiotherapy as effective as surgery for prostate cancer - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUNjeG1KRHVZaDNnWjBSc3oxcnN3MDB2YzRwck52SDRYbUdmSkVhU3hEd3hKdWhJcWUxTmRrMzdKbG9fZzR5M1FyOG9ReUZ3dXh0NWpzN1RiTXlKcUM0OWliUHhLZU5Nb09kTTBxNlNDLUlCVWE1SGRKQjZZcDBWMS1oQzF5VlF4V0tldEtaLVVGSUhNV0ZNRkxsSE11RVpqZzJkbVpPRQ?oc=5)** _(Mon, 28 Sep 2026 15:00:00 GMT)_
+- **[Scientists Uncover Worrying Link Between Frequent Cannabis Use and Seizures - Gizmodo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmxRbkVoU0RqWlRxYS1seldtRVVSTzVrUUZROHBTNUM3V0JzaUdOR0NMN0U5WXU1WkoxQnNfSDBTbndNV1dEb2UxbTlNa0pPSXR3Z3poZVlMamZoWUR3SEg0LXJ1YXJtN2xVRUVrVWdTbTNXU1hSNTNRMnJGQUZ3ODEzSmd1Yms1TU0zLU10cUpidmdfbDRqNVJ2aWRib2tkTWR3NmFyR3dDdw?oc=5)** _(Mon, 28 Sep 2026 15:00:33 GMT)_
+
+---
+
 ## Digest Date: 2026-09-28
 
 ### Source: MedPageToday.com - medical news for physicians
