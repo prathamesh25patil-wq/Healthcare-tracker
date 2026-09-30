@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-09-30
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Is AI Coming to the Medicare Annual Wellness Visit?](https://www.medpagetoday.com/publichealthpolicy/medicare/123191)** _(Tue, 29 Sep 2026 17:08:15 -0400)_
+- **[Lindsay Clancy's Lawyer Now Questions Whether She Killed Her 3 Children](https://www.medpagetoday.com/nursing/nursing/123190)** _(Tue, 29 Sep 2026 16:51:39 -0400)_
+- **[Fractionated SRS Improves Local Control After Brain Metastasis Resection](https://www.medpagetoday.com/meetingcoverage/astro/123189)** _(Tue, 29 Sep 2026 16:10:58 -0400)_
+- **[Trump Administration Suppressed USPSTF Recommendations](https://www.medpagetoday.com/washington-watch/washington-watch/123188)** _(Tue, 29 Sep 2026 15:55:11 -0400)_
+- **[Doctor Describes 'Liberating' Experience of Walking Off the Job](https://www.medpagetoday.com/hospitalbasedmedicine/workforce/123187)** _(Tue, 29 Sep 2026 15:38:30 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Hidden habits that make your social anxiety worse - and how to break them - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VYnM3TWlQRXNLcjhvNFRpSTVLTS1XeGF1R19ETFI4ejhMQ0UzdVlkeW9ZSjF6SnJGWFlHMnhUOFNKWnZGRDRNbGhpY1F3ODlIZ3ZSRFZJRGI0TTA?oc=5)** _(Wed, 30 Sep 2026 00:44:50 GMT)_
+- **[CDC updates measles toll, now counts 2 deaths - The Washington Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjVYZ1JndXc4dWw3cXlEVXVERUdzZFpUdEtIZHJCSGRhZU5QVG5xV3Rmb1BTbms3SkZSbXhJakJVbjVGR3REVDFkanhSdEp3TmtkdGxmVFFuN3NaZkJiTzlsd0Jpa1VwRi13aGc2OHNuOEV3Q2J2c0lObVB0SFVxVzRlMHlHdjI0b2lVMHBaTWtvc2h5VUlENHlR?oc=5)** _(Tue, 29 Sep 2026 22:30:00 GMT)_
+- **[Dengue fever outbreak triggers states of emergency in 3 southern counties - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNTktmZG9lZEJsSTh3eDc1MTNKQS11SjBmQnRZX1prZFIzV050c0UxTThqVEdkYTdON1BaX0xidWJuaG11WkRkd1J6QTBscFppSEVTbmdDZ3QyS3JVZVpJUzBYcFNKZEhPMG9NX2JRcFVZdXM5TnY1SVlFZEwwMXN2dUhCbXduYk5wcGdDN3pvLXNPMEpRczg4bGtxTjZOb2fSAaQBQVVfeXFMUHhnSkZWWDN0U0k5UVBCdGNYbW5HbU51d0lXa2NFeDdYZVlRX0sxXzhJTU1vZWZlaXJhU3pjbVJaUkk2NGk4N1pCQjZOUkZraS04UDRKTUd6S3JTZnpMTlM5Q0ZqWFRHdUk3VGlmLW8zXy10RDZkdHJJRFNZSWlwbWRYc2hrT0pnbklGR1RhSUVhMnVwMzIzRnI2X1VkYUN6b2NhTUg?oc=5)** _(Tue, 29 Sep 2026 20:04:38 GMT)_
+- **[Congo’s Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - AP News](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHhqY2sxMy1CdFpVTmd5SFBWTWx2eEozaFl6NFZBR01jZjY3NWdxZzlBbzVVeW05VHJUcGI1b2ZDNGgwTXBMc2VUckNfSkhsMjdweUR0a25yNmsyeTdXZXpHZXFKOG9vMVBKcnYyNGFZUmcxa0w5LUd5Mm9iVEdZWGRfd2l2WVpVVk9kZUhBRQ?oc=5)** _(Mon, 28 Sep 2026 20:28:00 GMT)_
+- **[New mRNA flu vaccine for adults over 50 is 'more effective,' UW Medicine says - KOMO](https://news.google.com/rss/articles/CBMi2wJBVV95cUxNRU9aLXMyMF90R3ZlLUJWN2ZjRDREcnE0Z1E1VEhUaF8tcnF0Nkp1MEhJSzY2MlZ0S1ZoQnpFcTdBQU1lZGdOaXhZajdGemM3T3ROYWYzcS1VSUV2U3Y1c1k5bmlLVkJfdzB3YTN6VDd6MC1PMGtQeDhIZ2lQc21MLVNNVEJBZG1tTy1YMWlROGRSUmFsVk9rclFsdzN4b1RDV2Q5Unh4c1JvZ1BJcTJNLXY4T081QnpFQTlmWUJ0clJoRURyeTZtUi1zTnFfSVR5WlhmMEwtS0xFLWFDdjJoc1VYYnRMRll4UU96U3hzdFNqLWpnTDU4eFpjdmkwd29DNmVNMGhjdzc1QU9TZDlUcUQyeXVCMWUzZnJURkppWVA4aGRHb2xGWjR4Vm5GMHc3Rmdoclk4T3lENXZGQUVPSnNQYnVVVzc5OUJZZEswNktkX2daU08xbkRrWQ?oc=5)** _(Mon, 28 Sep 2026 20:58:47 GMT)_
+
+---
+
 ## Digest Date: 2026-09-29
 
 ### Source: MedPageToday.com - medical news for physicians
