@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-01
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Epic Fail: Robots Don't Improve Joint Replacement Outcomes in Big U.K. Studies](https://www.medpagetoday.com/surgery/orthopedics/123201)** _(Wed, 30 Sep 2026 18:30:00 -0400)_
+- **[New Easier-to-Use GLP-1 Pill Safe for the Heart, Study Says](https://www.medpagetoday.com/meetingcoverage/easd/123204)** _(Wed, 30 Sep 2026 18:01:00 -0400)_
+- **[SERD Combination Slows Breast Cancer After CDK4/6 Inhibitor Progression](https://www.medpagetoday.com/hematologyoncology/breastcancer/123209)** _(Wed, 30 Sep 2026 17:32:37 -0400)_
+- **[Who Should Manage a Hospital Cyberattack?](https://www.medpagetoday.com/opinion/second-opinions/123208)** _(Wed, 30 Sep 2026 16:54:59 -0400)_
+- **[Unexpected Lack of Survival Benefit in Liver Cancer Treated With Proton Therapy](https://www.medpagetoday.com/meetingcoverage/astro/123207)** _(Wed, 30 Sep 2026 16:36:30 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Pennsylvania reports 5th measles-associated death as outbreak continues - washingtonpost.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPczVjQ1NHM3FSdms2b0EwMUFNdzNnTUlLbjQwY0RQUVFuN25aSWZUbzI3NHNTUVlLcWU0RlNlc1Q0RDBRcHJ4bFk2TmFRWlIzVHNNeHRrLWJGSjZiNE40WW1CeGtLVnlqYktlWUx6cWF2NkpOLWNtYTdkeEtIbmxMSGdZek9jNWdqTlpzVGkxRFptbWZIZVVXQ3ZXN29rZ09POGVNWHhtUzU5aVowMXR3Q0huTWdJenJfbFE?oc=5)** _(Thu, 01 Oct 2026 04:27:42 GMT)_
+- **[Health Department says zoo visitors possibly exposed to measles - WANE 15](https://news.google.com/rss/articles/CBMingFBVV95cUxQcnR5a2VfYWZmb0Rjbm4za19WQzFVU2xFaXF2U01BUEFCZk8wZ3ZNeERacjNRWXZCRjdTbHA5SXNfdnlkd3cybUd2SWxjWk1ZelB1OXRNS09nUG9lRGxrQ3N0SWdlNlR3NWV4ZmRBUFp5OU4tendzcEowM0dtZmVqcTU0Z1pmZ0IwREc1cHlfa1hlcnRoWlBRdDFFQndhd9IBowFBVV95cUxOSEFCQklsam9Ed2lXaVV5QzM3d3FGendaaW1LaGw3MHR2aTM5aUlRYmVYaFZOSHZ3b2l0WHE3Um1iUndnQ1RQclR4NDdfTVEzdEtxZW9oaDduUGNaeWlTVXVVREN4MEtnOGdTZDUzSWJwTHZzelhXSExGUmdKcGR6U3U2QmpjRTVValQ2YUUwY0FFV2dXdEpLbXFQRVRvOUlJTGl3?oc=5)** _(Wed, 30 Sep 2026 17:58:50 GMT)_
+- **[As dengue continues to rise in Florida, some are worried about underreporting of cases - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXBxRFY3ZGFjLWJKYklxb1d2RXpDbXZoN1F3Tms2YnZ5QUlvbnRjWV9OQzVrS3FUVWt3NWZyazhmS1h1VFV3OW9YMVFJeTRPQ09EelplN1NnNjBWOHptMG5oVHpfWXJaRUJLSk5lanRNclp3X3N4ZExlbHlvNHM2N3ZIWFg3RUtPdkU2aXkzYkJHYUR3V09xTlF6MlN0TUZ1ZFJDRjBBONIBrAFBVV95cUxQcGdLa203WDJnYmZ0cXg0cDRkaWdkVE9INlpuUzVEcHhFT1RsdUp4OTZ4T0FIZC1KS1pXQms1YktTVVg2ZXJvS3hBTWdVRmVHR2I1M1Q1MXYwYTNVV0diRnczOTVIUmlueldYZ19Jd1RQVXl3V1B4OEhmdzluQmIzU2xSZkFyQWJJZVQyclZvbEcyZ2xtMl9PU24wRGtQYzl1QVprdmlrb3hteVh5?oc=5)** _(Wed, 30 Sep 2026 16:12:55 GMT)_
+- **[More screen time is linked to poorer child development, study shows - CNN](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa1d4UXNxQ1FQYndGRkYyaUtvUzVibzBVV21GczhGNG5GVmFnT0ZadWNRZXdzOUZ2QzZ6dkNHWmZybEVFeU9fTlkwZUpNUzRHOXJKSTNUMmVhem1ZZjRlbGlNRWg4UWJYTjRjWmdybFBxWUQ5RmFDRzFWYzlLMEhWd3hBMHAtWGZkX2VF?oc=5)** _(Wed, 30 Sep 2026 14:32:23 GMT)_
+- **[Sugar-rich foods exacerbate antibiotic-induced microbiome disruption - Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5)** _(Wed, 30 Sep 2026 23:17:28 GMT)_
+
+---
+
 ## Digest Date: 2026-09-30
 
 ### Source: MedPageToday.com - medical news for physicians
