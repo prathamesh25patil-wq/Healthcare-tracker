@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-02
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[FDA Approves Only Surgical Pulmonary Valve Fit for Growing Kids](https://www.medpagetoday.com/cardiology/generalcardiology/123240)** _(Thu, 01 Oct 2026 17:40:46 -0400)_
+- **[Striking Weight Loss Seen With Combo Drug in Diabetes Trial](https://www.medpagetoday.com/meetingcoverage/easd/123239)** _(Thu, 01 Oct 2026 17:29:23 -0400)_
+- **[GLP-1s Tied to Detached Fingernails in New Study](https://www.medpagetoday.com/meetingcoverage/eadv/123238)** _(Thu, 01 Oct 2026 17:04:29 -0400)_
+- **[Docs Condemn 'Cornell 7'; Patient Zero vs Primary Case; Top 10 Natural Laxatives](https://www.medpagetoday.com/popmedicine/popmedicine/123237)** _(Thu, 01 Oct 2026 16:41:32 -0400)_
+- **[Doctors Push Back on RFK Jr.'s AI Comments](https://www.medpagetoday.com/practicemanagement/informationtechnology/123236)** _(Thu, 01 Oct 2026 16:11:26 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Pennsylvania reports fifth measles-associated death amid outbreak - USA Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmExb1dGYm1fc21wSnhLRElBWWRDU3RodDV6bVJ0VWhtM0QxbG5MY18xMjFFaEl0UlRnYVdSQm5fSkotZHZrREhIZkd1VmJyQVlNWDkwYzZNOTE1X3hwV0ZSck5IM042MVVaMWxYR2NJWU9ZU2t2MGI4UFUwUmVydG5mSEd6U3piTG5fRmpJSWk2OVFrbWtvM212TURoV21yY196WU9uM2tjMThx?oc=5)** _(Thu, 01 Oct 2026 02:24:00 GMT)_
+- **[AI ‘speech clock’ assesses how fast you’re ageing from your voice - Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3YkVXRk9hSVI2QnYyUW5oWUZBbS1HX1NfZkxkcXlXU1puVjdYbU9ybzB5dC1rbjlMMlI5U19oOExOeDQ4b1dPSGczS1pIYUlqb1Q1MVdnN1JwTVZQYmh3?oc=5)** _(Wed, 30 Sep 2026 19:32:49 GMT)_
+- **[2 more northeast Indiana counties catch measles case - WANE 15](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ3E3M0VWMEVXbkstTk9EOTRTWHZTOUtrMHdxVWJSWHc4VVdpZzVZSXdIVFRjVDVmemJaMHZVdFRFcnZTaGpoSWlxVDRlTmNuUHJNeklLNUFPYXcteEo2YmFaYmV5eWJNaWRHaUw0akFiQkh6YWJqVlJiWUhGRkVfOFhfU2k1RVZXYVV3SDZGNHDSAZYBQVVfeXFMUHdVQjk2LXBGczh5T1c0WXd1dkJjYTcwZVhaTEpqbFFuSkEyUjBMN3NyRTNjNzRYZnh6dkZQUEEya29qTjJvVzd4T2xYa0xOM0lRNk5tN29wVzF0YUY4Vk9sNno5VktPakQzVmlEU3lZcE5WY0FwYkdZZ21yS1FzZVdZQ0o4N1c0bGJzYnhMSlFuazlYaHB3?oc=5)** _(Thu, 01 Oct 2026 14:29:29 GMT)_
+- **[What to know about your breast cancer risk as Breast Cancer Awareness Month kicks off - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHBEWTRKQ3Q0N09kcFcwM2l3WHdNNjd4dkxmQVNNTjkxY0M5SmFHMzI2SklibUtnZzVSODV0c2pEZWxNckVzM1NWbGNjRnJ4N2UyR2Q2VGFUNl9TQWlBeExLa1l6ZnI3QXpBMTVWZ3ZWRFJYY0VyWUFja1FBYkM3TFdTMFVrTndpdVlMOUVMcnVwSkdIbGNsV2Q2NjczYjZ2akHSAacBQVVfeXFMUHdwbjVoOXJXTFRCZGxJUDVpa25uRl9NdW9fWkQxTlJXc1h2cFBNd3NVcFpaN251VGJvbUl6cHJmMDV5WFc3dXhHZFVzRmdMQjdLNVhudjYwMmVoc2RIa0pyd212OUVHTTRCMVNfTWhFMHBQQTd6VlV0LXlOaXZUSGl4ZDRiWWJmV3pTd2xmekxqSDExSUo1Nm96RXpqU2ZEZlkwUURlVVE?oc=5)** _(Thu, 01 Oct 2026 12:31:53 GMT)_
+- **[Bats found inside Puyallup elementary school; health officials recommend treatment - KOMO](https://news.google.com/rss/articles/CBMilAJBVV95cUxPV0lndnpTc1Z1bGhfb29lUEhoNkxLLU5pQkJfcVVzRVo2MlV1NTRmLTE3eFhjSi1WalkteFJEQ29vZ0FmbjFKajVNS0lwVWlweFZKTE1yUEtoQmFRTkR4RU1aUUx5aEJNejFRUWFORzVDMy1MWjF1YXVPSzVSYk1lcGh3NVpNMHBsWGZqMmdTU05mWVpUNFd0UDl2Yl9pZldqbkdVeWY2bDVBbzBfOXgwZXM0RWoxSHlIQzl0RmN6eFFvOUtlQmxtSWNZa0g0RnBPMXd6eTRNRy1aWXQzdUFHcHdfc3M1QWM1aUZIeVpXWm9jOW4zbDZwdkk5QktXTFloZkhVUTVTUVlJZTlBcE9CSUpBNjM?oc=5)** _(Thu, 01 Oct 2026 23:01:44 GMT)_
+
+---
+
 ## Digest Date: 2026-10-01
 
 ### Source: MedPageToday.com - medical news for physicians
