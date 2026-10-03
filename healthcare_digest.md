@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-03
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Non-Covalent BTK Drug Wins Broad Approval in Most Common Leukemia](https://www.medpagetoday.com/hematologyoncology/leukemia/123263)** _(Fri, 02 Oct 2026 19:07:43 -0400)_
+- **[Bird Flu, Actors, Unannounced Drills ... CDC Study Has It All](https://www.medpagetoday.com/infectiousdisease/infectioncontrol/123264)** _(Fri, 02 Oct 2026 17:42:58 -0400)_
+- **[Ultralow-Dose RT Quells Bone Pain in Myeloma, Preserves Bone Marrow](https://www.medpagetoday.com/meetingcoverage/astro/123262)** _(Fri, 02 Oct 2026 17:24:22 -0400)_
+- **[Retatrutide Delivers Substantial Weight Loss in Type 2 Diabetes](https://www.medpagetoday.com/meetingcoverage/easd/123260)** _(Fri, 02 Oct 2026 16:53:45 -0400)_
+- **[More Medical Debt Linked to More Deadly Cancers](https://www.medpagetoday.com/hematologyoncology/othercancers/123259)** _(Fri, 02 Oct 2026 16:25:00 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[An Ebola treatment center was burned down as the death toll in Congo passes 4,000 - AP News](https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5)** _(Fri, 02 Oct 2026 20:18:00 GMT)_
+- **[A 20-year-old Amish woman with leukemia got measles and died in Pa.’s largest outbreak in three decades - Inquirer.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxORGRDejlxZ2NEY2VMWVZJMGNJSUpFMjFwOXBHOFZ1aWFmSF8tX1NBMlRNVVBVTm4zZU4xMVBQUC1VWHFWa2l1OS13cmhGOHZEUENjM3VMTno0N2tGeC1XbGVHVV9aY1kyWEYzbkczaWxEeDZBaVl6akFWU2pLbzdtdjdISjViWGh4WER3WmJaMTZjdjMyVmRYaGJKQWRjOWc?oc=5)** _(Fri, 02 Oct 2026 21:44:56 GMT)_
+- **[Florida’s dengue outbreak is now the largest in the continental US in decades - AP News](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaFJOa1Y2ZEl2Rzc0Y2NRcGtibk1VeHhEZ0prTXNWQk02U1BSRmxXNWRjM05Ncy1oRVUwVGs0WWxzaEIxT1JTMkthcUxUWnlTVlhWTTZKMmJfWlZDZm1oSzBZQzB0SmlyQzBzZndCSmFHY0ZmcEpZLVJNMS1DUGhfOTMxLTdUdEgtbUNXN1pBVG93NGM?oc=5)** _(Fri, 02 Oct 2026 19:57:00 GMT)_
+- **[Respiratory virus season has arrived. Flu, COVID-19 and RSV vaccines are available - KSL.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZThzUzV0anVybC1Kd19RTXNTbVNHT0FEZ3pyOUNzc1BEWG1INmZ6UVB2Q0hPQ2Q0UG5nR1dmdlV3b3NDbGhsazN4cE5MUjBYY2NEVTBCSXZpLXhPTlVxMlQzVUVYMUV1VldOaG1WNDQzc2hKWU03X0tha01SczdFbjhVbEYxTnZMMW91TzlPOGlwWXJuSGJSZ2NlZmdYaGhCQmhBZw?oc=5)** _(Fri, 02 Oct 2026 13:28:49 GMT)_
+- **[Colorectal Cancer Is Rising Among Kids and Teens—and It's Not the Same Disease Adults Get - Gizmodo](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU1ZMGhha3ZGbWJmdllMZHQybEx2YTFrNC1kSk1PX3doeXlBVlI5eWJIZHYydHlZaUg3TlRveXVSWDl4NUw1cTl4OXBURWJwUkpOMG1iaFg0cklWbVBpYTNVckhpMUVPTEcwRklYbFZjZURwOHFMTy1CSGZBV3o4TVFDWWx0MGZVXy1HN3hjNzJvUThUTllWN1A4NVBjV3lIM2llX2hYVUp2akZZSVh1aGRTQVpVRGhyaHhF?oc=5)** _(Fri, 02 Oct 2026 13:30:28 GMT)_
+
+---
+
 ## Digest Date: 2026-10-02
 
 ### Source: MedPageToday.com - medical news for physicians
