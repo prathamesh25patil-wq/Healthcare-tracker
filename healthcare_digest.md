@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-04
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Improving Primary Care for Chronic Health Conditions; New Target for Asthma and COPD](https://www.medpagetoday.com/podcasts/healthwatch/123252)** _(Sat, 03 Oct 2026 14:00:00 -0400)_
+- **[Investigational Drug Shows Promise in Myotonic Dystrophy Type 1](https://www.medpagetoday.com/meetingcoverage/aanem/123265)** _(Sat, 03 Oct 2026 13:00:00 -0400)_
+- **[Lessons From a Year of RFK Jr. Disinformation](https://www.medpagetoday.com/opinion/second-opinions/123249)** _(Sat, 03 Oct 2026 12:00:00 -0400)_
+- **[Florida's Dengue Outbreak Is Now the Largest in the Continental U.S. in Decades](https://www.medpagetoday.com/publichealthpolicy/publichealth/123261)** _(Sat, 03 Oct 2026 10:00:00 -0400)_
+- **[Non-Covalent BTK Drug Wins Broad Approval in Most Common Leukemia](https://www.medpagetoday.com/hematologyoncology/leukemia/123263)** _(Fri, 02 Oct 2026 19:07:43 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Doctor Groups Fill In for CDC During Flu Season - Newser](https://news.google.com/rss/articles/CBMiigFBVV95cUxObkZqMXdpWEZrSWo2aXZON0dYZHFUSG9kMXB0bHRnbDFEZHpSOTkxdEw4VGpoQ1p0TVZwZHBQQXBQcnVNNDRtWnN2SzJQWk5SOUJxeVh3SEdTc2lOV3VWN0xnSGo2LTczdEhkV1RaVVBYc0libmdPRmdWZHhLYkZvaHRHb0NCaS1vVVE?oc=5)** _(Sat, 03 Oct 2026 14:10:00 GMT)_
+- **[An Ebola treatment center was burned down as the death toll in Congo passes 4,000 - apnews.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5)** _(Fri, 02 Oct 2026 20:18:00 GMT)_
+- **[Pennsylvania nears 1,000 measles cases, state health department reports - thehill.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQSmFENmM1NGhTV1hDTGVEZUpBczdITHZvZHU1WlFhb212SDlBY05yMjIwSFI3R1RucG1LQVA3Z29KaEp5VnAySzRLdDRmZUhYZmY0Zm5tSDlBTzY1OE5XbFVNMS0yOGpLd05TYXdfMnVUc0JUOFdxREJBRlFwZmxuT3lvalR6eEJ3bWJuWTlyOW7SAZYBQVVfeXFMTUJ1em9TQ3JEbmlEcDNwVzZXWXh1OVNBdWZFNEZtMUl6cHhKYlRfU1hDUTFnb2RZclFmTWRzdlRnQUEzY0tiX0ZNNmZMbXZwdkdoMENSTExjREQxZ1ZLZ3E1b01pVzdzbUtuUHBsMURvempZd0pxOFl2OG1VbWJ4M0hrS3Q4RGMtN3dKVEp5SXl6OHRQREpR?oc=5)** _(Sat, 03 Oct 2026 16:11:00 GMT)_
+- **[This state’s dengue outbreak is now the largest in the US in decades - The Independent](https://news.google.com/rss/articles/CBMilAFBVV95cUxOYko5T1I2QTJ0MWF0b2hXU3Nxc213ZVhJamNzUS1BQjZ2MlB6cEUyWGZtdUc0Q3hyalFQUUJ0ckRiWjJ1OHNkYlZ3Yzd1OEh6b1Vqa0VmNS1FVi1iODBiRnprUFJ6VkdnX2pVenBTaFlSak9WX2sxTllEQ0NLaDVyRkVCVlcwU2J2UVlRdUNDajFsWkFY?oc=5)** _(Sat, 03 Oct 2026 21:14:00 GMT)_
+- **[10 New Measles Cases Reported in Lewis County - wktv.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXhZd09TcS13dFZ1NmpMNlVhUDRLMGQ0NlRBM2pSdGgtR1Qyanpid3NQMllQMmtVSU15cGdoa29qRncwQXo4SWZZdmZJa083OFc1LVJHZC00c25DOXNfMXk4N21HMi1ONU5SNlZQaGRSd0N3cnhjLXhHdWUzSE0xY0JYVHpZMHhLZXltY0FTeUpULTg3UmQzclRtazFUSFF0U3J5eVZGVW1KRmstSUtjMGtjZkJLRVZ1TlNsWVkzcXAwY2xpSzZz?oc=5)** _(Sat, 03 Oct 2026 02:51:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-03
 
 ### Source: MedPageToday.com - medical news for physicians
