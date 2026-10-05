@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-05
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **['Better Informed Than Any Doctor in the Country': What We Heard This Week](https://www.medpagetoday.com/opinion/what-we-heard/123253)** _(Sun, 04 Oct 2026 16:00:00 -0400)_
+- **[Ocular Myasthenia Gravis Scores Improve With Subcutaneous Treatment](https://www.medpagetoday.com/meetingcoverage/aanem/123266)** _(Sun, 04 Oct 2026 14:45:00 -0400)_
+- **[We Keep Treating Resistant Infections. We Rarely Ask Where the Resistance Came From.](https://www.medpagetoday.com/opinion/second-opinions/123251)** _(Sun, 04 Oct 2026 12:00:00 -0400)_
+- **[Why Now Is an Ideal Time for Flu Protection](https://www.medpagetoday.com/infectiousdisease/vaccines/123250)** _(Sun, 04 Oct 2026 10:00:00 -0400)_
+- **[Improving Primary Care for Chronic Health Conditions; New Target for Asthma and COPD](https://www.medpagetoday.com/podcasts/healthwatch/123252)** _(Sat, 03 Oct 2026 14:00:00 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Flu season is coming. What Michigan residents should know about flu, COVID and RSV shots - MLive.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjdYMjBvUUxzRTNHT29JSWVoNTFxZDJNb0F1TFFxaUtXdEJhZVlsMTZDcHFPM2d0bmxrWU1YT05CNTdyLVpHMHZSYjdVSF9weXAwUnU1M1VDTFNmbDZST3NjNmVIZTB2blhyODJKbWJ5MUNKMUFoejZvanpWVUtqcWdEeFZFd1k4NXkwdXA2QzgzMjJndm9MU2lmbU5EY01lS18zV2M2VWRGSWV1aDlkSUN0WHFvbHhtanpSX1BCMzZsbWVv?oc=5)** _(Sat, 03 Oct 2026 21:45:00 GMT)_
+- **[An Ebola treatment center was burned down as the death toll in Congo passes 4,000 - AP News](https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5)** _(Fri, 02 Oct 2026 20:18:00 GMT)_
+- **[In early clinical trial, people with Type 1 diabetes are able to go off insulin - NBC News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUtvS1p2dFpFVDNrZW13Rl9MRmNvbWY0cWgtVGJMRWFYQmZ2cjNxd1pndTlkQVlPWUVEQ19PZWNDclhycF84RjZCTnVnM25LNnZOX3lWaHdWTWo5SjhGX1RpUkxyTzQyUV81NXgyNGxfOGR0Wmd5dTdIakhyLURGSjk5T2lrdkxYbUZtcFJmbkpjZjNhN3FLT3FLVTlSNnhFWk9HUl9DY01sbHNUQm5Kd21ZZVRja3d2?oc=5)** _(Sun, 04 Oct 2026 22:00:41 GMT)_
+- **[Digital media can be dangerous. Kids use it anyway. Here’s what parents can do - CNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlZ2T2xyWnpiTWNrZ0JaSjFtY2xETXNMUWRlN3hkWVNtNTBnWmJCZEx2RlFxZDdhci1Ka011b2o1MEpCOTZienhDajVmRmdfN2gzWWpHU2NHNm9CVHFIUWZpYjBZcDg0N1d3TnhxRWRhcDlpS2xycFNMWFdZeU1hRVctbjc?oc=5)** _(Sun, 04 Oct 2026 22:30:45 GMT)_
+- **[Pennsylvania health officials brace themselves as measles outbreak expected to spread - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHZZbzctb1Fyc1Q3UnN1OTFpelZpLWVsc3dFZGk1eHc5ZjhUdlY4VlFtTEludmlLMzVYSVVKaWlaeHozSUtndFUzSWtUZ1VYYW9RZHdnUkJhZ0xCRHZGNUJoU2JqM242aEdwZHFROUxjamUxTy1uQkR2cUtmZ1BtOXFLNGpLWFJjWWpLU2Y0WGRtTUl6aTNvQVZ3?oc=5)** _(Sun, 04 Oct 2026 10:02:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-04
 
 ### Source: MedPageToday.com - medical news for physicians
