@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-06
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Autism Linked to Maternal Health Factors](https://www.medpagetoday.com/neurology/autism/123283)** _(Mon, 05 Oct 2026 17:27:39 -0400)_
+- **[Private Equity in Medicine: At Odds With Doing What's Best for Patients?](https://www.medpagetoday.com/special-reports/features/123282)** _(Mon, 05 Oct 2026 17:11:41 -0400)_
+- **[CDC Warns on Rise in Deadly Fungal Infections That Spread to the Brain](https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123281)** _(Mon, 05 Oct 2026 17:04:26 -0400)_
+- **[New Guideline Recommends Hormone Therapy First for Menopausal Symptoms](https://www.medpagetoday.com/obgyn/menopause/123278)** _(Mon, 05 Oct 2026 17:00:00 -0400)_
+- **[Low-Calorie Diet, Exercise Reversed Type 2 Diabetes Without Meds](https://www.medpagetoday.com/meetingcoverage/easd/123280)** _(Mon, 05 Oct 2026 16:33:23 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[New York state declares measles disaster amid resurgence of disease in US - Al Jazeera](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjhoWURHcmVRdjNWX3ZtOUU3RmQ5bnliUkNxZVVPUDhzajdYMHpKRWpxemVpU3pIV1lDc3JzM3VpMnJZWUJ3N1hJOEE5OFZ5dy1yRnJ5eF81Y1I4eTJiYzZZVGRraFRrQ1ZVVzAxSHd0OVFVMG5KMXBqdzV0QXlLcm5rSHM2VGhGVEg4T01Md0R3M0ZkZ1o2bi1idDVZMmNDWEF1cFN2NkdhY0tDbmdLQ1FLd1_SAboBQVVfeXFMT09JUnYxRzA5RURxQkNmcENCNWJnMldidzFJd2RCbUk4eEVGcmhIdHJSM2x0dklMNUlnazk3dUVRMWhITFBPLW1sbTFnN3dfZWRUTXNGTHgzaHNXZHZGTm1qZ3lBa0pVb0ZiSl9WOUdORmVQdXNjNlRpYnp2ZUd5UzRWMWxxM1lPRnZURGNWSHY5bzJDSDNVZU8zZF9HRXAwajFQQTRQaEk4UlVwOEtsc0ZHbDk1S1A2TUNB?oc=5)** _(Tue, 06 Oct 2026 03:27:48 GMT)_
+- **[Same calories, different responses: Food processing influences metabolism and brain activity - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWJkckdEOE9Na0U1OGVSa1ZMaW40dVY3VUxsZ2psVGxGLUowSW5QY3A5QjVVTkQwdjVyZzU5WklGbUdNREVxMVBSRmVuTEJKbWp1YlUzcXVkU3pORVFneC1Rc29jR2lCdXJuTjNKeVBYdHNMT3p3Z29Ick45SnlGLURfbk5kbFRsZkhOUw?oc=5)** _(Mon, 05 Oct 2026 09:00:01 GMT)_
+- **[Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUndycTl2a3JFYWpFNDVPRWtKQ0Y4cDFVSXlrWUZwODdQTHoxTDBDOXBDdGRKREZMQlVlV3B6OGlOcnptU0FxZW1wSTZWcFJNNXdWUzYxV1E0UFJWMDREMUY4bFBBRXRMNmVfNDhKUGVxMVVJWm1XTWFiRlppMFFQSFNLam9jNzNiQllJM2lKRkR6cXhaRzlNOU1WQXpQUnVxcTg0?oc=5)** _(Tue, 06 Oct 2026 03:19:00 GMT)_
+- **[How Congo’s Ebola Epidemic Got So Bad So Quickly - nytimes.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1E2QXFfdHh5YVFudTdTUnowN2F0RjBZQVNINDNEaFQ5TWtKc29JdXpZTjhsd1NMMXpwX0t6ajg2WUFYMEpLWVItZjJyQjJYNUZJSDVZVmFISEtXdldqamt3WExucXUxUUNvZkp6emw2bXN2SWhibHpjcGNRZEk4bDF4XzQ?oc=5)** _(Mon, 05 Oct 2026 04:01:27 GMT)_
+- **[Could carpal tunnel symptoms be a sign of something else? Amyloidosis found during surgery - ABC7 Los Angeles](https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3N3YmN2a3l2cjR3UzFteDJiRlNuM2M4ZFpHUVpSM1ZYR3FlbEJsWlJnY2llRUprOFFzcG9oakFydy1SbWlaR0RxMXprSGlMNlVtVjFsYW9ic3FvaTdnQ3RvNlRHX0NXalhCY1FYUkl4U0EtVUlNbDhKMldrYUlJdWxkQ0FQRVRwQzVGYlpzemdJNmY1UVo0OXRKN1U0LXk3LVBZZjBwQUp1c2NLUTlqQThnY9IBuAFBVV95cUxOeUJBMTdkeWowVWMtYklCSlFpb0NEcGJqX29rMGpPN08yTEdZLWJQR2tCeVFyT2pIRjJxSHQxZGpXaE1lOUNjTXhqYm0tQWxGVEdja0M4LUtubVFZNE1zNWZmS3FzTy1tTHdkZ1o3U1R0M1BzaXllTks2YzVfVzFZdmJjZ2l0VHlfTXNJcVlDM21LU08wcWdLOWotVmxmeHZ5YmE2Tk1HM2lwa3cta0t3bW01NGR0NGd4?oc=5)** _(Mon, 05 Oct 2026 19:52:59 GMT)_
+
+---
+
 ## Digest Date: 2026-10-05
 
 ### Source: MedPageToday.com - medical news for physicians
