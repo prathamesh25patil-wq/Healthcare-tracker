@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-07
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[These Nurses Are Running for Congress](https://www.medpagetoday.com/nursing/nursing/123299)** _(Tue, 06 Oct 2026 17:28:31 -0400)_
+- **[Chemo-Free Regimen May Be Effective Option for EGFR-Mutant Lung Cancer](https://www.medpagetoday.com/hematologyoncology/lungcancer/123297)** _(Tue, 06 Oct 2026 16:39:36 -0400)_
+- **[Senators Probe RFK Jr.'s USPSTF Overhaul](https://www.medpagetoday.com/washington-watch/washington-watch/123296)** _(Tue, 06 Oct 2026 16:14:53 -0400)_
+- **[Brain Damage After Anesthesia; Obesity and Dementia; Alan Alda's Parkinson's Disease](https://www.medpagetoday.com/neurology/generalneurology/123293)** _(Tue, 06 Oct 2026 15:35:42 -0400)_
+- **[Squats and Planks for BP Lowering; DCBs Compared Head to Head; GLP-1s for HFpEF?](https://www.medpagetoday.com/cardiology/generalcardiology/123292)** _(Tue, 06 Oct 2026 15:25:46 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Measles case confirmed in Allegheny County with possible exposure at Target, health dept. says - WTAE](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXBCNkc1X1lJM004ZUhOaWZGRTJjSHYyTVp3bkFiRlgwdEpSUzQ1cTdxWUtYN1pkNG1fdWs0dXltME1pTldXeUxuSE5FLVdRcFY4cDQwSUp6azRBUFdza29zT1dKWjV0a1JqVFdrMVM2a2cyRGMxUlBCaWNaSk1WSEpueDVfc3ZJdURmejdnZTlFdUZpWWc?oc=5)** _(Wed, 07 Oct 2026 03:09:00 GMT)_
+- **[New York declares state disaster emergency over rising measles cases. Here's what that means - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcm9OZXoxbTF4eVZzc1Z3cWdJaDJoTHhjVG9CWVJ3VkFFV1ZtNWtNTnlzUFRMeGdxc0xWZFAtV3NfWm5USmo0QnFTYy1TaG5vNTF0ckVOSkZrMWl4V1BQd25RLXZaNnFiZ2IyMjczZUNTVFlhdVotaWJvY1VhX1R4WnhfZG4xem0tN1Z6Y25GendFOE5uYWpDSGxwVHpvQXdmbkhYX2J3?oc=5)** _(Tue, 06 Oct 2026 19:06:13 GMT)_
+- **[Flu season could kick off ‘incredibly’ early — what scientists are watching - Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZGZfeGp2NVdzUjlOYkNSMjNEQ1hmdmYyOFhJTWRzYVE3NUpNdFVROTlGN2VBNEJfSHduYk9IdDh1OVJ5WXJTcDFoTVZja3lhWklQMS1sbll2eGk4WUdn?oc=5)** _(Tue, 06 Oct 2026 18:33:10 GMT)_
+- **[Scientists Served Processed and Unprocessed Meals—Then Compared the Effects - Newsweek](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDJHd3R2UnIwWnE3SDdrb0NWaEFwcnpfNXUxNEZWNEhycWRodmc5cnZwQjk2cV8tYmxTX1F1bVdMb19Gb2t6VTR4RjlqMTA0b0dpb2VaYXZjd2VNOVhpNjRCN0o0U19VRTNJcEVfSHBhWDZHY04ydkE3U1lhTzhjXzJ4RTV6bmZWMjdMSGlGQQ?oc=5)** _(Mon, 05 Oct 2026 16:29:00 GMT)_
+- **[Pediatricians renew their call for a ban on raw milk - The Washington Post](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnVPbmFjNEE1MzdraHBOYUtoREIwanA0OTFKQTJIakJRaWs0bWg4d3E4RzktZ1FJMFZJYXpoT0JHcjJlQ3FWV3NFdkRwVWMzR2kwRWxfd3c2LU9RMk4tbzNPWmdIUG1RM2cybFJqamVyd1J2NkJEQWZhOVpBSXN6cWJpd19EeVM1RVR0VGYyRnV1NDlJRmJF?oc=5)** _(Mon, 05 Oct 2026 20:00:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-06
 
 ### Source: MedPageToday.com - medical news for physicians
