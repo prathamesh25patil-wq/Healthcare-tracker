@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-08
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[LVADs Linked to Concerning Neurologic Events, Strokes Aside](https://www.medpagetoday.com/cardiology/chf/123312)** _(Wed, 07 Oct 2026 17:40:12 -0400)_
+- **[U.S. Hospitals More Proactive at Preventing Catheter-Associated UTIs](https://www.medpagetoday.com/hospitalbasedmedicine/infectioncontrol/123311)** _(Wed, 07 Oct 2026 17:18:21 -0400)_
+- **[FDA Expands Indication for Urticaria Drug to Treat Symptomatic Dermographism](https://www.medpagetoday.com/dermatology/generaldermatology/123309)** _(Wed, 07 Oct 2026 16:14:19 -0400)_
+- **[FDA Warns Amazon Over Herpes Treatments](https://www.medpagetoday.com/infectiousdisease/stds/123308)** _(Wed, 07 Oct 2026 15:13:12 -0400)_
+- **[Russian 'Plague' Death: What We Know and Don't Know](https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123307)** _(Wed, 07 Oct 2026 14:49:05 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[PA measles outbreak tops 1,000 cases, largest since disease was eliminated - Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDJBUEV3WHRnRTl4WlNDa2lsaFNicThRU3RsOGxKRzJCV2xkd25WN3FieDRSSFZfcVZlOUJTbVBLTUotYjA5ZElTWWF6aWFacmVILUJoNFNHQkhneEdCRzJ6NGJvdUZHNjBueHRtUWlTTmtEQktwekVpRVp0d2VnZVJ3d2ViNlJWNlVGcHEyNTRYTFI0TUd1bHhMUV9iWkwzTF9sVjRMNjJuQlZsY2lNOVZR?oc=5)** _(Wed, 07 Oct 2026 20:01:14 GMT)_
+- **[Expert tips for parents to prepare as flu season begins - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMingFBVV95cUxPMi1Mb2hmbHBGU0pscFZCNzBDVTltUEVtNmhyQU4wT0JQd0VDMkdBOWF0UHhzMVJUY0lQZkFSbVJiczQzTTVqSGxvQ0syWEZOcllsMmhXX00zQm1rNG0tc1phMExWMUx2d3l2c2U4Ump3Rnlwa3ozWTY2U1VGSkljYTVBZ3hsNG9yYTg5YVl5VVd4MU5qNW9rTmRoZTVwUdIBowFBVV95cUxPeDhCNVJuR21jaTVBa3VCajJ5WGhUdHVpTUlHZXN0OTJFb05OZUN2Z3RDdEZlWEg5YnU0aU5uM1hFd2VIWkQyWGNDblk5bU5YVWh3UXZweTNtSGNGMDdvb0lCMHdLaGN0VDRZRnpEWURjdTNqRUFPcjhZWTZEZWxDbkEtVmlvREpZRUZCZEVFVTFkck9hUnhheW1MREkxN0ZmMmI4?oc=5)** _(Wed, 07 Oct 2026 17:19:37 GMT)_
+- **[California could ban quartz countertop production amid health concerns - KTLA](https://news.google.com/rss/articles/CBMidEFVX3lxTE0zX1MxMUJWc0QzNzZaaWtzcHBqc3ZjMXVZNFRWclVrMFYxTF9CTzRfMlpoMldZNTR6Z2RnM1FfUU1aTGRfR2hWbjYtWnlVbVlNMldBSnhqYUFHMnlnM3BOV3kyU0tpU2QwbzJPQUR0UDhudUJw0gF6QVVfeXFMTlVNc2NsOTZhajdjcTJINm0tNmxKaGpNbDFfU3ByTGdseHVWaXVnWWpGRVpodDJmV1VhX0RHZVM1WEZmVGlzVU8yWlFheWdtNVNWNkFDa0sxZXJiQnlqbHNaNGVuTG90YzdqUEJMMGlidjlwbGFFd3VQSGc?oc=5)** _(Wed, 07 Oct 2026 20:13:44 GMT)_
+- **[Kennedy offers federal support to New York over measles outbreak - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdnhCN2hzWmFEOGt1bkRSTGRJYlpmVkQzLW4tNUc3N1VHMkR0TndnOEVwNW5CX3lIWEd3Zkc1MmFHVHZRbVZYbTZkSGtYaDdhM2NSRmpKT1JtNHR6cTA1dnozUG9VTE9abzlGdUNpNDZtSERDdkdPbk9PMThXUnZZd2tBUG41WmktTV96VENXZldlYzR6TTFhSmlqQ2JrbllYZ29Bemg4YjhhYUhPblhaRkRuMDk?oc=5)** _(Wed, 07 Oct 2026 20:19:44 GMT)_
+- **[WHO endorses lifestyle changes over GLP-1 drugs in child obesity fight - Reuters](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZDZ1RzlGak12OUpuM2JOYkVvelZqVHhyaERJWXZNb3ZKWVUzWlFFb2JjTU5MMzV4UHktc081cjI1OXVOd3hDcENhWHg0eGlqUG5xbndUeHg3VkJrUURFVkhPZUtDTG5fX0ZoUVZrSTdvbEplME85Nk9STnBFTDZzN1IxczlqcFhJRFJLMXB6SS1fZWJHYl9sS21OUjhKT3d3d1V5LWtvZTRlTHA2MHV0dUhhOGNoYTEwR19USVB4ODIxUHZ4Wlc4NmxGRlRKdnJkRTJLenFR?oc=5)** _(Wed, 07 Oct 2026 14:41:19 GMT)_
+
+---
+
 ## Digest Date: 2026-10-07
 
 ### Source: MedPageToday.com - medical news for physicians
