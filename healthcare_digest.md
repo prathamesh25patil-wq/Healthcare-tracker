@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-09
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Four Deaths Prompt FDA Safety Concerns About Novel Schizophrenia Drug](https://www.medpagetoday.com/psychiatry/schizophrenia/123330)** _(Thu, 08 Oct 2026 16:26:21 -0400)_
+- **[Can DMARD Doses Be Safely Reduced for RA Patients? Korean Trial Says Yes.](https://www.medpagetoday.com/rheumatology/arthritis/123328)** _(Thu, 08 Oct 2026 15:15:23 -0400)_
+- **[Straight to the Top: Patients Email Insurance CEOs Over Care Denials](https://www.medpagetoday.com/special-reports/features/123327)** _(Thu, 08 Oct 2026 14:35:16 -0400)_
+- **[Dr. Mike as 'The Bachelor'? MD Superpowers at AAP; Plague Calm-Mongering](https://www.medpagetoday.com/popmedicine/popmedicine/123326)** _(Thu, 08 Oct 2026 14:06:16 -0400)_
+- **[What's Next for Chronic Hives? New Targets Expand the Treatment Landscape.](https://www.medpagetoday.com/meetingcoverage/aadfuturefocus/123324)** _(Thu, 08 Oct 2026 13:16:52 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Florida health officials meet amid fierce debate over childhood vaccine plans - Politico](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVhzYkVxWmpJT3NFVE5yQm01dXE5Vm1EU2s3R3ZXYS14Q0lHTXU5VExOOGFCZHo5UW5HNTZxcjhfc3lYdTJPSzJPMzNmSzBaVUgzT0lEcEpqMm1xRzJYRy1XWGlyQkhmazVNNU1LeVViUjlpUm9mbGZWT3JNQmtxQlNtVTR2V3FlZUpHQTBhaFctT1RhQjdVdFVLdUw?oc=5)** _(Thu, 08 Oct 2026 20:32:00 GMT)_
+- **[New iron deficiency standards for diagnosis released - NewsNation](https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0xiNm9tVXJYeDR0LXZvTzhPYUNoNnpjMnQtZUZmZXNLYUlJNk9KMndodEYtRXl6dGlpbEUyWTBUUk5oT3ZMV3NjbnVGNkRubTdoeWFqQVdsQzItazFIbm1rdjZGa3NLb0ZLcjF1cF94RkoxcDk4NTBPSHVUUWRNeHFIY9IBiAFBVV95cUxQb1I2a0JOWVA1cF95aUI4S0ZPREhqdGhudDZyN05GUHBTZmtXWlQxTm5TMF81Y3E5dkxyUHNDQ0JGenVxN0VRUnEzSEZZRnREZlo1c2IzTVp4Z1ptdHQ5Z1pZS3ZpSkRPRC1QOXlZYkZ0R2VLaTJuWTZBeXppUnpIT0wtblZGZjdQ?oc=5)** _(Fri, 09 Oct 2026 03:57:22 GMT)_
+- **[Second measles case confirmed in Allegheny County - Pittsburgh's Public Source](https://news.google.com/rss/articles/CBMifkFVX3lxTE11NGRhbGlIeHpILUdyOGNtWVg4bnMwU1BVNGNKV3Z2OGlIMGVTNDlYdW8xdEp4WFl3X25NNGt5bzVscTdXZ202VENIdDlLNzdsZHlvN1oyWklhTFE3azVQQjc0bGZlWktjdk9qY2pwNU9LNERfT3gwb3Z4YVA5Zw?oc=5)** _(Thu, 08 Oct 2026 18:58:06 GMT)_
+- **[Oxford Area High School closed Friday after confirmed case of measles - 6abc Philadelphia](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjRSX2pOc0NESmJ3UzVqMEVJVHNlRVdrZjdqa1dFRWZ4WmN1MFZkeWJPeEJ0cUFZZ0hXLVVDS3VxTUpEN3lBUnU3YS03VGhqVTMyWFVVTjlvSG9EWFEtajdRdW5PaXRwWGhrejFPVi14QWxZXzRXUkRSLUZQbldFS0o4Y0QzbmwzNldTRnM0Qkhtd3R2TUxZ0gGcAUFVX3lxTE9aVnNpMkk3cnNZSlZ1dC0zM0xRWElpSG9PZ0YzZnl1WGRReVBUNzNQSUdLMWN3cDZPTlBjRUpOeHdkd3p4WjNOZDdpVkdoT3gtUlMtUHdWb1UxaDV3NXF1cE0zRmJLSjJ4bkN5eFhmV2Yzd3BOZ2NUNE55X3o2U0E5U3QwdVZ5aFQ5TUhiczBlV0luZ0dNY20yWFRlOA?oc=5)** _(Fri, 09 Oct 2026 05:26:15 GMT)_
+- **[Flu season didn’t start when or where it was expected. Get your shot now, health officials say - Los Angeles Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRTRsYmpSQ0JOU1NNRGJWQ0ZBZDFLSHZNRlVzOUpLRVl4R3UyVWUyaTdRczRtdllyR0hWeFFWNUdlOHJvdGZvREx5VzFNSGo2M3FNMXZNS25VWEZIWGhONFRTbkRySWlTTzRkNGNpNWQ2dlpCLWhSVlRQM0R3bVVmSWFVanZfWENhMUcyQ0dVMmpOZE5VWTFMcjY5Qkc3TGlWWlRUaHpB?oc=5)** _(Fri, 09 Oct 2026 02:00:34 GMT)_
+
+---
+
 ## Digest Date: 2026-10-08
 
 ### Source: MedPageToday.com - medical news for physicians
