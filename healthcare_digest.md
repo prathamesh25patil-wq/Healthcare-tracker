@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-10
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Decades-Old Schizophrenia Drug Wins Approval for New Formulation](https://www.medpagetoday.com/psychiatry/schizophrenia/123353)** _(Fri, 09 Oct 2026 17:32:21 -0400)_
+- **[New Oral Drug Approved for Herpes Lesions](https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123352)** _(Fri, 09 Oct 2026 17:15:29 -0400)_
+- **[Are ADHD and Dementia Linked?](https://www.medpagetoday.com/quizzes/news-quiz/123351)** _(Fri, 09 Oct 2026 16:43:21 -0400)_
+- **[Biden Cancer Update; 'Big Bet' on Vaccines; Tucatinib Breast Cancer Approval Expands](https://www.medpagetoday.com/hematologyoncology/prostatecancer/123350)** _(Fri, 09 Oct 2026 15:41:20 -0400)_
+- **[Popular Longevity Supplement Fails to Meet Endpoint in Parkinson's Trial](https://www.medpagetoday.com/neurology/parkinsonsdisease/123349)** _(Fri, 09 Oct 2026 15:33:51 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Measles hits an Allegheny County school as outbreak accelerates - Pittsburgh Post-Gazette](https://news.google.com/rss/articles/CBMioAFBVV95cUxQenFsaHRTa2h6MnJkckY3T2V0ckpXblFMbjBHSno5WXMwQU05Qkowa2lpaFBEREFFalZWS0d6RlgzYUl5czlYYUVZbjJxYlB4LUhRMnd4ZmdWMlZ5eFdpVG1zZDdEMmtueFNPWHUyRk9zaVNfclIxdnlWQ3B4TDFLNmYwQXp3blBoV2FNdU92WEVCVWpMUDB0NmxVOGNuOFJi?oc=5)** _(Sat, 10 Oct 2026 05:21:35 GMT)_
+- **[Public warned about possible measles exposure at several Chester County, Pennsylvania stores - 6abc Philadelphia](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlJKSTg5WnlJZWJQR09lNEt4VWlfenVxSjdjbGVUTmxmekwzb2xsbGZfR0tYcWhja3lKZE9kaThhLThKaDdhV182YWJWRnlvakJja0MyTG5tLThxWEpqZ09GOGpGZFdSYkx0ZlNTSGNySjdSaUlGS2VPanJsSV9LRTIxa0xJOGRjZ3AtOVB6SUVORlJUbDJ0MTEtczdCOUVCcUF4ZXYwM0RuRS1iTWw2RHJJNkLSAboBQVVfeXFMTjRqczRxd0VLdF9IaGVWeERUOUZUM0lKaUVMMFpYaHJwYW1rRHNvR1lWcng1SjdMUGdIa19oRF9KXzctbkxVMi12SkpiSVlWYTNXU0FBMnFtc2ozMGx4MVMyYlVteW9YQklZNGJEM2JMRDRPRVdSbW9OODFQYlY2UHlvdjJyemQwVGxVaXlFc1hfMEV4bThzWUlmaUJZOGFUdWZ3ZXJ0bjhHWlRoaXRnU2Nkb0xUQkM3VDln?oc=5)** _(Fri, 09 Oct 2026 19:05:03 GMT)_
+- **[Flu season's unexpected twist: It started in Western states - The Seattle Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxONGdTTllrU00yY3BQRll1blA5amoxQTd0S3F6VXE2blVxU1RwQjBBUkNsaEJrODUwWXpQZ0JTTi04WTk2cTgxUW5WMkV3dFBHa1owZ1JlQjExLThnbE11NGNDR3oxLUx1NjBOYmxJalAtSW1uUVFEdE5Lb1ptWklnSUY5aVhyNTVjcEZrclVoUUp5dWNSQ3JyblhuUlV1aDc2YXdOSUdETFQ4dw?oc=5)** _(Thu, 08 Oct 2026 11:56:55 GMT)_
+- **[US health secretary Kennedy launches new push on vaccine injuries - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzB4YVJGS1RHRzhJMTJFOWdRRWV6V3I1SlBoeDF6d0ljWlR5YnBDNnBXdzBwbEhKR3lFSkJSZ3p2MnZneDRYVlprOVVpU25DcGo5cTdJWjFLa3piNkdfX1RLaDFXeEdKbG1DZExtVm1uaXZDc3NHTlN3TDUzUG1PaXNYc2hYX2tsdENHMDliM0V5Y3VfMDUtQW5yN2ZPN1ViS0hJUFZrcEtUUXlKWTdydjZsdEpfUQ?oc=5)** _(Thu, 08 Oct 2026 21:59:44 GMT)_
+- **[Six measles cases confirmed in southeast Minnesota - Star Tribune](https://news.google.com/rss/articles/CBMikgFBVV95cUxNU3ExWjdmLU5mYjdQX2ZQbVU1VHgzSXozV0dzcVk2RktJcy0yUHNWcDZXVHFaQVJsZnlHbjF1SDd0ZjhIWUZvdmxiNEF3TEs1YWNLOTMyV3BZYmJUWmQ2TDl6TU5FSFppaUZXYzU2RUptRjZNcTRpMENadjZ5dnBubEdwZ251RHc0T09KV29udTNMdw?oc=5)** _(Fri, 09 Oct 2026 22:17:27 GMT)_
+
+---
+
 ## Digest Date: 2026-10-09
 
 ### Source: MedPageToday.com - medical news for physicians
