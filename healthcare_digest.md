@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-11
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Best Strategy for Early Septic Shock; Hormone Therapy and Blood Clot Risk](https://www.medpagetoday.com/podcasts/healthwatch/123345)** _(Sat, 10 Oct 2026 14:00:00 -0400)_
+- **[Everything You Should Know About Emergency Doctors But Were Too Afraid to Ask](https://www.medpagetoday.com/opinion/calamities/123341)** _(Sat, 10 Oct 2026 12:00:00 -0400)_
+- **[Cost of Drugs From Canada Set to Soar for Millions of Americans Due to Federal Rule](https://www.medpagetoday.com/washington-watch/washington-watch/123323)** _(Sat, 10 Oct 2026 10:00:00 -0400)_
+- **[Decades-Old Schizophrenia Drug Wins Approval for New Formulation](https://www.medpagetoday.com/psychiatry/schizophrenia/123353)** _(Fri, 09 Oct 2026 17:32:21 -0400)_
+- **[New Oral Drug Approved for Herpes Lesions](https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123352)** _(Fri, 09 Oct 2026 17:15:29 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[U.S. measles cases surpass 4,000, with over 25 percent coming from Pennsylvania - The Hill](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVpmQkJwTGNTUVNxUTNPQXc4TEo1YWpQazUyY2NDZzRPUjZ3aVZRdXgya1Y0ZmQ1OXl3WXRKaDVHMHdTLURGSVFFYWlqV3FqRld3akpwaDRadTlVZGRlY3V5RXg4aGFWVzFFbDlIYVZIRlZKaFpRdXVkeWd1QlVOVGxLamlna1NzblR0VV9rMmxUWDjSAZgBQVVfeXFMUGtydHZxNmlRdEFvT0s4b3hPb2dNaGY5YmJTdjdrSE43eXZaclA5UXhXejlWU3E0Ml9jNzRzWnd5d1JxWXRzdkEtYmR0VTJSeDNnX1ctU1FjdWItU2pTbDJYN1FpNFk0ZjFJOE9TdzJjRDJqLUp4c3Y2WHNYSXhuS0ZySnJwOFFPTzg4TXJaQkVVOVVXb2c4RVg?oc=5)** _(Sat, 10 Oct 2026 21:41:00 GMT)_
+- **[Flu season is already here. Here’s what to know about this year’s flu shots. - MarketWatch](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVF94WWNQZXU1WEgwTnFROHdhMkltWWJPQktHZklFZGVmeUZjVHdoVkRDU2tBZnlXakNNbE9vWEYwSlVSSGxaeFRkSk1WWnh0LXB1VFkwQktwZl83QVhqZGsyUWI5NkdBVkNIcVpRcGdZM2FtUHBHUFgwSVk5UkRFWVVJanVDRzVMSTRuMW0teV9JV0NuS2Z3Y1d4NXdQcUtYZXZncE1MNjdnZmVXellITWNLcGVmQQ?oc=5)** _(Sat, 10 Oct 2026 13:19:00 GMT)_
+- **[The surprising new idea that is reshaping how we think about ADHD - The Washington Post](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVjNQbHNva0tmOHBOV0FVM2ZRT3lxNk1EaGlLRUtXTnFsSm9QWGhPemhaYlFoUjRjWTJwVk1TRDdQd282OWZkLVpjdnhUdDcwYm5HNnJoQjlMMWZ2NUZaTnJBTnI4TUtjWDFUZldCXzV4bERaRFRGMUpreHpxSUZqeFpneVZQTTNudm5IZndackNRRDBqZkxsTnROT0ZZSERoaWFiTENkM05TcHJVWEd6SQ?oc=5)** _(Thu, 08 Oct 2026 16:00:00 GMT)_
+- **[Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment - The Guardian](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0xqVGwtbDRuaFVMR3JfY2FMczBGeC1BTXZKb25xajl1d29hWFBHaWpYZFNVSGw1dERESlY3US1EQWlqRjRKWUpnS1l3VW5sTG5FSzNKLU5FczNmcVJLeDlISkJYbnByMDB3b2dqakVnR2Q1ckNKRmYwN2YxYjdLWHdfZFVMd3FrZGZRUGhrUHJ3em9wYUhOX0U1QTVqbmRaNDd4cEdCdnpPSEkzSEJfNUlfTWdlT1RxRVRzRWtBaUVldlc4aGtyUVFXQmZjTGNZaGpkcFdvYkFGc1dRdlNUMjFXVEk?oc=5)** _(Sat, 10 Oct 2026 23:02:13 GMT)_
+- **[Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often - NPR](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVlnVmhrQk9wQTY5dUpCbXdTQWYxeXF3Rzc1Q2FRX3lnZzFhalRGU1l5bndIVU84TlJpZUxWQWZJNXhHMG9KeU94YkJ3QmI5NFpSd3JYSlNiYXN5XzNYaHRkZ1FFNjVrenVxY2hUZFJQaVhmY0o4S0l4ZS11UWtoeGJBTDFNTVZn?oc=5)** _(Sat, 10 Oct 2026 11:00:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-10
 
 ### Source: MedPageToday.com - medical news for physicians
