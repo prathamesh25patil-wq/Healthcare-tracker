@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-12
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **['The Public Should Not be Subject to These Quack Medicines': What We Heard This Week](https://www.medpagetoday.com/opinion/what-we-heard/123348)** _(Sun, 11 Oct 2026 16:00:00 -0400)_
+- **[And It's Back to the Drawing Board for PDE9 Inhibition in Heart Failure](https://www.medpagetoday.com/meetingcoverage/hfsa/123357)** _(Sun, 11 Oct 2026 15:58:30 -0400)_
+- **[Risks After Cataract, Glaucoma Surgery Tied to Higher Hemoglobin A1c Levels](https://www.medpagetoday.com/meetingcoverage/aao/123356)** _(Sun, 11 Oct 2026 14:28:09 -0400)_
+- **[Retinal Implant for Geographic Atrophy Shows Evidence of Durable Control](https://www.medpagetoday.com/meetingcoverage/aao/123355)** _(Sun, 11 Oct 2026 12:55:42 -0400)_
+- **[The Liability Behind Ketamine's Promise](https://www.medpagetoday.com/opinion/second-opinions/123337)** _(Sun, 11 Oct 2026 12:00:00 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnpfZ3VLOVFsUlByd1JjR2R3U1pCaTFsTXZWby1LVjNuc1VjYU9zZjhWWE1xelh0aThhM2EtUFlUUjlyZXlsSGMwQlFmV2pmOWUya2ZGOXFBWmQ1Smp6TDdBLWNJTklmcnNJOURfRkEta3JYYm43dlE1TUFJM00xQzhzZjczai1vdzFySkU0bTBEeWlITUI2c013UmdDM2g2SVVN0gGoAUFVX3lxTE5kU1c2aG5ZX19pLXdfWDQzMFlDZ0pRMjBER3RlY3ItX0RaS2kyazZrVkszVEdQSjlfQm04aXJpZl9GMmU2b3JWemJac09nRDJXZXJ6R19Pc1hNR2RnV3ZXejJRa2NKcDdoc0ZkdGdacVF0ZVkya3U4cmpkLVFPc2FHdktyNWJydXV1TVkxU2wwUUpQTVk5bDM2Y1JPb2tpdDRjTFUtZkQ2UA?oc=5)** _(Fri, 09 Oct 2026 16:41:35 GMT)_
+- **[New belly fat injection cuts dangerous fat surrounding organs by 12% in early human trial - Fox News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3hOM0ZpWXZJLVBzVFFqcFFtSHhuMm1kQkwwU2RjQ0lsc0o3OTlJSGI4Q3VPU2s5V0xtRHNsc213eGQ3cVMxLWE3dFd2TllWelZ6NlRHeWpBVnRNeS1XVWN4bmhpV1NaQTRXdnJLZTFRd3BDZUlCU0VYODV2Smlxb1NENUZwcUNDVEhObzY3di1RR09VaVFvZkNuazZWVVpTMks2ZG1RYVVBQVlFckNXSFpCUmRpWEdC0gG-AUFVX3lxTE1hYlNCYnFpYTVhZTZNWUlGUUwzeFVzUnMwY1RjR0MtdFo5UXE0RC1HdVYtZl9pUVpybW1zM0VsUlMyRTZCR3BKNWtlaFBQMS1DR1ZNVHVHY2pjbDhuQm1HYmpOSFlQaU44T0R4ZkY3cTdMSW9vQ3BiVWl4MGZDYW5XaTdmLVNXcElYOFVVMkRDY01SZF9nWWdZVmxIalFBOWF3Yi1uOGdBdm85MzZpQ3ZMMVVOMTB3OTIyUEZyd1E?oc=5)** _(Sun, 11 Oct 2026 22:34:17 GMT)_
+- **[Doctors Warn The Flu Is Having A ‘Very Early’ Surge In This Region. Here’s What You Need To Know. - HuffPost](https://news.google.com/rss/articles/CBMijAFBVV95cUxQN21faWpTQ0ZpOFZVQ21sVlI3WGJYREJ3RzBuNjJZVDBjbjd6Ym4zSC1WT1JvWjFyc3VEWmNtU2xreWR2alJfM0w0THNHUHRxVTBZNmRUbmdjZlJ6MnJKTHNkNW5XYXY5MzdoWlg3M2F1Q2RJU202SWh2S2tuSnZrY3FYcXF5RXoxNzNyT9IBkgFBVV95cUxNcEZTaF9lVVN1bWZVRmZDS0VKUnZmOWJ5X0htV2w2MWtOd2hldjU2NTJaR1dreTBvZXRrbHRUWkREcHJHaXhPT1c3azFORjlYODNzc2dzNTQ2aGZrYUpOM0M1dVdFVHBtMk1pdDZ4aXIwSWNkcGxXaUVtTlR2NkxLSDBUSjZ6UVhxVWllMUF1eWpEZw?oc=5)** _(Wed, 07 Oct 2026 11:00:18 GMT)_
+- **[New York and Pennsylvania's split screen approach to measles - Politico](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEd4ajNwbnhENV9wNHBiZUxuOG5LMG1maUxvbjNNS0hFU1BZLTdLMEZ4bXpaQUdkaFA3c0l4ZTcyNklpRUNpel9SZEFpMG9BLW9hQmRFMTVTbG02QWp6bk5Kdi0zMjMtZWwtWVh2bnpzb19BZllUcGlVRTBhcl8xdGRRRzFDVmdzV0M5a3NwdmYwMWFxNnRaag?oc=5)** _(Sun, 11 Oct 2026 14:00:00 GMT)_
+- **[Kennedy Plans Federal Vaccine Injury Initiative, Drawing Wary Eye From Experts - The New York Times](https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ1J1UGx2MThqRGV5VFExeWl4OEtvbHJ5SU1IX3VjNmlHc1FWeEMtSlA3SnVZWi1FdGdvM3U4RS1SbGotS1o2cE1EdWpSRktkcWNkOXd6LXFSRDZ2TzJvZndldE5ORW55MEFMbWlQa09NZGZYRER0R0I1M05meEJoV2JB?oc=5)** _(Wed, 07 Oct 2026 23:04:56 GMT)_
+
+---
+
 ## Digest Date: 2026-10-11
 
 ### Source: MedPageToday.com - medical news for physicians
