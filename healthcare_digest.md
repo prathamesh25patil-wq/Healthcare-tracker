@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-13
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Study Finds Lower Pregnancy Risks in HPV-Vaccinated Women](https://www.medpagetoday.com/infectiousdisease/vaccines/123378)** _(Mon, 12 Oct 2026 17:06:46 -0400)_
+- **[Mystery Surrounds Young Worker's Death at Russia Lab Studying Severe Diseases](https://www.medpagetoday.com/infectiousdisease/publichealth/123377)** _(Mon, 12 Oct 2026 16:48:21 -0400)_
+- **[Texas Health Agency Proposes Eliminating Children's Autism Program](https://www.medpagetoday.com/neurology/autism/123376)** _(Mon, 12 Oct 2026 15:48:40 -0400)_
+- **[Drug-Eluting Intraocular Lens Passes Test in Patients With Cataracts and Glaucoma](https://www.medpagetoday.com/meetingcoverage/aao/123372)** _(Mon, 12 Oct 2026 15:33:41 -0400)_
+- **[Are Concerns Over Avacopan Efficacy Overblown?](https://www.medpagetoday.com/rheumatology/generalrheumatology/123371)** _(Mon, 12 Oct 2026 14:53:32 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania - Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQaE5iSnVUZE05dGpRWE9oaFVOZ0YyZF9Hc2taQTZ4bUQxWTJTRm5XWFpWZzU1b3lnSi1JSGNRNWpkcHpSZXhhSVF4V0JOTW5Vci1BbGk4U0JvVG12d3FMQ0VsZEZ6dGpkem1GSEtXcDNMM05uRlNHNnVWNEZDM2NQUy0zR1ZvUVd4Q21CV0dCM09BYlJScS1HMlBqU0tTUVJUOGhHbVZOUE1RR1ppYnpDazF3?oc=5)** _(Mon, 12 Oct 2026 21:54:35 GMT)_
+- **[What vaccines doctors say you may need for respiratory virus season - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMikAFBVV95cUxQREpDQ1Y0ZEZDVjJfcXdldmx0NG5BSDBVbkRkQzBhZDFMZS04OUI3Qm5BdGVWdjhnUGZhRElrcWVvWlJkM3d6N2RsMXUxUkgxbGlCWmw1M1VSaTZ6VWgtcExkYnZqc3V5V2Zrd1gtMWZyM3ppMHMzTHN0NDhzMXN5amNNRi1acWRlMkk2ZllTNVDSAZYBQVVfeXFMTXZHZ2cxb0hDekY1SlJDYjFPT1JUX3ZkY3lnNzE0M2xnN2dQd2ZJRk9TZ0xOLTZvVUdCSGtNeEZuZGc2WEFwcDNJd2twN01GZU5HRFIxdVBHd1N2NW9xMzQ5OEo4am9pOHZNWmJKdzB4VlBCengyVDk3S2d6YlJ2dmpWOXNZMjdBLXZMcGx3alNsT3NsMTNB?oc=5)** _(Thu, 08 Oct 2026 09:23:56 GMT)_
+- **[Dementia risk more than quadruples among adults with common disorder - Fox News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmRwemtqbncxTzJmRVVZX3dlV2lUdDNsOFlRdC1ZWkJLVWpjdXN3VkxwWi0wakhKSThkWmtCaklQZzJCVkR3VG03aFFjVl9wVWJldFR1YW5aN0s1X1BCRWQ0WUZKVlNFeWR0RTdLTHduSjBRQ3hLM0xKTVppWmtON0J2WHjSAYoBQVVfeXFMTjFNZzlUU3Jja2pnSHhMeGlUZ0xIclZQSU11T1lRM3BXVDQ4TFlBdFVnRTNwTzhld3RKelNZTklsWDdDOXRTakUzSFI5alB4OFNvd3NaRlBvM1hOOXlKMnNBVDlBMnF3TUNjSDBjdGxOMDVxMWxOT1ZGU1BhalFzeXBTLUpnNDUweUJn?oc=5)** _(Mon, 12 Oct 2026 20:10:46 GMT)_
+- **[Scientists Link Higher Liver Disease Risk to One Common Late-Night Habit - AOL.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlczRzhDRUpSSFlMU2VWS05HSnZXaWstb0NNTXczS3dkNFdDclJ2MFVIZWRIdlN0dU5aMGNkeDd4QVBacGpNQ0R4ZHlFaFNNWVFYeHNfc1JyWXRacEU1QjUzeDhpVjBzdU9ZakptZ215eUJ0b0RQSFI0cWhseHFBNExMMjZfZVk?oc=5)** _(Sun, 11 Oct 2026 01:06:00 GMT)_
+- **[West Coast mom of six loses both legs, hand after doctors ignored her complaints: bombshell lawsuit - New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk1BNlJHQ1dRMm5PVmtpWVlxaFZudnZmejRhc3h3TXpqb2Z2WlNfNHBLcVpoWUM0emJmZS1KOTM5emNCNlNwUHNpWV8tMU9YYTVIenBLX2pUSHEtYVVocmtaWXJmRHRRN2wxUzhBc0ZHc2JyM2g4blRUM1BRV3NGSThLMGdCUmYxVXk0Z0x1ZTQ2M1dmNk5KREQwU2I1aXNMdEhsaTdnQ08xdmNPRnc?oc=5)** _(Mon, 12 Oct 2026 19:11:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-12
 
 ### Source: MedPageToday.com - medical news for physicians
