@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-14
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Cardiac Microcurrent Therapy Raises Eyebrows in Heart Failure](https://www.medpagetoday.com/meetingcoverage/hfsa/123395)** _(Tue, 13 Oct 2026 17:44:49 -0400)_
+- **[The Pope Has Cancer](https://www.medpagetoday.com/hematologyoncology/lungcancer/123394)** _(Tue, 13 Oct 2026 16:51:53 -0400)_
+- **[AI Has a Darker Side in Healthcare, Expert Says](https://www.medpagetoday.com/practicemanagement/informationtechnology/123393)** _(Tue, 13 Oct 2026 16:41:21 -0400)_
+- **[Antioxidant May Influence Brain Changes in Multiple Sclerosis, Study Suggests](https://www.medpagetoday.com/meetingcoverage/asfnr/123392)** _(Tue, 13 Oct 2026 16:27:04 -0400)_
+- **[Assisted Reproductive Technology Effective in Women With IBD](https://www.medpagetoday.com/meetingcoverage/acg/123391)** _(Tue, 13 Oct 2026 16:04:58 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Pennsylvania at the center of US measles outbreaks - The Hill](https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkk2WkFZc25TVDY5Mm1fdGpJQnlWdEpzdWVIcVVlNGlUZFpRWnhCVWpHWS1Vem9WNVk3QzQzUzE5cVJfRjZqYUFfei11M3JPMExSY2ltV2pEd1RfcGlnNDIwcEp2bU1jR3U0VnRXYk5fWExFbHhUbzRHUFFHcEZCcVZiMGZET3RhZUZ5SThsRUdvd9IBlwFBVV95cUxNR1lsc3ZIOExvNlc4Q2FCekx3R2VKY1F0eTI4QTNtT2UxVWozX25CWmkxcUdfMWo5VmdnMkZiZnVSV0h1VWRJbm8tYS14M2J6RWs5alE4dDdkVVZfSWZ3b1dLamg0TkYwUVNTNEZGckZ2QzJmZm11d2xVWjk3eExCM2xTYmdlOW5IaDlLcVJ2T25temNmNjhF?oc=5)** _(Tue, 13 Oct 2026 22:50:00 GMT)_
+- **[Congo's confirmed Ebola cases exceed 9,000 as containment efforts falter - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTV3dnlyQklZSXdDb0YzSElvV2QzckF0d3E3emVvSy0xbzhlcEJHTUJTeWJwNWctQWRZajNYbFNzcVJJQlUyNi1zd0NaU3M3V2Q1M1FQQnQ3dEk1bmYzNnFMRVVCX0xudmFsMUx5dERoOUV6ZldVVS1pdEZLeERpNG96dkM1LXNJV2dPS0hvUlcyc0M3eWxNNGRETEk0a2pLSmpGUWIxNnR6ZEnSAbABQVVfeXFMTUEtT0FYZmdsU1VUNEN3VGNMY0RGMXA2YmQ3NTdYU1FTLWpfa0RhQ0JSc1k0RjVPbVM4VXctM0lLQTUtR1JJVU92ekh1T0R4OUt5THIzS3Rfc25ER1ZfWHhNa28wX3c4c1lYTGRvOWVHTE4zNGRrdkVRSjVIak9GdExlX2E5R2QtZXM3QXhPVWU2Wll1UFFyZUl0akpkamFvUzZJRWlNS19xWm5HWXNuQVI?oc=5)** _(Tue, 13 Oct 2026 21:00:06 GMT)_
+- **[Two North Carolinians dead from West Nile Virus - WRAL](https://news.google.com/rss/articles/CBMikgFBVV95cUxPeV9zQkZpWnV1Wng3LXNoTEctdUNzZFRfcnEweGVCeUlTUWh4cXBUX2hHbzRnbWNDR2g4ZGp6SEF6VEdGSjlEYW9RaDVybjhpUUo1dUhXVGJNOVR2a2JYLUUzWVBfc1V5Z21qeTlvNGM2TDBvcmdYNDBxZ2Q0em5reEpNdXVGaEM0Ry1iWURGNGRndw?oc=5)** _(Tue, 13 Oct 2026 16:04:37 GMT)_
+- **[Could GLP-1 drugs be anti-aging medications? - CNN](https://news.google.com/rss/articles/CBMibEFVX3lxTE5OS3A3NVkyRm5Qa0lheG1VTy16UHZleTFObTZxd1NqTFBFRUltdnljSEtkeXNFZTIyOVZxOWc5SW1TUkI0aUZtWlozRS1JOGNSZjNianZ5cUFtaWFGcGk0QWVNNWlyTS1qMzhRMA?oc=5)** _(Tue, 13 Oct 2026 10:00:45 GMT)_
+- **[Measles case reported in Huntsville - WAFF](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2pHZW1lSTJQNnh6bWZTeVNGNFlEX0JpdzczTi14MFNqVzJsVzNJNlM0MFdjRmRma08wcE0yU3dRVk1BVHhaVm9mU2dic3hDVFFrTkt3T2tFSzdMWEJGVWNaY1NNZXpOZGg3RTEwWkZsc3NiVC1Ca3FTb09pczRwQjkzZzFqV0NGVVZ2QkJtVHZWTWdERlA1dHF0cFo4TmpBVHlVWlA2UzBQZ0otYkxN0gHDAUFVX3lxTE9ZSkRfbDdDNVUwRVRudm1RR2FlTVNqX0s2eHJVcGpnY2gzV2pWVUJRUnU3Z1cxSE9xendPZmI5d1hIRVlwaWlReThkRFJTeHNrNkRmaHFaZzNPYWNkek1xZFRidUtmdGE5WXR4Ynl1X3JlaWpuNEstNjNwUWlsMHZwa3E0RFRUZ0p1MThoNUJQYVl5YUVJQUxOd0h2SFNsOEEtX0V3UmxIelpMU3NxT3c1MWRYWHlRNFhyZFVIQ2kxS0RlMA?oc=5)** _(Tue, 13 Oct 2026 21:28:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-13
 
 ### Source: MedPageToday.com - medical news for physicians
