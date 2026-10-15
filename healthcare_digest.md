@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-15
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Rampant Inflammation in Heart Failure: Can Anything Be Done About It?](https://www.medpagetoday.com/meetingcoverage/hfsa/123415)** _(Wed, 14 Oct 2026 17:42:33 -0400)_
+- **[Deaths Halt Trial of Hemodialysis for Acute Kidney Injury](https://www.medpagetoday.com/nephrology/generalnephrology/123414)** _(Wed, 14 Oct 2026 17:31:29 -0400)_
+- **[Long-Acting HIV Shot Works Just Fine for Patients With Adherence Issues](https://www.medpagetoday.com/infectiousdisease/hivaids/123413)** _(Wed, 14 Oct 2026 17:02:17 -0400)_
+- **[Oral Peptide Shows Durable Efficacy in Ulcerative Colitis](https://www.medpagetoday.com/meetingcoverage/acg/123412)** _(Wed, 14 Oct 2026 17:00:00 -0400)_
+- **[Continuous Glucose Monitoring Beneficial in Type 2 Diabetes Not Treated With Insulin](https://www.medpagetoday.com/primarycare/diabetes/123405)** _(Wed, 14 Oct 2026 17:00:00 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Intrinsic physicochemical activity at microplastic–water interfaces - Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fck5CSEpva1pzSkJlWG85MVZVbllYUjA3UUlxSUZxYlRYU2dpdXFlZFVMOHhkOGRveEtWWGU3ZW1JMnFlSmdtazJHdzhpTHdwRmJTY1RCTDdSWXBkdXJj?oc=5)** _(Wed, 14 Oct 2026 22:55:28 GMT)_
+- **[Your flu shot can’t wait - Vox](https://news.google.com/rss/articles/CBMigAFBVV95cUxPeDk5N1V0c3dFU3c5SW5XTTJKaTRZVmJHdi1qa2dHTDR4QXNIa3RTdloxbWVxWTR0dmQ1ckRiYkpuaHJ2dV9ONUdTdERIRlZYMmJISGw5cTZ6U19uenNld3o1Z2hERkE0Z1hWVU8tTHhzaElJajdwNEhIOWZfMWlidA?oc=5)** _(Wed, 14 Oct 2026 19:35:00 GMT)_
+- **[With AI platform, patients could chat with medical devices to improve health - The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxNaElrRFBzdFYwU3Atb3VOcjBGQ3NNUXlYMDNCNEltVjZjamc0TFlxOEtEUGVVSGZXbWtMbGNyMG1ZRWFncUFnNWFkdDkxWnNVeGhfemtES2NDYTNyR3NOOXJhUEl2eVFPOVZGWnJ1ZjVYUVFEQ09iZDh2MnNBOWhhakRnZkZnWWRaLWpNZzYyTkJ6b2JPN1p5bXAxRDFva2dSdW5tRi1rM2ZlamhKcVlnVkFDaFhUR3BOcTZqM2s5aw?oc=5)** _(Wed, 14 Oct 2026 22:45:00 GMT)_
+- **[Measles cases surge past 150 in Kentucky; big outbreak identified in one county - WLKY](https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUZxWHF0UnU3TGtPeXFUMk9nZ2lhVUxjNV9vNXpOTU9PdXRSckhmNjhWVEt1UnJncFZPal92S25vRkU4Z1ZDb3hMZWxyY3NHcklJSlpnSm5LLUM2Tll6OTRBVDF4QlByWmRPa3pHaHZVYWoxTnJFUU1SenNjUjdSZjBmTHA?oc=5)** _(Wed, 14 Oct 2026 21:44:00 GMT)_
+- **[Pennsylvania doctors are seeing what measles can do to previously healthy, unvaccinated kids - NBC News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYTJHc1J4YXFlbTNvWkdjWC1qS1FHclFBZlQwaDVuNHUxN2NxNXRxamlwYUdGYWhmTnNpQTZFd2c4cElFck1jT25xOGhlU3hKZmgxMjFrZlVoc0RFREcxUXRIaUx3MXBmOGZMR3dLekt6aTNYT1F4bXpmeEF1Y1ljT0NKbHRSbFhlb21nWjZwdXk4MFdCRUNhSmxjOW5PSkg0S1drVnEwZXFkTjNwYnJEUkxwenVMZTVrQXlISzZTN24?oc=5)** _(Wed, 14 Oct 2026 20:25:54 GMT)_
+
+---
+
 ## Digest Date: 2026-10-14
 
 ### Source: MedPageToday.com - medical news for physicians
