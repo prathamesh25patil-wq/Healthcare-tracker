@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-16
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Are Med Students Cheating if They Use AI?](https://www.medpagetoday.com/publichealthpolicy/medicaleducation/123439)** _(Thu, 15 Oct 2026 17:04:00 -0400)_
+- **[Trump Administration Advances Plan for Peptides Favored by RFK Jr.](https://www.medpagetoday.com/washington-watch/washington-watch/123438)** _(Thu, 15 Oct 2026 16:15:20 -0400)_
+- **[Extreme Plastic Surgery Makeover Show Panned in New Documentary](https://www.medpagetoday.com/popmedicine/cultureclinic/123437)** _(Thu, 15 Oct 2026 15:47:49 -0400)_
+- **[Fast-Acting Pill Reduces Heartburn Frequency in Non-Erosive Reflux Disease](https://www.medpagetoday.com/meetingcoverage/acg/123436)** _(Thu, 15 Oct 2026 15:44:41 -0400)_
+- **[Novel Imaging Method for Skin Disease Passes Early Scleroderma Test](https://www.medpagetoday.com/rheumatology/generalrheumatology/123435)** _(Thu, 15 Oct 2026 15:40:12 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Large study finds no link between ultra-processed food and colorectal cancer - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)** _(Thu, 15 Oct 2026 18:00:41 GMT)_
+- **[Microplastics in water aren’t inert and make damaging chemicals on their own - Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmNoaGdrclFtV1FtRVV5UmRrb2phNHdZVWp2QnZJRXZDYlpTTVRzblpKM2Q0ejBVYjJQa29fN29pczFEeE9JN2VkYVNKN2NTSXlsVUtMRG5YMEtHaDQxYWg2RE1PRkdfcGJXZ3U3SmpxbTdIUU90UkdvUUs5TF9rNzJlVDE2NFVZYzZ0WUNLZHl5SmdnV2tmbGgwTjkzWl9ldUtMSWhyT2FZVU5IZm41bWhaMUt6VzQ?oc=5)** _(Thu, 15 Oct 2026 18:39:17 GMT)_
+- **[‘He’s a Cabinet Secretary!’ Reporter Snaps At RFK Jr. Aide Trying to Stop Question on Measles Deaths - Yahoo](https://news.google.com/rss/articles/CBMinAFBVV95cUxObXZVNEl4NHNzUnZXZVR5UlV2MWcwZEtKOUZmVHVsSlJPaWdFdENLV01YbEtKZDlDTFhPM2xGR0JIYWR0aWxoQzdubktVbXBEYmRYUWFmOXRveEg4Z1ZaNjdXRUl6VnBvN3RsR2FEWkQwS3VqaEdsaGNTcFliSTM0ZkJUYUlqYWpwbjZiRm1rZmJhbV96YkhQd3o3LUg?oc=5)** _(Thu, 15 Oct 2026 21:10:56 GMT)_
+- **[One Common Eating Habit Is Linked to Higher Risk of 2 Liver Diseases - ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxPb0lQWi1KNmV1cjJpVFlQWXB3cDJjU3ZEZnNMYTZaeUhrYTJDS2VHUHVwTlRMOVZFZlUxOFR6V0R0QTUtSF9zZmY3T19tNzItSU1pLWVfeE5jd2RFWXd2VUdjN2Z2UU1NczFQUTI5c0VsRkNOdDlyTzh6Q3hQRlVET1QwMFhsUnU0UHRmNDZhekhJYkE2YzFqLWRIblFXUQ?oc=5)** _(Thu, 15 Oct 2026 22:00:38 GMT)_
+- **[Measles cases reach 42 in rural Minnesota amid outbreaks - Star Tribune](https://news.google.com/rss/articles/CBMijgFBVV95cUxPaVBNTWRLWFFKM0ZJUmtIUXlJbTV4bHNLb0ljdS1vbjF2MmRoSTlpWTEtYlFFRGtGWEJZSkNIeUIzS01BYW1TckJTdVpoQjA1NTVDRTNmcGphdXFfSGhKa2FCUmVzNUo3WUJEcWlPM0RTY2tDUi1NaC05Nk5ERmlrbW8xMk95Ums4V3EyaFVB?oc=5)** _(Thu, 15 Oct 2026 22:22:16 GMT)_
+
+---
+
 ## Digest Date: 2026-10-15
 
 ### Source: MedPageToday.com - medical news for physicians
