@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-17
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[PAs Hoping to Ease State Restrictions on Their Practice in 2027](https://www.medpagetoday.com/publichealthpolicy/workforce/123458)** _(Fri, 16 Oct 2026 17:00:51 -0400)_
+- **[ACOG Guideline Backs Early Hormone Therapy for Menopause Symptoms](https://www.medpagetoday.com/obgyn/menopause/123457)** _(Fri, 16 Oct 2026 16:41:42 -0400)_
+- **[Were Benzos Linked to Birth Defects?](https://www.medpagetoday.com/quizzes/news-quiz/123456)** _(Fri, 16 Oct 2026 16:24:00 -0400)_
+- **[OTC Alpha-Agonist Drops for Eye Redness Get FDA Green Light](https://www.medpagetoday.com/ophthalmology/generalophthalmology/123455)** _(Fri, 16 Oct 2026 16:10:32 -0400)_
+- **[Improving Survival for Adults With Sickle Cell Disease](https://www.medpagetoday.com/spotlight/sickle-cell-anemia/123454)** _(Fri, 16 Oct 2026 16:01:20 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment - NPR](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTdoUFZ4R1oyM1hUdWdlRkhJTWZhZHVoaVg1ZWR1Q2RBQ3JOeWtGRlNXRm15VTNDVnY2MzNoRTNuN3dMZUVlcS0wUjFMeGtlWEg4YWRpSndGMmhhbmNSVTZFZEVGUkFPd3V3eWxJa0xocGt3Yk5xTy15NEgzVTk5ZFFldnMwTUJ3VFJjZllpMktrRHRldUNYcTAzQThocXhPOGNtZTFn?oc=5)** _(Fri, 16 Oct 2026 17:45:16 GMT)_
+- **[Flu activity is starting to rise. Is this year’s vaccine a good match? - NBC News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWE5zYlp3OWpSUS1jTkQ1c04wVlhwZjNwc2d4eHVrdGp0TW0yZVZSWXN4WmFHazY5bklxX1BrRU8tMzNOcnJtZGFmX2ZQd2trc3VUZFBGWHBSTlQ1UERoV042N0wwSmF0d21qUV94Q1o5a1lncjRyZGxkVDB1bFJGMmx2cThuSDZVV0k4cEZBSURHYmxaenVVVm50NllPbHFUU1RfbFl6SkZxdnV3aWc?oc=5)** _(Fri, 16 Oct 2026 20:31:57 GMT)_
+- **[Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study - PLOS](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDVkUllwWlNTS3dEZE8yQmk3Wlc1MmcySzQyM0RBYm9BejltTHRYV0NvY3NqWmlDbFFiSVdYZThYOGRRUVkxdGdwQmRrc2Vfek1GU2lWMTU0VFBVUVp0OVp0OWJGWDl3X1prQzAxZ045QWRUckxCUTdXQm1McDJVQW1ydkw?oc=5)** _(Thu, 15 Oct 2026 17:38:45 GMT)_
+- **[US records 4,410 measles cases as outbreak grows - Al Jazeera](https://news.google.com/rss/articles/CBMikwFBVV95cUxOSlZlWkpjR3dJLWlTWnNFX1RUcTdiNHhtbm9wbHFpS2FtdzJhN2k2MFREaE5MM1FiZXJsc0ZoWUVOQWlpZlBJLVFTSFA1Q000UE05YWExczlTei1iTlIzOGhTMmw4MEVvOTBmVUdlelFxZEVyRE15VVVWZExzaXhjTHJqaFI4TF9PME9OTHh3STRibTjSAZgBQVVfeXFMTWREUWJHN2piZDEyWmdzVlZ6dUVQb25kNlNmTVRQRjVTMmgyVy1GN1FPYVotSkw5Q3JxVFFsYWNRdEp6NkIxTkZUaUF3VWRLRW11Zl9Ea1NZa29VT05hTVUxQzFBNGN4ajFEMEN1UmkyOVhIc0wtZjdxQmREUkROU2M5QTVMa0Z5R3FvbG5JcDZ5X3ZnSDdodWs?oc=5)** _(Fri, 16 Oct 2026 17:53:55 GMT)_
+- **[Microplastics Are Chemically Alive and Probably Up to No Good - Gizmodo](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWdfSWhsVDJWZ3NncXdRWklkQVAwVktDMTk2X1lhYUMwSUN2Zk1RR3ZlNlduOWdSSWRhM1d2TDBUdnBrN3dUNmtuSUZmeEtuOFNtVUUzTFlUWC1MRFJsMUxwR3E5SzNfUXBDRklIM0N3ZHlISkxrMkVWZHNJTmU0clZFQVMxdGREcS1Hb2hNT1BVRzZCUmRn?oc=5)** _(Fri, 16 Oct 2026 20:00:06 GMT)_
+
+---
+
 ## Digest Date: 2026-10-16
 
 ### Source: MedPageToday.com - medical news for physicians
