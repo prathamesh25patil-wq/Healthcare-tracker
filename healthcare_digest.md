@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-18
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Adult ADHD; Encouraging Advance Care Planning; Hospital Closures in the U.S.](https://www.medpagetoday.com/podcasts/healthwatch/123450)** _(Sat, 17 Oct 2026 14:00:00 -0400)_
+- **[Healthcare Is Still on the Ballot. But the Debate Has Changed.](https://www.medpagetoday.com/opinion/second-opinions/123447)** _(Sat, 17 Oct 2026 12:00:00 -0400)_
+- **[Iowa Faces a Reckoning Over Water Quality and Cancer Rates in Midterm Campaigns](https://www.medpagetoday.com/publichealthpolicy/environmentalhealth/123433)** _(Sat, 17 Oct 2026 10:00:00 -0400)_
+- **[PAs Hoping to Ease State Restrictions on Their Practice in 2027](https://www.medpagetoday.com/publichealthpolicy/workforce/123458)** _(Fri, 16 Oct 2026 17:00:51 -0400)_
+- **[ACOG Guideline Backs Early Hormone Therapy for Menopause Symptoms](https://www.medpagetoday.com/obgyn/menopause/123457)** _(Fri, 16 Oct 2026 16:41:42 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[CDC sends a ‘disease detective’ to Pennsylvania amid measles outbreak - The Hill](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUDZaS2RYWTFoTFd5cUJRbmdJLVhCWE5RNVA5U2tYMmxLSDVKRGx0NlBNM0F5OUR6RHRxYlZJeEdzd1FIWVJXakJGeUxXZzBZRElrU1BaWG9oZi11a194MFg3b1VEZEEyWjZrQUxpUnJrWVo4Z0FxNGF3WWpZM2ZZckw1UWtrYUNXVnJSUEpfaHFyZ9IBlwFBVV95cUxOcmdYODZJekYxeUtfbF9uV1JpNzBSSTNiNTdBOTJBbkloMGJ1eDJGNUNpR2pqYlFkVlpRRWU3RkJWeHpnRG5KZ3k3YlFjbFduY2dEVEZ6cnpsenJkU3hKeU9vamdrRWkzbkNzMGZQSVQ5U2ZCdVBzcUNlaFV0V1NQMHVWeHFPQktFU0xWU3hkVjBsT0tfbnY4?oc=5)** _(Sun, 18 Oct 2026 01:46:00 GMT)_
+- **[New guidelines back use of hormone therapy for menopause, perimenopause symptoms. Here's what to know. - CBS News](https://news.google.com/rss/articles/CBMingFBVV95cUxOcE9WRzJGaWgtVUdWbmNIdmtnVjlBbXdMNWlnRGVuUEwya1RoRjFKTVBodVhDaHFqVkJlYXZCQjAxaUFPTU5mZHBJbU5Tb3p5dEFyUmg1S19hNm9oTnliWko5VjItYjVGY2VXQXZRUW1IV2pxdXRWU2RWZV9qbWxjVF8zNmVBek1wQjVTYUk2ZTlocDdMXy00WFJ6NWxyUQ?oc=5)** _(Fri, 16 Oct 2026 15:01:00 GMT)_
+- **[Flu activity is starting to rise. Is this year’s vaccine a good match? - NBC News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWE5zYlp3OWpSUS1jTkQ1c04wVlhwZjNwc2d4eHVrdGp0TW0yZVZSWXN4WmFHazY5bklxX1BrRU8tMzNOcnJtZGFmX2ZQd2trc3VUZFBGWHBSTlQ1UERoV042N0wwSmF0d21qUV94Q1o5a1lncjRyZGxkVDB1bFJGMmx2cThuSDZVV0k4cEZBSURHYmxaenVVVm50NllPbHFUU1RfbFl6SkZxdnV3aWc?oc=5)** _(Fri, 16 Oct 2026 20:31:57 GMT)_
+- **[Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study - PLOS](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDVkUllwWlNTS3dEZE8yQmk3Wlc1MmcySzQyM0RBYm9BejltTHRYV0NvY3NqWmlDbFFiSVdYZThYOGRRUVkxdGdwQmRrc2Vfek1GU2lWMTU0VFBVUVp0OVp0OWJGWDl3X1prQzAxZ045QWRUckxCUTdXQm1McDJVQW1ydkw?oc=5)** _(Thu, 15 Oct 2026 17:38:45 GMT)_
+- **[Urgent warning as super-drug 10 times more powerful than fentanyl claims first LA victim - New York Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWRQa2ItOW9FTW91YUJnamVTWkVrcXRJOXJqR3JwemU3YVlMdW1DbENNWUl6dGt2Rm5ETXdvZGxRYzNlQ21ERFZFdDBMdGxVclZKRGRqR2JHb0lxd0ozV1N5TDJCaTBIRVRhRUppeUFHZDM0cW1ka292TFhLWkhhQWhkYk1aUVJQTXpjSmpabkRZWHVLUUZZZTVuY1VBQjlUQ241Q0lYaExULTBpaFdYSV85VGpBUmtTR3pqRlVn?oc=5)** _(Sat, 17 Oct 2026 17:51:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-17
 
 ### Source: MedPageToday.com - medical news for physicians
