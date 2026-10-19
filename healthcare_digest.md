@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-19
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **['Tech Is Not Good or Bad, But Neither Is it Neutral': What We Heard This Week](https://www.medpagetoday.com/opinion/what-we-heard/123452)** _(Sun, 18 Oct 2026 16:00:00 -0400)_
+- **[Federal Policy Is Adding Fuel to the Rural Healthcare Fire](https://www.medpagetoday.com/opinion/second-opinions/123449)** _(Sun, 18 Oct 2026 12:00:00 -0400)_
+- **[Trump Invested More in Drugmakers That Benefited From Medicare Exemptions, Dems Say](https://www.medpagetoday.com/publichealthpolicy/medicare/123445)** _(Sun, 18 Oct 2026 10:00:00 -0400)_
+- **[Adult ADHD; Encouraging Advance Care Planning; Hospital Closures in the U.S.](https://www.medpagetoday.com/podcasts/healthwatch/123450)** _(Sat, 17 Oct 2026 14:00:00 -0400)_
+- **[Healthcare Is Still on the Ballot. But the Debate Has Changed.](https://www.medpagetoday.com/opinion/second-opinions/123447)** _(Sat, 17 Oct 2026 12:00:00 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Congo’s fast-moving Ebola outbreak spreads to eighth province - NBC News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkpoQnRYZFItMGNwNllVdWZUSVN6djNjSkdXa1IxQWpvUHpfSTBCblRqTTBPLXZvOGQwMXkwM1pFZnI2OVZibUs3SXlWNUZSR0lTdG9DVUdKQXZsTzdaTnF0LVdabEprS2x1eUhINjhMa1BfQ0xzUlBRUng0amRCSWVSSGJ1dzBBTldCNTEtbDczUVFiVHV0dUtWcUhaV3FoZEVIRmFyWGpVbXZM?oc=5)** _(Sun, 18 Oct 2026 23:37:55 GMT)_
+- **[Infectious disease veterans call for clearer federal message on measles - The Hill](https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXhlUl9yNWJaQ3I0emJacWhPdE5xY0dpZ0YzVG1EUjVvUjZBUDlKeDNrMWY0TUJmU0RuakpmcXQzb1FIOGRsdHJULXlJdndVSzl0ZjZXN0dMX1lDWVJJa1dKQmxBb3lkT2F2M08xV3BtcmRfUEVTRGFmNWpmYTF3ZEQwd0dhbGvSAYwBQVVfeXFMUHNNOWpmWGhMWjFaVXdERmlWcE1oOXRsUTByQTVmZlJjbWgtVHlTZmkxbmRQRDVxaWs5ak9tYUZQdjJBSF83aVpNT0lTVWhoeXd2a3BmeWZPVklvWlRoNEFtdUJPWTRWcXlIZ2Zvc2h3LVdoOEV1Rlh3aDJNU1hlUk9rSDk0eEw4Q2dHSjk?oc=5)** _(Sun, 18 Oct 2026 16:00:00 GMT)_
+- **[Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment - NPR](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTdoUFZ4R1oyM1hUdWdlRkhJTWZhZHVoaVg1ZWR1Q2RBQ3JOeWtGRlNXRm15VTNDVnY2MzNoRTNuN3dMZUVlcS0wUjFMeGtlWEg4YWRpSndGMmhhbmNSVTZFZEVGUkFPd3V3eWxJa0xocGt3Yk5xTy15NEgzVTk5ZFFldnMwTUJ3VFJjZllpMktrRHRldUNYcTAzQThocXhPOGNtZTFn?oc=5)** _(Fri, 16 Oct 2026 17:45:16 GMT)_
+- **[6 Things You’ve Been Told About Healthy Aging That Aren’t Actually True, According to Doctors - Real Simple](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lM3psTU9BMGtISy0xMEhUXzdZOWJ3UTI4Tlo4TXY1RHdfWkduMEVleWZ3SlJ3dlV0azdVelU4cVRoZVpHQ0RhajY1aEtWVU9HVXpCMHQ3cmJBVF9pMnFBWXhXTEN0QU5f?oc=5)** _(Sun, 18 Oct 2026 20:38:00 GMT)_
+- **[Busting The Myth That Plastics Are Chemically Inert In Water - Hackaday](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFhtMEpQYnd6Y1N5ZnY5amhNcW10TW1CT1o5VHN6cWdEbFBueXpPX1hVaGYtemMzc0FiQTY0YTZ4UTlibklqSXl4OTNNSmU2SDJhSGNLWWU5ckdBS2JEVkxldFhqcFhEeHpVYW5WNlNlUEJKdE02TUpiS25oV0VpaU01WnFic3otQ00ySEZUM3ZHaHJHME1DOQ?oc=5)** _(Sun, 18 Oct 2026 02:00:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-18
 
 ### Source: MedPageToday.com - medical news for physicians
