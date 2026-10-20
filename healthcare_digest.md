@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-20
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **['Groundbreaking Option' Approved for Rectal Cancer](https://www.medpagetoday.com/hematologyoncology/coloncancer/123473)** _(Mon, 19 Oct 2026 17:42:29 -0400)_
+- **[White House Doctor Must Be Within 3 Minutes of Trump, Report Says](https://www.medpagetoday.com/washington-watch/washington-watch/123472)** _(Mon, 19 Oct 2026 17:16:44 -0400)_
+- **[Study Warns of More Chronic Hepatitis B in the Years Ahead](https://www.medpagetoday.com/infectiousdisease/hepatitis/123471)** _(Mon, 19 Oct 2026 17:15:33 -0400)_
+- **[ADHD Tied to Higher Mortality Risk](https://www.medpagetoday.com/neurology/adhd-add/123470)** _(Mon, 19 Oct 2026 17:04:12 -0400)_
+- **[Diabetes Conversation Tool Pleases Docs, but Misses the Mark on Clinical Outcomes](https://www.medpagetoday.com/primarycare/diabetes/123469)** _(Mon, 19 Oct 2026 16:33:12 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Pennsylvania issues alert on congenital measles—something US hasn’t seen for decades - Ars Technica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTZxd09wVXZPNTJ2TTR2Wl8yMDZJT3BWVTdIZTRXNTFVQzVfWU5ueGUyQUxiOGhnYjV2S2hMUzRGVDdpVTFHUk85MFgzQlFxU3pTc1FSenB5aXRMZXNQTGFQX3YxazNMQndiSUI1ODk3amVPcW1ELUpPdWFHRzNVNVdkQ1Q5M1lkckVHQ2pnWHJyR0VsZG5Cb2RGemZqcFdqMnVNTF8taEozTVVjdzZYU0c2aGlhU2k3UTZfNjV5NXc?oc=5)** _(Mon, 19 Oct 2026 22:44:26 GMT)_
+- **[Diners at Georgia Longhorn Steakhouse could have been exposed to measles - WSB-TV](https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGdIZ0tjQ3lBOE5NX2dabzNqNVlVblRwYi1rSFg0cTVaRWxPVXN1RkhhQWQ5YTE0T0VzaW1kbzE4dGtJQVZlUVRhUmFKZFBqUmUtNzRLZEtwaDVTc3pUMWRxemhESG83T2k2NVpWS09NWVhxOHJhczZ3RXRKNzEzZTlaZDBOV1VLYWVRNmNFempHLTRxR3dyQWlZdzNhV053bU01bTdvQjVNb21IY3IzSElsTWhxSmN3RmVwa3lTUWFKLXVtenfSAdoBQVVfeXFMTm5OR0xMbmhJTlZkZ2VrQ0dRTFBoZ0VfMm4yZ0F3aVNpcC1MY1JpbFViZzYyTG1iQnB0Uk9rUkk2eWRPMXh3Q05OSXA0cHVBTkhMUXpMUG83MFRxYXNYT0Yzdy1udUFaT3pqRTlNUEtCRU9QNTFqNHBkcjZsQkpuWXN5VnpkanBlM2ZqdlVsNVBlZEplRjhueWo5b2tndzdRYjM3S3RKZnFzTldLUF9lekdwZUFRYjFXYlhWOUZrQUlTSnJMbFN0cnpHMFJvd0xnZ1hCcWMtLTNpcEE?oc=5)** _(Mon, 19 Oct 2026 15:09:14 GMT)_
+- **[Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment - NPR](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTdoUFZ4R1oyM1hUdWdlRkhJTWZhZHVoaVg1ZWR1Q2RBQ3JOeWtGRlNXRm15VTNDVnY2MzNoRTNuN3dMZUVlcS0wUjFMeGtlWEg4YWRpSndGMmhhbmNSVTZFZEVGUkFPd3V3eWxJa0xocGt3Yk5xTy15NEgzVTk5ZFFldnMwTUJ3VFJjZllpMktrRHRldUNYcTAzQThocXhPOGNtZTFn?oc=5)** _(Fri, 16 Oct 2026 17:45:16 GMT)_
+- **[Early flu season lands in WA as COVID numbers also rise - The Seattle Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZTMEc3M2F3Nm4taFZJTkJuU24wX1VWTHg5em9nQWJtSllSMjQyUEp4WXEzMDA3RFpxVnMxZ0lCcWQwcTVQVy0yejluN3A3dUExVHBockNzQ1BrUTlHSDlzSUVIWExrbmc4alJVMUNJY0pnaEh3VHhkbnVfWUVpLXJRWWpEbnZYcVU2MXVJU3VVRmFVd1dQaHMyY1ZLV18tX29nN3daTC0?oc=5)** _(Mon, 19 Oct 2026 13:00:00 GMT)_
+- **[New AI tool can predict cancer survival by a single patient selfie, study suggests - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5)** _(Mon, 19 Oct 2026 22:30:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-19
 
 ### Source: MedPageToday.com - medical news for physicians
