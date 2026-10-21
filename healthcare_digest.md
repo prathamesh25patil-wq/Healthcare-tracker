@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-21
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Study Supports Starting HPV Vaccination at a Younger Age](https://www.medpagetoday.com/meetingcoverage/idweek/123494)** _(Wed, 21 Oct 2026 00:01:00 -0400)_
+- **[Not Just Moms Who Put Unvaccinated Infants at Risk of Hepatitis B, Study Shows](https://www.medpagetoday.com/meetingcoverage/idweek/123482)** _(Wed, 21 Oct 2026 00:01:00 -0400)_
+- **[FDA Green Lights Potential Functional Cure for Chronic Hep B](https://www.medpagetoday.com/infectiousdisease/hepatitis/123498)** _(Tue, 20 Oct 2026 17:44:38 -0400)_
+- **[Doctors Push Back on Claim That El-Sayed Is Not a Physician](https://www.medpagetoday.com/washington-watch/washington-watch/123497)** _(Tue, 20 Oct 2026 17:22:50 -0400)_
+- **[How Serious Are Jalen Hurts' Blood Clots?](https://www.medpagetoday.com/popmedicine/cultureclinic/123496)** _(Tue, 20 Oct 2026 17:20:51 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[How a photo of a person’s face could help predict whether they’ll survive cancer treatment - CNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIVEhUSUtyQ0plTUJIZ3hRbk8xNnJEN2hSaTlnUmwtTmpISzhDeS1jSHpudXlkdFMtckxacXJNcjkyWkJodW15NF90OHFhUWdlRldIb0MwV0MwU05UNGktaEJ4VG1SOUlKX2FzbDBQMUZ6NDQwWC1RbFlCNGs?oc=5)** _(Wed, 21 Oct 2026 01:33:00 GMT)_
+- **[The work of four CU Anschutz doctors is kind of a big deal - Colorado Public Radio](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTgzMUlTQXp0RlFHdFd0NU83bVM5Tnp0MXhIcl9oOVBicXp5V3hLblJGREJ1UDRweE5pcENyWUE1RWdVeXZKZlBFRjRFdDl0QUVHM0FJN0xJYXFva2ltSDFxdFB2RjdZU0xSeXNxeXJJdnFHZ20wZGttOHBDcUVQWHR3TQ?oc=5)** _(Tue, 20 Oct 2026 19:46:50 GMT)_
+- **[Pennsylvania warns of rise in congenital measles and infection during pregnancy - NBC News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQMG05RW1WWUxJY01MOWhEWWh1M0FzWmp6dGY1ajFJZHFRTXRqRGNjQlh5dHEzd3duUW1lMjZ3WW5fOHJOak9oazZsOGFHVm1fWE1GcU1HalFuQlhxU0owNFpwUnVvY2N1cTc0WFdxSVpOb050V1JSeDR1WHRzd3BPdFg1RWdLb1FUcE1DazZZRnR2N2JaR2xDeUx3WTNDX3ZwQ0FOZjhQWmoycXl6YWVZV0RiUXNHVlU?oc=5)** _(Tue, 20 Oct 2026 17:12:17 GMT)_
+- **[Early flu season, current strain may signal risk for younger people; doctors urge shots - KSL News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX09CQTdHNTZxcTZvZ0VVQ0tEQkdGeE8zellLVEFWVUZWWk9JUVZneE9Bd2djUVFDY0ltWE8tNFNKVFJ4MVEwamFmNzdTd0lSN01ZZVBWN1FaYmhoYmpZT3hidjhDRU1mREpMREtXd0NlRUIzU0gyVlBwOHNZUmtBNzEtcV9OclZzSHktX3czRmJ2dnJFWm9lSFh4Z2xFS25XVVBtRjBOckxGb0swZFJvZ0NxaDg4bUdpTkdYejZ3RQ?oc=5)** _(Tue, 20 Oct 2026 16:33:16 GMT)_
+- **[Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment - NPR](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTdoUFZ4R1oyM1hUdWdlRkhJTWZhZHVoaVg1ZWR1Q2RBQ3JOeWtGRlNXRm15VTNDVnY2MzNoRTNuN3dMZUVlcS0wUjFMeGtlWEg4YWRpSndGMmhhbmNSVTZFZEVGUkFPd3V3eWxJa0xocGt3Yk5xTy15NEgzVTk5ZFFldnMwTUJ3VFJjZllpMktrRHRldUNYcTAzQThocXhPOGNtZTFn?oc=5)** _(Fri, 16 Oct 2026 17:45:16 GMT)_
+
+---
+
 ## Digest Date: 2026-10-20
 
 ### Source: MedPageToday.com - medical news for physicians
