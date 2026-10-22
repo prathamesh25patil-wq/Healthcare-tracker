@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-22
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Psilocybin Tied to Lower Inflammation in Parkinson's Trial](https://www.medpagetoday.com/neurology/parkinsonsdisease/123514)** _(Wed, 21 Oct 2026 17:00:23 -0400)_
+- **[Ianalumab's Road to Approval for Sjogren's Looks Bumpier](https://www.medpagetoday.com/rheumatology/generalrheumatology/123512)** _(Wed, 21 Oct 2026 17:00:00 -0400)_
+- **[Chemical Tank Explosion in Ohio Forces Evacuations as City Allows Plume to Vent](https://www.medpagetoday.com/publichealthpolicy/publichealth/123513)** _(Wed, 21 Oct 2026 15:47:26 -0400)_
+- **[Testosterone for Menopause May Carry Heart Risks](https://www.medpagetoday.com/meetingcoverage/tms/123511)** _(Wed, 21 Oct 2026 15:14:35 -0400)_
+- **[Ultrasounds for Schizophrenia; 'Circadian' Depression; GLP-1s and Eating Disorders](https://www.medpagetoday.com/psychiatry/generalpsychiatry/123508)** _(Wed, 21 Oct 2026 14:34:59 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[C.D.C. Ignored Request From States to Validate a New Measles Test - The New York Times](https://news.google.com/rss/articles/CBMicEFVX3lxTFBsYkx0Rk56aHlmTjR2WWJCX2dNUGl3a09yQXBibjliZ2dVVm1KTFllZ0lKZVdrNmY3YURRZlZjVUFjeEU2ekluN1o5MjhmME1SNldmMUpWR1AxSUQ1QXBTM05rcEdaazU0RmRGcG14ZEs?oc=5)** _(Wed, 21 Oct 2026 19:42:32 GMT)_
+- **[Body clock disruptions contribute to one in four cases of depression, suggests large study - Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXbnRoa25nRVA5elAyLUEzR1JtRmN3bUlBVm1JT2dfcFR1MkxQZkNxS1d6ZkpjOVVlNEFqamZxT0ZJSTFxN3BlRlVXN0ppWG9vbi1NRjVLUkNyUnVDbVRZ?oc=5)** _(Wed, 21 Oct 2026 04:18:02 GMT)_
+- **[How a photo of a person’s face could help predict whether they’ll survive cancer treatment - CNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIVEhUSUtyQ0plTUJIZ3hRbk8xNnJEN2hSaTlnUmwtTmpISzhDeS1jSHpudXlkdFMtckxacXJNcjkyWkJodW15NF90OHFhUWdlRldIb0MwV0MwU05UNGktaEJ4VG1SOUlKX2FzbDBQMUZ6NDQwWC1RbFlCNGs?oc=5)** _(Wed, 21 Oct 2026 01:33:00 GMT)_
+- **[Large study finds no link between ultra-processed food and colorectal cancer - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)** _(Thu, 15 Oct 2026 18:00:41 GMT)_
+- **[Pennsylvania warns of congenital measles risk as cases rise - The Hill](https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXNCc3RoYmFQMk1uNjYtWHRrY3pVT0FDUkx6MEpHODRwZW9HNTNuSElpRjhjZTZEQkhrZU1pNkxCZDZleENHZEtlVkh2akxJVmZ5bC1pUGIzcU5TRFE4eWhzS1pualBpY0VsZjluVjI1NE9STVhEMHdVQ2I5RkFHUzVGZW9MZkRNclV3STZ5d0hXRUY3WENySFpB0gGfAUFVX3lxTE4tRlBYRU5iWnoyOTNFVmh6aEVBM0dqOGxra3VjUEZ5MmFNWDV0NXQzeUo2bXgxV2txbGl5UVo5ZGJZNTdlb29BN0R2OHFYbVZWQlZOSm1Kd214bFVMMG1ZemltWHFZRU1JeVk3T0tqV2I1U3duWlZDQ2k0N0RYT2tlSXFyeGE1UWw0aVZkUTNpOVFaZ0gxNGYzN0hsNVhoMA?oc=5)** _(Wed, 21 Oct 2026 23:01:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-21
 
 ### Source: MedPageToday.com - medical news for physicians
