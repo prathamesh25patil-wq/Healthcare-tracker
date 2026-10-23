@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-23
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Donating a Kidney Could Lead to Later Pregnancy Complications](https://www.medpagetoday.com/meetingcoverage/asn/123521)** _(Thu, 22 Oct 2026 19:15:00 -0400)_
+- **[ADHD Drugs May Alleviate Menopausal Brain Fog](https://www.medpagetoday.com/meetingcoverage/tms/123539)** _(Thu, 22 Oct 2026 17:45:46 -0400)_
+- **[Multiple Sclerosis Diagnostic Delays Linked to Specialist, MRI Access](https://www.medpagetoday.com/meetingcoverage/ectrims/123538)** _(Thu, 22 Oct 2026 17:42:10 -0400)_
+- **[Fight Continues Against Trump Administration Changes to 340B Drug Discount Program](https://www.medpagetoday.com/publichealthpolicy/washington-watch/123537)** _(Thu, 22 Oct 2026 17:27:12 -0400)_
+- **[Second-Season RSV Immunization Worked for Eligible Children](https://www.medpagetoday.com/meetingcoverage/idweek/123536)** _(Thu, 22 Oct 2026 17:06:30 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Flu cases rise on west coast earlier than usual as US health experts encourage vaccine - The Guardian](https://news.google.com/rss/articles/CBMifEFVX3lxTE95VjdYU2tUTDRCLVdKdFpUSndSUnpPeGEzMER1eGZrTV85bTJWUHUwemNtRmJYOWhsSUpZQ0UwVndhSW50NTBLVEo5XzFaeDU0R2NZQTdvNVZkSHdWaHllRlo1OC1rU3h0WURnbTAyQ1hpVEdqMzlWWnhfOUE?oc=5)** _(Fri, 23 Oct 2026 01:44:00 GMT)_
+- **[Why measles outbreak in Pennsylvania poses risks beyond US borders - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTVVVDVfMEtjeEFBZS1hd29UR3FwTFlreEFiN2xJQjR1QXh3UDh2R0JLMUxmenEwWTdMaU4tU2E5Q1cxa2M0aUoxYk1OSVNwdkxBRVhpT1JoX2lOVHZhLXB6ZHN3OG42NEpPVlFoU3ZZeFBwb3JpYUlYNWpwUkY5b3RvVWtJSXV4bXJXbDAtVDRaVjVNVW9XRmF3dmg1bDF0V0s5SkZjeVpfZ0Jt0gGyAUFVX3lxTE5hV0F5TEF1d1ZVOGZPR0ktc0hSMGRzVi1fZlNrVm5oQllwbk1IdFJuTEFVVmdBVlFTMUdpRDR2bEkzUzFpcVFJMU9XOFRhSXV5NEdFZ2FKbkFHdnhGUTZ3c1VMQ3M2NHJyTUZQUVdrSTV3R0hnRGIzSlBvT1BTOXo4SVBXbFpwemFwMEs2ZjlxSWNUZmVSdjQwVWVOZ2hZZmpTeGg5MGhBZlhqekpWVWd4ZFE?oc=5)** _(Thu, 22 Oct 2026 21:16:07 GMT)_
+- **[Millions take fish oil for brain health. A two-year study found no benefit - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1NRjJSSWdLWTE2bWw4Umt0bWh6bkllYzVjcnVHeFBabHZZMHF2djhEcjY1Q1JvSUhqRVJVQUR1N05wTEZLbFM2RGRNUHNUUlFYOGl6azVxMnVJRWozNUtqVHVpYXM2VThZYm9kTG1JNA?oc=5)** _(Thu, 22 Oct 2026 12:48:28 GMT)_
+- **[France reports first human case of livestock virus Shamonda after patient dies - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5)** _(Thu, 22 Oct 2026 18:58:52 GMT)_
+- **[Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5)** _(Thu, 22 Oct 2026 16:41:13 GMT)_
+
+---
+
 ## Digest Date: 2026-10-22
 
 ### Source: MedPageToday.com - medical news for physicians
