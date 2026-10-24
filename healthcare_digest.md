@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-24
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Endovascular Therapy Eyed for Milder Strokes, Later Time Window](https://www.medpagetoday.com/cardiology/strokes/123562)** _(Fri, 23 Oct 2026 21:40:00 -0400)_
+- **[Chinese Drug Shows Benefit in HER2-Low Breast Cancer](https://www.medpagetoday.com/meetingcoverage/esmo/123561)** _(Fri, 23 Oct 2026 17:13:51 -0400)_
+- **[Type of Menopause Hormone Therapy Tied to Small Autoimmune Disease Risk](https://www.medpagetoday.com/meetingcoverage/tms/123560)** _(Fri, 23 Oct 2026 17:08:20 -0400)_
+- **[Supplement Shows Promise for Improving Cancer-Related Cognitive Impairment](https://www.medpagetoday.com/hematologyoncology/breastcancer/123559)** _(Fri, 23 Oct 2026 16:45:19 -0400)_
+- **[Infants' Maternal Measles Protection May Not Last Until First MMR Dose](https://www.medpagetoday.com/meetingcoverage/idweek/123558)** _(Fri, 23 Oct 2026 15:14:32 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Dental implants can hijack your immune system, scientists discover - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1VUlM5c0E4NmRIMmpNUGlvTkZKRElLQ1NpeThJRUN6c2JlSHg0Y3JVc2xvU1JFS0RZc2pQb243ZUJJUTlfamFRSTVnaXZvZjg2Z2VQbS1kUW9UY2NtbWc2TjNSVVZNblduNkFJQ3M2UQ?oc=5)** _(Fri, 23 Oct 2026 11:14:25 GMT)_
+- **[Dengue cases in Florida continued to climb after emergency declared - The Washington Post](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHNwLVM1YmE3MGlGeVNZdnFmZTdZYUtFSVVtVUtvTW83dTZXWmhaWldJSDhOekRWOXdiSTNEejRkWmpOWm8wTWlJTHNjREladVhzSFRjYmdHaWhUUjhWTUR6LWlfSjJfTE8tSWtKSGdIOTZPclZSb1dRVTVEbjdIZmk1dXlYMk81R25VZHFRMUFyQUhXVDVjRVNZc05qd3ljeVc1b3BPQ1AwMXphYXM1Tw?oc=5)** _(Sat, 24 Oct 2026 01:25:33 GMT)_
+- **[How Pastors Mobilize Communities in Congo’s Fight Against Ebola - The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2FWWXRKcEhmd2ZhZ1o0djlZWEJ4ZDNJelg5d0ZwVTBLZUdndS1Wa1RmeWkwQTU5M3lWd1ItZ0Vsc1dxa01WRHVXUTkyZ2pxWDVGcXExYkFXVTZIUFlWWGlKc011M1JseThwbjZBMzJ0RmNsV2RLMHlJcGxwQmFQOFQ2eGVtaU01SU5wcUhnM3U?oc=5)** _(Fri, 23 Oct 2026 04:01:16 GMT)_
+- **[US CDC says measles cases rise to 4,588 as outbreak continues - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmllVVNoU2J5OHFVeWNyMWZUcmhEVWFwNzlKTDM2OFBpSkNJZ1N4ZmZ4aUV2QjEtdXpoRTB5cTVydmtuV0xGTGlwYmVaU21TalRLWElfdS1FVVQ3NlM2VGVRUGZ0dFVQS0JLaURtMFYyTDUwYk4zU29SM1VYeTZnWkk5NEZ4emV0VjgtSlIySlFOVjlYUFpVU2NNZlV2VzBqd0R4bTFuUFIzVEE?oc=5)** _(Fri, 23 Oct 2026 17:28:49 GMT)_
+- **[Second raccoon tests positive for rabies in Los Angeles County, health officials say - KTLA](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWkySklvSW8tbHM2ejFyNl8tSnNseXF2LU5TVlFGclVHdXplT2tBTzdoVExrc01Wanp1RGxxOHZESGVhYzlPOUpMOVZEbFNrYmdJa1l2QWEzQ1Z1enV4MGplcm1jQnlaMWM3YzNvRmdfNEFOR3FobHl4SDlvYXZpN2pmYnNJMmc5SXFSa3VNMmxlRndUVmVXbXM5amXSAaIBQVVfeXFMT0tRRlNWWUlGdGpPV0g5ck14MEQydExKVEdTLVlKSTVaMGRJcG5xcEVUTFlMRXJXQmJXUkhaU0hxNm80U05mazRBUE05bzVIaDdSUFRLX01WejA2ek10Q1VabFZkR2ZaQ0pvNG5DcUVVWmd6TGQ3OGIybFZGbDBuRm1NUDNZeFFVb3E3ekRRYkNNdFVoYjQ3bWlsLTRLNXRMV0F3?oc=5)** _(Sat, 24 Oct 2026 02:20:51 GMT)_
+
+---
+
 ## Digest Date: 2026-10-23
 
 ### Source: MedPageToday.com - medical news for physicians
