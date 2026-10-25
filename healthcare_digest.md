@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-25
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Tovecimig-Based Doublet Boosts Response and PFS in Advanced Biliary Tract Cancer](https://www.medpagetoday.com/meetingcoverage/esmo/123567)** _(Sat, 24 Oct 2026 17:29:14 -0400)_
+- **[Novel ADC Achieves Impressive PFS Advantage in HER2-Low Metastatic Breast Cancer](https://www.medpagetoday.com/meetingcoverage/esmo/123566)** _(Sat, 24 Oct 2026 17:02:29 -0400)_
+- **[Patient Death Reported in Multiple Sclerosis CAR-T Study](https://www.medpagetoday.com/meetingcoverage/ectrims/123565)** _(Sat, 24 Oct 2026 15:19:19 -0400)_
+- **[Atacicpet, Sibeprenlimab Halt Decline in Kidney Function in IgA Nephropathy](https://www.medpagetoday.com/meetingcoverage/asn/123564)** _(Sat, 24 Oct 2026 15:05:29 -0400)_
+- **[RSV Hospitalization May Be Taking a Surprising Mortality Toll, CDC Finds](https://www.medpagetoday.com/meetingcoverage/idweek/123563)** _(Sat, 24 Oct 2026 14:23:30 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5)** _(Thu, 22 Oct 2026 16:09:27 GMT)_
+- **[Second rabid raccoon found in Los Angeles County - ABC7 Los Angeles](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNlY0TXdUV3U0endUaDFaV19sNjFVZU1tWG9GcHlvRnROZU9UUmxIZ3JkNGh6NjIzNUVNTDlVRDFxd05JN1VwNEh1eEttRG5rMDNWZGduaWxidzZXZVZ6ZGFTUDZiX0tGcmxzZi1TRDFpQ2dXclF3SlhNZ2tMRmhMTDRXRdIBiAFBVV95cUxNR3pfTGNBalQwVXRSaTlkaU01YnhaWFFhQXo3ZGRKanhzbXBkRHcxLXdsaUs5R0VtVTV0T0JBQW9SWTN1dnYwN3F0RUZEbkdkUlZFeDZqSUdRSzRIZ01WZjAxV25DSDA3XzQwWWFBNmVlOG1ZVzZhcHZ0Nm8yYlFfbjAtcjcxeWty?oc=5)** _(Sat, 24 Oct 2026 03:28:30 GMT)_
+- **[A precision T-cell therapy stalls treatment-resistant cancers in clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZjl0SUh0LXZGbmowenpiU00tc3dCWEVQOWJRdmxKZnpSZnQ2WEo4ZjNUVVpseVVqSkJMNnduajdibEJoRUFRMHdseUY0OVl1Y1p4eURIU1lRb3BjaVZfSldWOUNDZ09FZ2tFSFNTaEpYT1BBT2RXX0lXSU5UU05OR2dyU1dQbERoRlNR?oc=5)** _(Fri, 23 Oct 2026 19:00:11 GMT)_
+- **[Additional 178 cases of measles reported by US health authorities amid outbreak - The Guardian](https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5)** _(Sat, 24 Oct 2026 12:02:00 GMT)_
+- **[Flu Activity is Ramping Up Early This Year. Is a Mutated H1N1 Strain to Blame? - TODAY.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmh4bFdPQ2ROeFVPdmNyNVZsc0Y4VFVONGpTcllwekEzeWR2VGYyV3BTNkRoQ2dTS19fc2VJZFpzSklKcmxpRjU2bW1lWkxFQkk0bmhlUW0tV29sTU1Wa3pXcG9pTXVSdDZQeC1tU1YyUGZieF80eDBmNkoySnU4Y0tGVm5ObGI2V2hMT3ktQUEzdF9OT1pJSTNB?oc=5)** _(Fri, 23 Oct 2026 19:27:15 GMT)_
+
+---
+
 ## Digest Date: 2026-10-24
 
 ### Source: MedPageToday.com - medical news for physicians
