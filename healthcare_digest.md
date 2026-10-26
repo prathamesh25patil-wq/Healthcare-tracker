@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-26
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Remibrutinib Cuts Multiple Sclerosis Relapse Rates in Phase III Trials](https://www.medpagetoday.com/meetingcoverage/ectrims/123572)** _(Sun, 25 Oct 2026 16:49:09 -0400)_
+- **['The Cat Is Out of the Bag': What We Heard This Week](https://www.medpagetoday.com/opinion/what-we-heard/123554)** _(Sun, 25 Oct 2026 16:00:00 -0400)_
+- **[Trio of IgA Nephropathy Drugs Proves Mettle in Interim Analyses](https://www.medpagetoday.com/meetingcoverage/asn/123571)** _(Sun, 25 Oct 2026 15:53:18 -0400)_
+- **[A Win for Durvalumab Doublet in Muscle-Invasive Bladder Cancer](https://www.medpagetoday.com/meetingcoverage/esmo/123570)** _(Sun, 25 Oct 2026 15:37:39 -0400)_
+- **[Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It.](https://www.medpagetoday.com/opinion/second-opinions/123553)** _(Sun, 25 Oct 2026 12:00:00 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[New Florida counties report dengue cases as statewide total passes 400 - The Hill](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUEFZRTk4dUpUbkE0R1FaY3dRX3VBVXNXRDQ1b3VVM2cxSkdsY0JTdVhpQjhyeTlWSzZfUGFlQWxZWHhZM0hFTm8tY2x6VFRvdUpjak9lWm1kNjFmYXJhWmJGWkY5TXBpS3JlT2NsWWZoY19rQzhUcmVBdlozV1Rndi1ZNnBvYjZiTkEyR2VpSWdtVjVZRWNuck1NekNzd2xSVTRxYUs1cVFncGg4c3Y0N25wN1Zmclpw0gG-AUFVX3lxTE5TbGotRDBFd2x3UmZhbThLTVp4X2hJc2wtUzBESW94aUZPY0dvWGtMWmkzako4ZGc3NGUxNldjcEFrNmViVDdqa3Z3ZnRMRE1VU1JKYXZPOGtGX3hraWoyV0tpWUxvbE41a3dxdFhXLWZEN2R1QVV5NmVmM0FJMk9fNlFVc25xSFdwM3FGVGF2VXBzRnJMQk9pZW9XNEFjdldpVXQzTXJTcVJISkxSUjdNY2lYeTBlNEE4V2o4VkE?oc=5)** _(Fri, 23 Oct 2026 15:52:00 GMT)_
+- **[U.S. measles cases more than double what they were last year as outbreak spreads - NPR](https://news.google.com/rss/articles/CBMif0FVX3lxTE10dmpQc05kNFNxUnFFY0tJLUtBNkhta21ZTl9SUEd4OGpZZ3czU0M2SUZnTGhzaG40VEJLVFhjN1lBODdROHJHRm8xTHFZNmVjNXJkMlQ1dlFCOFh0OS0ybHRMRmxTcjB1amtQaFZKVUFaRGJzWEw2SUhEVVpQeDQ?oc=5)** _(Sun, 25 Oct 2026 20:35:35 GMT)_
+- **[Is Rabies Making a Comeback? - The New York Times](https://news.google.com/rss/articles/CBMid0FVX3lxTFA2V1YyajF4cE04d0VrNUUxRC1oTDF2RUM2aWtsQUVSenN5dEgyMWpHMWJGcWdOY1o4dktuRUhJOGFzODZqZWw4bDFIQlYyVTdZcGVNTElzcmhxeEl0ZWpSQUl3M3hYWkVtcF85Xy1PQnVVMDBueWVV?oc=5)** _(Wed, 21 Oct 2026 14:00:07 GMT)_
+- **[Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5)** _(Thu, 22 Oct 2026 16:09:27 GMT)_
+- **[Should you get a flu shot now? What we know about this year's dominant virus - Newsweek](https://news.google.com/rss/articles/CBMieEFVX3lxTE11TnRTMlY1SE0tX3lHenJzMWhyUTRPb2ZocGwzTnNFeTRPX1lpUDNTeHZpVWdGMktXR3JmZHA1cTFmeXRwclFqV1FQNHFNY1JJWFREOWw2bWJteXF5ZWNmT0FlQXF5TlBCVXBobTJHYzUtM2dhYUxWSA?oc=5)** _(Sun, 25 Oct 2026 02:04:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-25
 
 ### Source: MedPageToday.com - medical news for physicians
