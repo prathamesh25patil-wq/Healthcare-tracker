@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-27
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[AI Scribes Improved Note-Taking Time but Not Productivity, Study Finds](https://www.medpagetoday.com/practicemanagement/informationtechnology/123591)** _(Mon, 26 Oct 2026 17:00:00 -0400)_
+- **[Obesity in Young Adults Linked to Multiple Early Cancers](https://www.medpagetoday.com/hematologyoncology/othercancers/123584)** _(Mon, 26 Oct 2026 17:00:00 -0400)_
+- **[GLP-1s Tied to Lower Rates of MS Relapse Activity, Real-World Study Shows](https://www.medpagetoday.com/meetingcoverage/ectrims/123593)** _(Mon, 26 Oct 2026 16:47:01 -0400)_
+- **[She Voted for Trump Every Time. Then Came Cancer and the Bills.](https://www.medpagetoday.com/washington-watch/electioncoverage/123592)** _(Mon, 26 Oct 2026 16:40:43 -0400)_
+- **[Study Questions Safety of Strict Protein Restriction in Chronic Kidney Disease](https://www.medpagetoday.com/meetingcoverage/asn/123590)** _(Mon, 26 Oct 2026 16:04:10 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Early US flu season, current strain may signal risk for younger people; doctors urge shots - Reuters](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkkwaGluQTB2SS1DUmlvT0JGb3pqbXNGV3FWM0txZlZJZzRla1pRMk8tNHZBQXFZSkllZDl4WjdyU01LY3kwZ1ZIVVBOODYyQW5KRklOLVZ5QjI4UDhEeWlKenpicXJFMWY5cXhvZWllVnR5MWJIWDRIUHZoVjI4Tk5aLTBQUWhKd0xZSlUya1Q0ek9DSmttb2RyTTF6bTFzODdGLW9lSW1rdXE2anpkdUQ1WnFsLTFMQThtUHVoNzExQTdIdDV2M2JlOGU0ZWpVeXIwSXBNbmdLVEVFYVllWWtWZ2o?oc=5)** _(Tue, 20 Oct 2026 10:04:49 GMT)_
+- **[More women are dying from heart disease. New guidelines for doctors aim to change that. - NBC 5 Dallas-Fort Worth](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbUFlN3hHa3VwSDZQd3pULVBVVWoxbEVnQ1ZsS1lPZlUwVThmZ2dRR0pSaENjbFZzcTZWMnllakMwQkV4NkhnUk44alh6alpZclhUdmdkV095SnlUckFrXzhuLUJUQTRvS1J3bTZiemJiT1E4ZnVlaUttYXBxTXBNMEpNZ2xNNmU4X01qeUVVdEZiYVRVYnZfZ0FB0gGiAUFVX3lxTFAzOHJGRFMyN2JIaXl3cnRSaXdOSmJlVE85NThPcVRaOV9uOUd2OWx0NFk4aTZScEN2VjlGenRwS3EzZ3N1WVJVV081M1hNOVJUcFlGTFpvaF9aNVREdHFIQzZUc0VCbDU1VXRoTnpZNlVpTVVWQ09YVWtTdFZPYTdLaVJlckZrM2o3cmtjTlZ4ZkN5dW1aX3hoOHJjZlFjcHN2Zw?oc=5)** _(Mon, 26 Oct 2026 16:54:54 GMT)_
+- **[Doctor performs surgery on patient at hospital 35 miles away using robotics - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaU1uODNBTHNBOE5uNEJjQndCY1dqZkc3RGkxcVY5NHNuSzh1Nm1UbTZMSGVCdmhSaHBicTctdkUzd2gxTzZyWnJ3bkEteVlXeUFmRW5GX3FPbHJ6R05paGZjTk5PWHFpWWhrX1dCYm5uQjkzLWtTM0duNDhyVHlmRkxxNXpZLUIyUVNKalVOR3ljSVNBbGVmMDl0dDlQLW1fTFlUVlNidTRDV214czhF0gG0AUFVX3lxTE5xbXBvd3A3dU5MRklvQnBWV0k2RVNPcU1lRDdGLUFTbEp3QlZWVEcwWk5pTnRwWExqRTZfbWhnanNhbDB5dVRkVUxNVHNJYzl3U2NiaHZlNEdPTDRMNnl4bk5ZcHlGOXVRakFtdXlGSjNjcl9JVUVhTlM2Q0ZXT203VlZraWFPNzlqRnhCRHRXYVJGYUVnelM5em1OLVpuQXpaX0Fza3BvQy1UalhZZVNOTk9rRQ?oc=5)** _(Mon, 26 Oct 2026 21:22:27 GMT)_
+- **[New York State Seasonal Respiratory Virus Dashboard - New York State Department of Health (.gov)](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNmM1T0JWaWFoNnFxbEhORXpBczhyNFFlQXNTTUdsY2NRRHQxYk1iSEpDZlYxbjFSNWdDcm81clZiV3o1MF9lQzRqTUJNa0F3SzBDZXI2M3BpX2U2NE1iX0tPa2VEd2tzcHVmNUo0bnBGWlhHdC1Fa2tzWmRldU9sN3lsSQ?oc=5)** _(Mon, 26 Oct 2026 16:59:04 GMT)_
+- **[Is Rabies Making a Comeback? - The New York Times](https://news.google.com/rss/articles/CBMid0FVX3lxTFA2V1YyajF4cE04d0VrNUUxRC1oTDF2RUM2aWtsQUVSenN5dEgyMWpHMWJGcWdOY1o4dktuRUhJOGFzODZqZWw4bDFIQlYyVTdZcGVNTElzcmhxeEl0ZWpSQUl3M3hYWkVtcF85Xy1PQnVVMDBueWVV?oc=5)** _(Wed, 21 Oct 2026 14:00:07 GMT)_
+
+---
+
 ## Digest Date: 2026-10-26
 
 ### Source: MedPageToday.com - medical news for physicians
