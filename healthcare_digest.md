@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-28
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Congress Mulls Ways to Fix the Surprise Billing Law](https://www.medpagetoday.com/practicemanagement/reimbursement/123612)** _(Tue, 27 Oct 2026 17:41:32 -0400)_
+- **[Fenebrutinib May Curb Chronic Active Lesions in Multiple Sclerosis](https://www.medpagetoday.com/meetingcoverage/ectrims/123611)** _(Tue, 27 Oct 2026 17:21:43 -0400)_
+- **[Lyme Disease Vaccine Candidate Just Misses Its Mark in Late-Stage Trial](https://www.medpagetoday.com/meetingcoverage/idweek/123610)** _(Tue, 27 Oct 2026 17:12:08 -0400)_
+- **[AI May Help Detect Rare Sperm in Men With Azoospermia](https://www.medpagetoday.com/meetingcoverage/asrm/123609)** _(Tue, 27 Oct 2026 16:30:43 -0400)_
+- **[RFK Jr.'s Claim That Arabs 'Don't Produce Science' Meets a Nobel Prize Reality Check](https://www.medpagetoday.com/washington-watch/washington-watch/123608)** _(Tue, 27 Oct 2026 16:24:58 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Hospital beds for the nation's sickest kids are disappearing - CBS News](https://news.google.com/rss/articles/CBMihgFBVV95cUxPc0lkSjFybVBVTHdCYjJRbHZNSHA0U2xZYTB0OXBPR0JQV3JwZWhmRWc4blpBdmozWktCaHlLSFYtRGw0R213OGhDR3JCMkVKWUZEZFVwRXZDdlRucWl3eEVUT0JMd2MwS0FzOWg3bEEycXlFQVNTN1MtaXVjZllhVzUxNE1lQQ?oc=5)** _(Tue, 27 Oct 2026 09:00:00 GMT)_
+- **[CDC warns of rising threat of drug-resistant germs, which kill 50,000 people per year - NBC News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHZYNU9yaFplM3NIaV81dXBQUVRuUGJRREtHbWZYYkVhakk2UUo1UEhkWVZlR0dXZk9CT1RxeVVMRkRqTlE3Y3FCNnJiNVJGZnZ2OXpfVWhoSzN6dzN3Z01SQkhuemEzTldXVVk0YXdkOHk2cGx4Ry1ZSnVsd1lDWEpqQ041ZWNnODZiSy1ZWVZFOS1paFE?oc=5)** _(Tue, 27 Oct 2026 17:42:11 GMT)_
+- **[The Ebola outbreak is breaking records — and just marked a grim milestone - NPR](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVFpNRldjenFZd1k5YXdkR240dTU3bHREZVVoZ2twNUIzZlVuYzhHeWxRR0tRMVJkSE5SOVhCVlhTX1pUTjQxZUtZRktteUg4MGwxdXhQVkJwcTZpczUzbHdlbGlwY1hsOTF0RFBmZ2VEUmN0RVIwVkpxUU9pRE00WUMyZkxYY3pIY0FLdEhEZi1IQ1ctVnd6aG5WbFNUa2pGN18w?oc=5)** _(Tue, 27 Oct 2026 19:53:12 GMT)_
+- **[Cardiovascular Health in Girls and Women Compendium - professional.heart.org](https://news.google.com/rss/articles/CBMinwFBVV95cUxNT0tteDZoNDNHcHFZaHVXWVNTS0VhWWxLVTVleTlvZFU1Z0VjdVZsNXBPZDZyYUVkSTZCMGdkNXNSUmNPc05zTXVSZm44bGNBM1hVaXRPbVFoTF9qbkhVSWJkRll0ODZXVkQtQnhEMEVNVGV1UGI4VGhkVWNka0dDWlVCRkFSTzNVVVVyUlVvQkpXdllCaEtkV2NuRmlxcFE?oc=5)** _(Mon, 26 Oct 2026 14:45:06 GMT)_
+- **[A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say - CNBC](https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeHFFY0VET0lSLXBsNG1vc0paTjJVOFFrOEd6QlpEZUs5QW9sU0QwTzhqdTloQUhuTFNXTHpKYm1rc1pwQUdMSkt2VHVlWWREa1AtLUpodWU4MTZhOVZYRU5naXNDRmdHOWFOcFhB0gFzQVVfeXFMUFB5ZS1HUWVsSnE0Q0xIa1ZDY1ZhRXV3a3VXeVFJb0VBaGtvS05pOHZhUHRsR2tNSU4xN1NlMnFVYjhzcThDTm5XeUhYMG1Ka1B6UUhtdkMzU19lbmd2X2RvaC1mNnRSblB0cy0zbU5JTzNINA?oc=5)** _(Tue, 27 Oct 2026 11:00:01 GMT)_
+
+---
+
 ## Digest Date: 2026-10-27
 
 ### Source: MedPageToday.com - medical news for physicians
