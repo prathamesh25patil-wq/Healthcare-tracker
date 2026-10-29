@@ -1,5 +1,20 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-29
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Injections for Achilles Tendinopathy Flop in Randomized Trial](https://www.medpagetoday.com/orthopedics/orthopedics/123614)** _(Wed, 28 Oct 2026 19:30:00 -0400)_
+- **[Rare Brain Disorder Linked to Water Pollution Sources](https://www.medpagetoday.com/neurology/parkinsonsdisease/123633)** _(Wed, 28 Oct 2026 17:09:51 -0400)_
+- **[RFK Jr. Eases Access to Unproven Peptides Despite Opposition From FDA Scientists](https://www.medpagetoday.com/washington-watch/fdageneral/123632)** _(Wed, 28 Oct 2026 16:48:05 -0400)_
+- **[Another Win for Novel Drug, This Time in EGFR-Mutated Lung Cancer](https://www.medpagetoday.com/meetingcoverage/esmo/123631)** _(Wed, 28 Oct 2026 15:03:01 -0400)_
+- **[Couples Achieved Live Births Faster With IVF First](https://www.medpagetoday.com/meetingcoverage/asrm/123630)** _(Wed, 28 Oct 2026 14:50:28 -0400)_
+
+### Source: Healthcare Source
+
+
+---
+
 ## Digest Date: 2026-10-28
 
 ### Source: MedPageToday.com - medical news for physicians
