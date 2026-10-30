@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-30
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Here's What Congress Might Do on Healthcare After the Midterms](https://www.medpagetoday.com/washington-watch/washington-watch/123652)** _(Thu, 29 Oct 2026 17:29:39 -0400)_
+- **[Alabama's Frozen Embryo Ruling Didn't Change Disposal Choices, for the Most Part](https://www.medpagetoday.com/meetingcoverage/asrm/123651)** _(Thu, 29 Oct 2026 17:21:19 -0400)_
+- **[CDC Says These Superbugs Kill 50,000 Americans Per Year](https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123650)** _(Thu, 29 Oct 2026 16:57:15 -0400)_
+- **[Physicians Question Board Exam Results After Glitch](https://www.medpagetoday.com/publichealthpolicy/medicaleducation/123649)** _(Thu, 29 Oct 2026 16:50:06 -0400)_
+- **[Live Webinar Nov. 2: What Will the Midterms Mean for Healthcare?](https://www.medpagetoday.com/washington-watch/electioncoverage/123648)** _(Thu, 29 Oct 2026 16:33:16 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[A new test could make it easier to detect one of the most common cancers in women - The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHBrZG5jUnczVDcyMEF4N04zWFp2NDNnaWpmR2MwWUFsNFlXOENsYlJRaEdVSmVnX01mbUktcWdCUFo2UjdoQVRTdmVXNTQzZHpPelRVM2pHaGFpNDJaUl9TODQzNDFEX0RMLV96dk5GOF9vTmZvc1p4UElISG5sSkQ1M0RRZ2Y4WXRHWHZRbi1kNVRLRGNWcV96SW9HNVFPTlF4WVFidTlpU2lhbGlOT2hn?oc=5)** _(Fri, 30 Oct 2026 10:32:29 GMT)_
+- **[As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - AP News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFhlMGw2LWVlLVYxbWZ0OXo3aFhYb3ZWYXV0TEpzX19NdHJ5VTNsRF9EYjVONjBXUlFjQUVXT1J5SC1PODJEazltN2NvVkFERWRKeUVyaUdsM2FZcmd0VWxWeXNkNVBGVVdCZnR1R3lraThTOFZSbHRhRF9pb2JoNjFJTkxSTG1ERzBZMktjaVVMNzlKY1ktWnB6UFUzY3ZOMWVnVEFFOUJsOFBQQXE1ZkRoZ0ZQZ2ZO?oc=5)** _(Fri, 30 Oct 2026 10:01:00 GMT)_
+- **[Officials Warn Ebola Could Spread Like COVID as Cases Surpass 10K: ‘We Want All Countries to Know That They Are Not Safe’ - Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzBfNWQ5SVRTZlJnWDVDTGlWM1hmeE9QNENtWFlvOEQxTDRHdGpYbXpUbkp1dzU1b1h1WjJIZk9Lak5MMzVkRVZDckpZLUx4c08xUzNaR0NMS1BUdzBkcm8zbm54cXFoMHg4QTdfSGp0QXE5Rm1MWklsdVlpcE5UNUdDQjFkUWtGdnBURkFvTC1qb1N3?oc=5)** _(Thu, 29 Oct 2026 14:14:27 GMT)_
+- **[Public health leaders remind Californians to vaccinate against 3 viruses - Yahoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlo3YmtQcDM4N2xvajJtZ0s3SnM3dzVOeFh2Rm9aelBJZzZPUXB6VjZOUVpQSmMxWWJNd0dGbTlPQ0NGR1hsSm1TMEJ1QTFiazhPM09iU3dyVzhPbWhna1E3Ry1UM0haUHBEbVpUUlRQT2p2SnRESlJMR2I1aVM3NDRrT0QxUkp6VXRtRHBfNDZRd2tsVW5BQVJuTQ?oc=5)** _(Thu, 29 Oct 2026 21:08:25 GMT)_
+- **[Why is colorectal cancer aggressive in younger patients? Boston researchers discover new clues - WCVB](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXp4emQ1OU9RNjZtOUxwSmljVEVyc1NFUFpacFhHblJYX1NZMi1lbmZiTFdjTHJNaXRVdmh1TXdXa2JqY0lhbzZqTnhhclZpbmItdnlNVURYMldrVkJDTENhUHFEcjloQ0FDaDJaTmRyak9iVDVKUjRRUjJiNkJ4NXhIZ084RlJZUFF1N29SbDR5SmhGV2c?oc=5)** _(Thu, 29 Oct 2026 22:17:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-29
 
 ### Source: MedPageToday.com - medical news for physicians
