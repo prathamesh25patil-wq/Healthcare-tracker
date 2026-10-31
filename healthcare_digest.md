@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-10-31
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Does ChatGPT Measure Up to Doctors When It Comes to Questions About IVF?](https://www.medpagetoday.com/meetingcoverage/asrm/123668)** _(Fri, 30 Oct 2026 16:02:10 -0400)_
+- **[Christa Pike Says She's in Constant Pain, Blames Failed Execution on 'Incompetence'](https://www.medpagetoday.com/publichealthpolicy/ethics/123666)** _(Fri, 30 Oct 2026 15:27:11 -0400)_
+- **[Extra Genetic Testing in Young IVF Patients Cut Costs but Came With a Downside](https://www.medpagetoday.com/meetingcoverage/asrm/123665)** _(Fri, 30 Oct 2026 15:19:16 -0400)_
+- **[What Was Linked to Early-Onset Cancer?](https://www.medpagetoday.com/quizzes/news-quiz/123664)** _(Fri, 30 Oct 2026 15:02:46 -0400)_
+- **[Lonely Cancer Deaths; 'Silence Was Deafening'; Mental Health and Cancer Mortality](https://www.medpagetoday.com/hematologyoncology/othercancers/123661)** _(Fri, 30 Oct 2026 13:54:55 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Ebola death toll in DR Congo passes 5,000 - Al Jazeera](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXBJTU9WNnBSZnVFT29jdU1MU1RjT1pCTklOMWRHQ1U2V0lVMXlnSHJBUXExMEQ4TURHWHhHdkRoU3BHY0t6dE16MjRCRE10M0RkMGJvMVpZSHdKRWJfYmF5dTFwZEF1LUZzUF9zNGhzX0k0Qmt0SFJ6d2x6Z0lNNFMwYUdBNkQ4NHfSAY8BQVVfeXFMTXhhS3ZPYnI2bE1TY1ZwaUkxOHc2TTNrWkN1RHUwM0FEN2stT1dfUWNXcXBpeTBTT1lUdUtkUTZUY3RJekF1YXBLQlNSbzZYZTJJUG5uV0JsVndyN2MtVmtnSThPYm05QVU4MnFuR3VTNDRvMG1pSDk2Y2F1OHVtMmJvS1hTQ0NCWF81VEY2QlU?oc=5)** _(Sat, 31 Oct 2026 02:54:29 GMT)_
+- **[As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - AP News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFhlMGw2LWVlLVYxbWZ0OXo3aFhYb3ZWYXV0TEpzX19NdHJ5VTNsRF9EYjVONjBXUlFjQUVXT1J5SC1PODJEazltN2NvVkFERWRKeUVyaUdsM2FZcmd0VWxWeXNkNVBGVVdCZnR1R3lraThTOFZSbHRhRF9pb2JoNjFJTkxSTG1ERzBZMktjaVVMNzlKY1ktWnB6UFUzY3ZOMWVnVEFFOUJsOFBQQXE1ZkRoZ0ZQZ2ZO?oc=5)** _(Fri, 30 Oct 2026 16:13:00 GMT)_
+- **[Boston researchers discover differences in colon cancer tumor cells in younger patients - KSL News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHQ1YkhIeDdZOUNvUkNEQWFfX3RQSnpEbFlkdUVmSUFjRDRKbTQzbEF6RkJNV1dKYnFhV0NESXFEOC1qUlR3dE1mTUlNXzR1UHk1QlhuNHpGMTFxcTRDc1ZiOHpocVB0VWc0UGk1ckZfZzdwSGRjcF9vYkZkS0RySlZvdmdpNTBQOUdZelp6NUtSNi1ORVIwZlVPcWdleGpmckJhU1h5UkVrdDJPVGhyNWtMOTF6alRfSkpDNFJqZVplQQ?oc=5)** _(Fri, 30 Oct 2026 20:41:00 GMT)_
+- **[Florida Department of Health considers dropping 4 school vaccine requirements – here’s what that could mean for kids - The Conversation](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWjRQeVlaWFhTVDhaa3o3ZV9wTDdlQW5qQ19FdmZSU0hJeTVhcmpBemcwaWtRV1hJU0h0NkM4cnFJTkRrbnJSMUQ1OFhUMTBDeE5raGMwZ1RZX3F0NDJRVVNJRHVYOUprNnNIM1RHUi0zYW1WalRTQVBWVzFmTDFDR3JzRUt1SGEtbnhPZlZwclNmeEJPOWtpYmg2b0tTNXdTWDlkeFN6dDNlMjZnMHJnR1FPR3NYRWFMRHpma0hIUVVya2JTNTc1WWN0cjkzel9takNxQzc3ZjZnRHVPU1FWNlpB?oc=5)** _(Fri, 30 Oct 2026 12:15:03 GMT)_
+- **[More women are dying from heart disease. New guidelines for doctors aim to change that. - NBC 5 Dallas-Fort Worth](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbUFlN3hHa3VwSDZQd3pULVBVVWoxbEVnQ1ZsS1lPZlUwVThmZ2dRR0pSaENjbFZzcTZWMnllakMwQkV4NkhnUk44alh6alpZclhUdmdkV095SnlUckFrXzhuLUJUQTRvS1J3bTZiemJiT1E4ZnVlaUttYXBxTXBNMEpNZ2xNNmU4X01qeUVVdEZiYVRVYnZfZ0FB0gGiAUFVX3lxTFAzOHJGRFMyN2JIaXl3cnRSaXdOSmJlVE85NThPcVRaOV9uOUd2OWx0NFk4aTZScEN2VjlGenRwS3EzZ3N1WVJVV081M1hNOVJUcFlGTFpvaF9aNVREdHFIQzZUc0VCbDU1VXRoTnpZNlVpTVVWQ09YVWtTdFZPYTdLaVJlckZrM2o3cmtjTlZ4ZkN5dW1aX3hoOHJjZlFjcHN2Zw?oc=5)** _(Mon, 26 Oct 2026 16:54:54 GMT)_
+
+---
+
 ## Digest Date: 2026-10-30
 
 ### Source: MedPageToday.com - medical news for physicians
