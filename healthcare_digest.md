@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-01
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Pancreatic Cancer Vaccine; AI Collaboration for Managing Epilepsy](https://www.medpagetoday.com/podcasts/healthwatch/123663)** _(Sat, 31 Oct 2026 14:00:00 -0400)_
+- **[Screened for Diabetes at 23 BMI, Denied GLP-1s Until 30 BMI](https://www.medpagetoday.com/opinion/second-opinions/123667)** _(Sat, 31 Oct 2026 12:00:00 -0400)_
+- **[As Measles Outbreak Hits Pennsylvania Amish Country, More Show Openness to Vaccines](https://www.medpagetoday.com/infectiousdisease/publichealth/123659)** _(Sat, 31 Oct 2026 10:00:00 -0400)_
+- **[Does ChatGPT Measure Up to Doctors When It Comes to Questions About IVF?](https://www.medpagetoday.com/meetingcoverage/asrm/123668)** _(Fri, 30 Oct 2026 16:02:10 -0400)_
+- **[Christa Pike Says She's in Constant Pain, Blames Failed Execution on 'Incompetence'](https://www.medpagetoday.com/publichealthpolicy/ethics/123666)** _(Fri, 30 Oct 2026 15:27:11 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Can odors from our bodies signal Alzheimer’s, cancer and other diseases? - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1FWV0xBZWNVUmdsckVicHNObWVSOUt3bXBoSlFRVVozZlV6cml6Y3hGSGhhYlVuUjNJM2QyOFM2STVqMnB6UGtzUko5bVM1c01Mb3pCY2tNZFV6T1FvdTB3ajdvQ0g1dzQ5ZGpxamhnOGNlMzF0UjNyZnJGTmhsVGFNYmNfRXgyOGpOU2tNZXVXVHByRm1nbWVGSnM4bEVwU2xqeWg4WmRUZDZnQlE?oc=5)** _(Sun, 01 Nov 2026 11:32:05 GMT)_
+- **[Congo Ebola outbreak deaths top 5,000 as fear of continent-wide spread mounts - NBC News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWlyam1sUmtaTno0Rk1sTmsycG5wNXh1UkFpRzBzZFduTkFpdHVpNGtYQlExbW5VTHh2bk9RbkxtVUEybkc4ZThKYTBieVRaTm5aQXhtSW9pUWdhZlRiR3c1ckQyZ0FoUXFpM0pNbEl1bDdyRHJUNWFDWW9PYTFVTVFHSVNtNkRUQ3NuZzl1V0xkRkNDU25JR3A0bDIzS0hNa3ZpX3JGLVZSdmVDRFlnSFM0T3FRb2lKVGc?oc=5)** _(Sat, 31 Oct 2026 12:16:49 GMT)_
+- **[Amish country becomes epicenter of U.S. measles disaster as 5 die and cases surge past 1,350 - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGFEWGtOaWFrRmVia1BJSG1RZDhYR0haVG5LbHp0RGdPa2dhbVFKOHA4Y09ZazNqMU84ZUJIRFdoLW9kRWY0T3NkUnZUQlhpY0psVmdKVklYbURVOTRVeXM1c1FzbUxfbFh2alRJX1k0Y0V5TXNJaUNDYTQxWkNGcEpTRmJXVXdYRlBFRHBjNEZOZzZpWC11ckRJa2swNFJMM1g1RnNn?oc=5)** _(Fri, 30 Oct 2026 13:59:00 GMT)_
+- **[Is this the era of the GLP-1 divorce? - The Washington Post](https://news.google.com/rss/articles/CBMiigFBVV95cUxPb2pHNlpDaUlkY3hKMDlVYmRBZXZyYk1yemtCajJKRVJkd21xS05oYkRXSlNpbUdXRzZwU3JzSWFhYXZMQXB2RHpHUmljV0RVbm9kWHg2Rk1iTy0xLWp6ekdOYk5rY0pxSWV1ZVlOVjhMRERJaGZfZktodjkwa0JkTjRYaFNSMkp1Mnc?oc=5)** _(Sun, 01 Nov 2026 11:32:13 GMT)_
+- **[Flu’s Back Way Sooner Than Normal. Here’s What to Know. - WSJ](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXF5ak5GeXM1cThMV01VcW9xMTF0WHVCeWZHNHJXczl0aUlQSzdNb19IMEFzMkFoVWtYdnNUQVBQQXQzbnlWNUxCamF3UGZSWC1UU05qNXpYZGRIdUlHS2t5b0FxZzRYeEpFTTdFcmNhUHgyLThFc1d3ZG1TQ3VIaVlnV3NYNzg2dkVMTm1QOHQ?oc=5)** _(Fri, 30 Oct 2026 17:40:00 GMT)_
+
+---
+
 ## Digest Date: 2026-10-31
 
 ### Source: MedPageToday.com - medical news for physicians
