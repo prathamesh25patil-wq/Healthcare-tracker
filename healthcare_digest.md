@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-02
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **['They're Looking for Scapegoats': What We Heard This Week](https://www.medpagetoday.com/opinion/what-we-heard/123662)** _(Sun, 01 Nov 2026 16:00:00 -0500)_
+- **[Do We Diagnose Too Much Normal Distress?](https://www.medpagetoday.com/opinion/second-opinions/123669)** _(Sun, 01 Nov 2026 12:00:00 -0500)_
+- **[Pancreatic Cancer Vaccine; AI Collaboration for Managing Epilepsy](https://www.medpagetoday.com/podcasts/healthwatch/123663)** _(Sat, 31 Oct 2026 14:00:00 -0400)_
+- **[Screened for Diabetes at 23 BMI, Denied GLP-1s Until 30 BMI](https://www.medpagetoday.com/opinion/second-opinions/123667)** _(Sat, 31 Oct 2026 12:00:00 -0400)_
+- **[As Measles Outbreak Hits Pennsylvania Amish Country, More Show Openness to Vaccines](https://www.medpagetoday.com/infectiousdisease/publichealth/123659)** _(Sat, 31 Oct 2026 10:00:00 -0400)_
+
+### Source: Health - Latest - Google News
+
+- **[Clues emerge on why colon cancer may be harder to treat in young people - The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUVzclJHUHdVdE8yYk9WYXJtR0J0ZXYzRDNIWjZWUmN2MnhWRmNPOUxsNy1JT1hra2NfZTR5VjVOSG9hcG1CUVc3X183WEpSZjBsVUdpNmQta0RZOGFGbGZKOWJ0bHo0OGt6cEhNbWo2eVhNNS1BVUdUZVRKY0o1UUJkckdDS2RlNFQySmdHWVBUMVB3VWVHbzY2RWE3RnJoZUp6SW1Sdko5MmlqM194V0l3?oc=5)** _(Sun, 01 Nov 2026 17:00:00 GMT)_
+- **[Yakima County resident dies from complications of bird flu after dairy exposure - KOMO](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXFrNXBiNFF5aUJhdXlNaGhNNU8zRnVMdGRXZmwzV2hBbHlaOHFFa3pORnJKOWxTUGc4VlRmdk9PaHp2RTZlMDk5N2RPZTlZODQ0RGxrem1wT1N5dWJJRDJoUjZ4UzlEM0FiV3BhR1B4RTVRQnZaaXlhWHV6VF94bGpKQmJCdkw5X2pUNzV0S3JHbjBSZTBIdDVYNFFxWndOY3pFUWxKd21lbW9YdGU0aA?oc=5)** _(Mon, 02 Nov 2026 02:59:33 GMT)_
+- **[Why human body temperature appears to be getting cooler - BBC](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGdTT2ZpLXpCYmp3bVpNM3BjbTltN3hwaUh5QjFHMnVoclZpTjlrQjdTUnREcGlraW1mb0pBWjRNRTZ3SnZnS1hvX2FGOGt6ZF9maFZTdlJHS1RmQzFJNWFPbmVZVlE0SmpaN1VVc2RBaXpmU2lwR2RTeXRNSFBYS2hCQTlHemtFb1kxOElCYzVGR3c?oc=5)** _(Sat, 31 Oct 2026 10:00:00 GMT)_
+- **[‘It’s clear they are under-vaccinated’: Amish under spotlight amid Pennsylvania measles outbreak - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2dwNUwwVmVRS0NLODVpMHY4WlNIVVBEOFA1aEtuN29tZHZXcEtGdTNvVmRDOEpheUFQc3dDb0REOFBOcFVpdW5SMUZPNXl6SkF6RmhHSUJlYkx6TmR5RTM1ZVl1T2poNGxXYW9ubmxuOXp0cjIwRnMtUlJiRFRDZzJ5eXZiSjVvd3BJ?oc=5)** _(Mon, 02 Nov 2026 13:00:00 GMT)_
+- **[Can odors from our bodies signal Alzheimer's, cancer and other diseases? - Yahoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjY4SUpCV0M1NFNQMmV3TVBmT3kzQ3Bpemh1ejZZUXlDaWR5OG9faGdPa0hxVUhYRTdYdEhIdzZlanp0dW8wV3lWRnFUbkhqWTA5TWd3UnlvYi1GUldUcUFCTE1nZjNxVHhQa3VjX0UwckVTallILTlyMVJON1F4LXl4bUJOSTgwbGF4d0xYX3paUkdKTzlUam12MA?oc=5)** _(Sun, 01 Nov 2026 10:00:00 GMT)_
+
+---
+
 ## Digest Date: 2026-11-01
 
 ### Source: MedPageToday.com - medical news for physicians
