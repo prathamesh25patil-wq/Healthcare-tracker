@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-03
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Novel Therapy Lands Speedy Approval for Wart-Like Airway Disease](https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123695)** _(Mon, 02 Nov 2026 17:44:49 -0500)_
+- **[Study Strengthens Case for Stent-Free PCI in De Novo Coronary Lesions](https://www.medpagetoday.com/meetingcoverage/tct/123694)** _(Mon, 02 Nov 2026 17:41:40 -0500)_
+- **[Late-Stage Sickle Cell Disease Study Splits on Main Goals](https://www.medpagetoday.com/hematologyoncology/hematology/123693)** _(Mon, 02 Nov 2026 17:32:15 -0500)_
+- **[Washington State Resident Dies From Bird Flu Following Exposure to Infected Cattle](https://www.medpagetoday.com/infectiousdisease/birdflu/123692)** _(Mon, 02 Nov 2026 17:14:49 -0500)_
+- **[CTE in NFL Players: What a New Study Tells Us -- And What It Doesn't](https://www.medpagetoday.com/neurology/headtrauma/123691)** _(Mon, 02 Nov 2026 17:02:18 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Child dies of measles in New York’s first such death in 30 years - AP News](https://news.google.com/rss/articles/CBMingFBVV95cUxQX2NzZW1CM3NSS3J4QmI1aWk2TXR4bkFWNFYyY3N1bE9Ea3lqVVNUUlJncDNtYlpTMlFTS05PREw0Zkl5dXdjNHVreVp1UHFCcjBCY0hvbG1MX21tNWdQREdodHRiaG91Y0ktRy1YUjM1X0Vqd0JPd3BZaVVoR3E0TGpVSldxcGstckRVc3pTRTZ1cU1jV1h4V0t3ajFGZw?oc=5)** _(Tue, 03 Nov 2026 03:32:00 GMT)_
+- **[Third person dies of bird flu since virus started jumping to livestock - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGpfVlBQWGJOcmJ2eGJSQW9GaFg1N01lMFRWQ2F6UTMtendUNGszUmttcW1WRU80WElLNmxUN25jR3VTMFNNdHBLNGV2NUpaUjRwRnBydUYycUI0dklVSDJWZUVZeDBrajVfRjl5WnNyZ1p0RXBPQldhV05mVnVGZV9yVkNKMU1JdmZXNlpIUzlKM0pMOC1lcDFLZ2E5cU9NVUczRlhSNE15WnNReVVj?oc=5)** _(Mon, 02 Nov 2026 21:21:43 GMT)_
+- **[Ebola outbreak kills more than 5,300 people in DR Congo - Al Jazeera](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTVhWLTZvSFA4aXdHbWhBVzNXTGNlYmVMdnI0MlJidUxrTjVnUWFLcXdueGlSVEhSd3JHQ2FoTGJEV2pycWtHX3JYcTEzWHAtZzhMRHBMMkhjR242QUFWempLdVZBeVhjMW5xQ0NCTHVmM0ZSaHlWYVJMU3NkRkhFekFrTGFSVW1xdDBUcnFjYm5OeVB1czdJRUJ3WdIBoAFBVV95cUxOZ3loT0ZaYUxPdjF3Uk53ZS16R0RnVnVtOEJXMEl2X2t1VmNiRGZIQjFkOHZIVWlKNGNXRTVzTjh6cUdKcHpsT2dGd19BQXJ4ZUQyUTdvN1hPVHF6c3RaRmVlZEtJcU9ZeTk4dmgwNVlPYW5aTmtRbjNzREhHWG1DSDZ3LUVzMmRrbi1jZk5qSlg0b0tpWnkzNU1PMjBXZmUw?oc=5)** _(Tue, 03 Nov 2026 00:59:52 GMT)_
+- **[Energy drinks, stimulant products linked to cardiac arrest, heart attack in young adults - www.heart.org](https://news.google.com/rss/articles/CBMiugFBVV95cUxNR19nN3dVTEFLYU05REc3OHRleDZSLVotX09VdmNWVkNEcmt5RVJFOE15b0NfX1hLV3pRbmFyNXV6SXBZVGN3bzF4Mk9ZNUIzMS1Bb3lDNV94N0k4SXpDX21jeGE0VzNmUTdLUWVuTDBUX3RFMDVnbGxsSURwNXQySmN4SWcxcnc5OVdhTkkwTkxuNk5rUkRodGdXTUdjYTdZREdtRkxza2xKemx6TjVnZzJjdTNqcUdIblE?oc=5)** _(Mon, 02 Nov 2026 10:05:53 GMT)_
+- **[Flu’s Back Way Sooner Than Normal. Here’s What to Know. - WSJ](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXF5ak5GeXM1cThMV01VcW9xMTF0WHVCeWZHNHJXczl0aUlQSzdNb19IMEFzMkFoVWtYdnNUQVBQQXQzbnlWNUxCamF3UGZSWC1UU05qNXpYZGRIdUlHS2t5b0FxZzRYeEpFTTdFcmNhUHgyLThFc1d3ZG1TQ3VIaVlnV3NYNzg2dkVMTm1QOHQ?oc=5)** _(Fri, 30 Oct 2026 17:40:00 GMT)_
+
+---
+
 ## Digest Date: 2026-11-02
 
 ### Source: MedPageToday.com - medical news for physicians
