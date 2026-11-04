@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-04
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Upfront TAVR May Be the Way Forward in Moderate Aortic Stenosis, Trial Suggests](https://www.medpagetoday.com/meetingcoverage/tct/123709)** _(Tue, 03 Nov 2026 17:21:59 -0500)_
+- **[FDA Panel Largely Pans Trial Data for Myopia Eye Drops](https://www.medpagetoday.com/ophthalmology/generalophthalmology/123708)** _(Tue, 03 Nov 2026 16:50:54 -0500)_
+- **[Brain Injury Creates Musical Genius; Long COVID Improvement; Dementia and Delirium](https://www.medpagetoday.com/neurology/generalneurology/123707)** _(Tue, 03 Nov 2026 14:45:10 -0500)_
+- **[Cool Temps and HF; Death After On-Field Collision; Shave and Shake in Stenting](https://www.medpagetoday.com/cardiology/generalcardiology/123706)** _(Tue, 03 Nov 2026 14:33:27 -0500)_
+- **[What Will the Midterms Mean for Healthcare?](https://www.medpagetoday.com/opinion/faustfiles/123705)** _(Tue, 03 Nov 2026 12:52:28 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Lewis County measles death: Baby boy was unvaccinated, NYT reports - WWNY](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVNZM0lZS3RNZ3ZGbFhRMzRzdUdQeHJMUFQ0dDBMWkV1YjBlUnUtSzVIZ2VPZmZOc0dTZzM3dnY3ZzBDZEJIVDVKLUlycFRWdzJZQS1NdUNEUnRwVmljWDRIV1Z5RXdycnItZzRGNHE0QzFfR01sSVA2cDJOWWhpbWZmdFRqdGJwRGYyNU1fanRiMnZTWHZEOUwwc2FPUnI00gG0AUFVX3lxTE5zVUt1SV8tVW9MeHdiNTBsMUs5UGVlRGRqaE11N3dJZXFzaVJ6TUxTa3EtY2dvRzdDQzBRNFlKcVRTRTMweXpMSjFLUlRpVlVRLXFqc25IS0V5WVhLcEFpeVlEd3FKLWZpWThMNFV4V0VsUmJJaFhVNll2M2FpVlBId2VaT1B2M0dwTm1TTFpWUnpwRXVzQ2ZETGszcExPUWxpTW9ObVg4eE5ZZWE5QmtmRXVSMQ?oc=5)** _(Tue, 03 Nov 2026 19:42:00 GMT)_
+- **[Family doctors in England to use blood tests to spot cancer early in world first - Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)** _(Wed, 04 Nov 2026 11:17:43 GMT)_
+- **[What to know after Washington state resident dies of bird flu - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcTdLMlBMdE9xTkUtNEpJd2ZiOFlhaGZ1NWUxZmhoRGsteV8tSnU3NW5ZYlpEaTFUbzE3ZWwtS2kteUJLRFo5ekd2d2dia01zN3d5ZnNOYXRWQ2l2UGtBd3lmSHFHQm5JaHdmY2N5Z0NXVnh5YWJfbHExRUpIdzlNOXhabE5xNF9kWGk0NjRHMzQzeDcxNUHSAZsBQVVfeXFMTW52UVVTeS1hMmp1dXBWSmxSUTlubUs0eGdnaGEzVHRlLVRVR0NfUm8wODF5TG5HRU5CU1JCQmhWQk5YaFF1dzJLbFBTUjJxVWtGSzdJektzcGI4dGs1bnBheXY0MXlOUlA0ZDFuNzFNMDFrQkVMM21SVW1tNnRPRFUwb19qcTVUOUN2bzZEamxodDZCMEZscGxXbDQ?oc=5)** _(Tue, 03 Nov 2026 16:40:02 GMT)_
+- **[Expecting a new grandchild? Here’s why you may need to see your doctor first - CNN](https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1BWaWhDVWVITnVlaXRDcV9PM2Z0ZDR6YVlKeTFBN0o5bHoweE1qUWNya0JWbDJxdTBzdFVPQUxSVmxpZ3dlTkVsbjVLWHYyYVhBX1BPQmxSYXhxdzktU3hLU1N5TTVndnVSQ2NyTUlWa1JCNG12R0VVY3RCaTQ2dU1yT2ZwV1UwLTNDag?oc=5)** _(Wed, 04 Nov 2026 10:00:15 GMT)_
+- **[Blood pressure medication recalled as it may be ineffective, FDA says - KHOU](https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWZDOWhnRWZZWmZNSGZrNTRPd2UwX2JoVWdqb0lhODJ0Smo2aXNwaDlMU2cwSVJrcE4zWXV1cXgyVUxJWTE3dVpUSWExNUs3UExtbmY5YzRLY3ItTHhxYXhzWFNaSml5dGlZTVd2ZGduaVNseHNzUWQtMThwVVJUWnJsbjFSSW0yRHRtOTVfQ2dRTVlyMl9ZUnV2OWt6aF82QUQ5RERPRUZSV3g2eFJ6ajhyV09SWU1xVjRLUVZZQjlEOGFnUHdxQ2N0YUc5ZlVsOUp4dkp0aEtFM2V2MDBFbDVid1laa1BwR1FnbDh2cWpqdXVvd1htZUxUMGxnZ1pfWjF5dw?oc=5)** _(Mon, 02 Nov 2026 20:54:00 GMT)_
+
+---
+
 ## Digest Date: 2026-11-03
 
 ### Source: MedPageToday.com - medical news for physicians
