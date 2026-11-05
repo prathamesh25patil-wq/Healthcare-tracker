@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-05
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Investigating RFK Jr., Fixing Surprise Billing Law May Be on Agenda for New Congress](https://www.medpagetoday.com/washington-watch/electioncoverage/123725)** _(Wed, 04 Nov 2026 17:39:48 -0500)_
+- **[Voters Back Abortion Rights and Transgender Restrictions in Some States](https://www.medpagetoday.com/washington-watch/electioncoverage/123724)** _(Wed, 04 Nov 2026 17:05:58 -0500)_
+- **[Is It Over for DAPT After Left Atrial Appendage Closure?](https://www.medpagetoday.com/meetingcoverage/tct/123723)** _(Wed, 04 Nov 2026 17:02:42 -0500)_
+- **[A Pediatrician, a Pastor, and a Paralympian Just Did Wonders for Kids’ Mental Health](https://www.medpagetoday.com/opinion/second-opinions/123722)** _(Wed, 04 Nov 2026 16:45:48 -0500)_
+- **[Brain Health Linked With Longer Lifetime Estrogen Exposure](https://www.medpagetoday.com/neurology/dementia/123721)** _(Wed, 04 Nov 2026 16:07:20 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[New estrogen research may change how scientists think about women’s aging brains - The Washington Post](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5)** _(Thu, 05 Nov 2026 13:13:44 GMT)_
+- **[Pennsylvania reports 6th measles-associated death amid outbreak: Health officials - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZEhZX3ZuWmNXeGhaeHpwdXM3OGxSdkQ2SFdMd19IMFpCaTc3R1dpNHk1OUx2RG1fTlU0SkJQUFpBSi1jVWhXVk5zclRZRnQ5U3J5Z25JWms4RDMyd3pOSGpJSVZONXhNNzJIenEyWFpQX2hDaFdndHByV2lpamxwLTdwNlJRWFpuQTNwdjVDTmFDaGVQUndJcmplcGhXR1h1dEFJ0gGoAUFVX3lxTE8wekVGRHZQamtmeTVKZE1vdnotREdIeGk1b0NwMk9aX3RvVE5mZkczWkROellPMldiMWF0UU5OanZXVEF1QURQdUlTQnFENi1xQ1I3NXItN1VWc21Za2pSQnp2WmRmcXJFNEk4RGdrWDlDSGdyblAwM2h1dEM1Y1N2R25ETnp3Y2Z3OFBJSWVKU2VRV2x3RVBIMlpUd3lSbTVyY1VxbmRELQ?oc=5)** _(Wed, 04 Nov 2026 21:42:52 GMT)_
+- **[Many diagnosed with a peanut allergy don’t realize they may not have it anymore - The Washington Post](https://news.google.com/rss/articles/CBMixAFBVV95cUxQbU9PYUZld0p2V044SVBBV3QxWFF6OTU5WjM2LVRDMVNYZGNxUUplVF9YbzJ3akZqRW9DSlNOS2hYeVh3UFE2TlRrWHdlVHpyX0M0Yk1fSTR6YUctTWlhOVZLemR3NGZ0aWRsVWJ4Y1NvUGNuYzU2RkxpcUlrcnZWS0duZGdPYW4xOUxYNkpoaTBqVERWRlFwZWNxdEVCZHVyVXJPbWhNa0d6OXQxRTFBWjBLb2lkZlNBbUk4NDlnQUJDeExq?oc=5)** _(Thu, 05 Nov 2026 05:47:56 GMT)_
+- **[Measles spreads to Columbia County - Channel 3000](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTVtN3BPdXNmTlNtUkJEYldCcldKbjVsQlJOX2NQSmg5ZWlxaGJ3SzlOSzdJa3BQR2NsSlh5UFo5Q3ZvVjgxRWxYc0hyVjhScURFWk1zYnZObHU4c3VSUkNhRUhqcmpRaWdUU0hCYkkwRklEeFQxSkRCZTNicTJuUENucjdwNU5ndS1BQ2pwamNwcUN1NWVCR3BRbjg3UEpCdWVTeDQzRHNoNTFySWNPM1lubzZmdE5u?oc=5)** _(Wed, 04 Nov 2026 21:43:00 GMT)_
+- **[Doctors in England launch primary-care trial of blood tests for spotting cancer early - Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5)** _(Wed, 04 Nov 2026 22:31:02 GMT)_
+
+---
+
 ## Digest Date: 2026-11-04
 
 ### Source: MedPageToday.com - medical news for physicians
