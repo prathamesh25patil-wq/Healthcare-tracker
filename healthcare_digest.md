@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-06
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Physician Groups Give Mixed Reviews on Medicare Fee Schedule Final Rule](https://www.medpagetoday.com/practicemanagement/reimbursement/123744)** _(Thu, 05 Nov 2026 17:44:48 -0500)_
+- **[DUOTAP Trial: Postdilation Sets Up TAVR for Success](https://www.medpagetoday.com/meetingcoverage/tct/123743)** _(Thu, 05 Nov 2026 17:42:19 -0500)_
+- **[Infant Bleeding Rises as Newborn Vitamin K Shots Have Fallen](https://www.medpagetoday.com/pediatrics/preventivecare/123742)** _(Thu, 05 Nov 2026 17:18:21 -0500)_
+- **['Forever Chemicals' Linked to Aggressive Breast Cancers](https://www.medpagetoday.com/hematologyoncology/breastcancer/123741)** _(Thu, 05 Nov 2026 16:38:08 -0500)_
+- **[A State Law Targeted Fentanyl Dealers. Prosecutors Are Using It to Charge Users Too.](https://www.medpagetoday.com/publichealthpolicy/opioids/123740)** _(Thu, 05 Nov 2026 16:18:29 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[U.S. infant bleeding episodes jump as vitamin K refusals rise, two studies find - NBC News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGZsRm9JNGdTeXBGekZ2NjRTT2U5UmJuWUtjT01KaEZTU1RIS21CM0VFdXc4U3VxeG84UTlwZTFYbUtZSHlwTGtEYmdkMkJGTjBOZ0hOQVpBcnBETHRrY1JhYnJ4UUR5S2p1Ul9LN280dXg4NERNZ0dPR3Faal94elRDRU1fRzhuWWRsQWtRUnNHVTVQeGEzZjNCS09UckdvMTBfcy1ENlFfeXJtY3Q4U0p0d2VDQVdiZWc?oc=5)** _(Fri, 06 Nov 2026 08:46:40 GMT)_
+- **[Wisconsin infant dies of measles as state sees first death from disease since 1990 - Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1V0bHJ0ZUlhY2JSS0tEaThQMnBkWFJwVk54dVd6Ri1aUllLTElHNGhRbjdNLXR1SWFCQmtfbEx4b0pQQU1KbUxWTDEtM1A3a1VoZ3A0ZHp6ejNuT1JvS0FVU0YyRDZqejBFeTVNeTM0dFk2clRrajZXbVJCZ1NabVhEN2kzbG9Ea3BzNTNfYkdnM01IT2N3eE1ZT3lvQdIBowFBVV95cUxNMVhPVVFCbEk4bGpqVW1nZFFObjJORmFhWi1MbWczQXJOOW55OWlUQnBaQ2Y0LUkzeXNkbFkybFU1SGxUWlNlTEFxaWR2TmI5cWdic0Nja3BuSUhGbEtjdEIxckNHckRFam5pc3Zoek9FUFBpLUtldHdtQVhPNUNQdzBiZUl1cU02a1BZeTZvdHVtZ0ZBSmZzNTVsci1sZWJudUdZ?oc=5)** _(Fri, 06 Nov 2026 06:36:22 GMT)_
+- **[Longer Estrogen Exposure Linked to Less Blood Vessel Damage in Women's Brains Later in Life - ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2dTUUcwcndvby1Gb1ZFY0N2Mmdmby00OG5scXVKYlg1ajZLc2ZpNGpjSlNUb1htOTJjSUFUalRtWUtWT3pUcUNwNFNkU1diWlhMVk55dzUydTJ4bkl5ajVTdERXT20yY2p5N3NEZmpiTHpyZkFKUGNpaUlGZDd0YXFsVTYwRFJwWk1aZ0RuQS1kQVAwczltMS03dVJkdnR6aThvNFVMbmVlYzZhbWJXcFZQVEszNVNEU0o4?oc=5)** _(Thu, 05 Nov 2026 12:02:38 GMT)_
+- **[Pennsylvania reports 6th measles-associated death - The Washington Post](https://news.google.com/rss/articles/CBMingFBVV95cUxNczdjQmtqamY4RWdKajFCLTdWQkotbTMyanhwNnJaeW5NcHVtRVJzdEVxMldaYmZ5Z2RxTEVhNUI1SVhtV2R3UzBaWkQwOVo5WFAxUDVuenNsWDQ5RkhCME1EUE5JcUhoSXZNTkJ2STJVa29OdWdLblo3MWJhYWFiVmh5YmZlWl9FWVVIMlg4b3RqLVBmbUg1ZWxDa2tOQQ?oc=5)** _(Thu, 05 Nov 2026 07:51:14 GMT)_
+- **[Peanut allergy study finds babies should be retested. Here's what parents should know. - CBS News](https://news.google.com/rss/articles/CBMid0FVX3lxTE50RzZrVDAtU252cmNoc3Yxb2FmcWVnRnZaN0xTaHBMbllpNzd6dTJDWFZ5ZDJRZG5RdndVSEhIMkdudEptMHNsbXI2U2NLZ3VqQl9nbmdHeUVpdUdBZktuSDF4ckdJVTNCamZrUUtwbzJlaFRXOTVr?oc=5)** _(Thu, 05 Nov 2026 17:26:00 GMT)_
+
+---
+
 ## Digest Date: 2026-11-05
 
 ### Source: MedPageToday.com - medical news for physicians
