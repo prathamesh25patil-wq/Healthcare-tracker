@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-07
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Will RFK Jr. Face Impeachment Under New Congress?](https://www.medpagetoday.com/publichealthpolicy/healthpolicy/123770)** _(Fri, 06 Nov 2026 17:38:27 -0500)_
+- **[Gene Therapy Under Scrutiny After Nine Tumor Reports](https://www.medpagetoday.com/neurology/generalneurology/123769)** _(Fri, 06 Nov 2026 17:27:17 -0500)_
+- **[New Trials Back Quickly Approved Drugs for Primary Biliary Cholangitis](https://www.medpagetoday.com/meetingcoverage/aasld/123768)** _(Fri, 06 Nov 2026 17:16:45 -0500)_
+- **[Hawaii Doctors May Soon Start Prescribing Fresh Food](https://www.medpagetoday.com/publichealthpolicy/publichealth/123767)** _(Fri, 06 Nov 2026 16:57:02 -0500)_
+- **[Oral Food Challenge Clears Many Infants Thought to Have Peanut Allergy](https://www.medpagetoday.com/allergyimmunology/allergy/123766)** _(Fri, 06 Nov 2026 15:58:26 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Hair loss, confusion and constant fatigue signaled a life-threatening condition - The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0o2d3dsOC1NU0FYb0JYTFVjM1hFNHAtQ25sME0wN2NzTW1sT1h3eEdTMkNtdE5mTnpELW9GSFFSSmU0R3FzTTc1bkNWZDFQLVZNR2VHNnUxUC1OdEhYSUFVWUtqWjBiRkUwalZYZU0zZ1ZzS2YweVozZHJ5S3lEV2g2Q3ItZE00WVRLa2JFbVE4WWppelVaNlVSMXhOenRGdFhjbEhhOW51TWpNMFNqWUFrYkRSNnB1dC1VZXRBOA?oc=5)** _(Sat, 07 Nov 2026 11:32:42 GMT)_
+- **[Wisconsin reports measles death of a baby, first death in over 35 years - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU9Vbm5zSFB3TTg4ekxyOGVGQ1JiX0p1cHBtNzFRcVlNVm8tRzRLQWVINnE5ZWFSNk9xUEJoTGF0NHJ1WTBZRGhvVmM0b05EM0VTMTdIWG96aTFWQ2hrYkxEUzhLOHdmYXF0ZHJkZzZ4cmRfTTY1LWM5UEdIZVk4UXVYaC04bk1VODBXY3pzS0hDUW9mM1JWYkhDMUhqZnZQb3hIRnZVeFVKRTZEbExV?oc=5)** _(Fri, 06 Nov 2026 17:06:32 GMT)_
+- **[The Best Drink for Lowering Alzheimer’s Risk, According to Experts - Health.com](https://news.google.com/rss/articles/CBMiakFVX3lxTFBUck1BM0FCeWNmZGhINkJSeXdXTEt6Tlk1bmxHVE16Y1Q0X0k5bUtLVEo0YWJ3TTY3OTh1aEMtYlVUYkYxOUx1b0FCYzJ0M2N3WlNjRjQzZnVnVG1mZFhheXlXcDlNMUVLNmc?oc=5)** _(Tue, 03 Nov 2026 17:15:00 GMT)_
+- **[CDC reports more than 5,000 measles cases, highest number in 35 years - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGdTMVVFUlVIN1hESU1ieUlPUUR0ajlnUHN1RnhDT2NZRWJYQ1JmVkxyc1NYWEZPSndQeV84QUlYZ2U2X2puLVhtbENfbzZocjQtZ0JubGdueHI5X2lRcVJ3cF9zZzQwcEpHM0RmUVZBclNfNVpNQXdTUUxYclh5cGluZUNzTkpGZndjRm0wb0haMm1fTGQ3WEMwRHU2MFR2aGNZTWRQTGs4czhU0gGyAUFVX3lxTE0yVnJOd3ZFNjlVX1oybGp6c2x1by1aa2ZkT2MtMHFhMjFtclBsWUFSaktjT2tJVk1hbnpSb0FlNzRDbnRFakJjYWxsLTdnWjJSNllpQW40TXNMRzkzbHk0amhsTi0zUTNrdEZrcjE5aGpBekd4aGZqY3dIZ2Z6bm84TUo4ZmJMV01ONzdqeUZWYVI3SWtoVUNUWXJaWWxXaW41Q0prS3ZUSGpaUWFjbzJPSnc?oc=5)** _(Sat, 07 Nov 2026 02:11:21 GMT)_
+- **[U.S. infant bleeding episodes jump as vitamin K refusals rise, two studies find - NBC News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGZsRm9JNGdTeXBGekZ2NjRTT2U5UmJuWUtjT01KaEZTU1RIS21CM0VFdXc4U3VxeG84UTlwZTFYbUtZSHlwTGtEYmdkMkJGTjBOZ0hOQVpBcnBETHRrY1JhYnJ4UUR5S2p1Ul9LN280dXg4NERNZ0dPR3Faal94elRDRU1fRzhuWWRsQWtRUnNHVTVQeGEzZjNCS09UckdvMTBfcy1ENlFfeXJtY3Q4U0p0d2VDQVdiZWc?oc=5)** _(Fri, 06 Nov 2026 08:46:40 GMT)_
+
+---
+
 ## Digest Date: 2026-11-06
 
 ### Source: MedPageToday.com - medical news for physicians
