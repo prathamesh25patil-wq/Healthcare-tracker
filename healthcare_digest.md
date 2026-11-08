@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-08
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Ziltivekimab Falls Short for Cutting Cardiovascular Events in ASCVD, CKD](https://www.medpagetoday.com/meetingcoverage/aha/123773)** _(Sat, 07 Nov 2026 17:15:26 -0500)_
+- **[Oral LSD Drug Hits Phase III Endpoints in Anxiety, Depression](https://www.medpagetoday.com/meetingcoverage/neicongress/123772)** _(Sat, 07 Nov 2026 16:46:40 -0500)_
+- **[Avoiding Chemo in Breast Cancer; Psychedelic Medication for Depression](https://www.medpagetoday.com/podcasts/healthwatch/123762)** _(Sat, 07 Nov 2026 14:00:00 -0500)_
+- **[Lp(a)-Lowering Pelacarsen Shows Huge Disconnect With Cardiovascular Outcomes](https://www.medpagetoday.com/meetingcoverage/aha/123771)** _(Sat, 07 Nov 2026 13:24:51 -0500)_
+- **[Retatrutide Is One Click Away. That Doesn't Make it Safe.](https://www.medpagetoday.com/opinion/second-opinions/123757)** _(Sat, 07 Nov 2026 12:00:00 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Why the simple flu shot could be a surprise weapon against cancer - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)** _(Sun, 08 Nov 2026 11:32:29 GMT)_
+- **[The CDC has recorded more than 5,000 measles cases this year - The Washington Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFhxRWNVa2pJcVBtU1IyUWZEMnh5Z1lBc0dBT2kyZDY3bHB5Q3IxZV9OUE9LTW9FLWQtM0lYVDBObW54RVVCZ2Z4RFQzTEVxaWxwdE93eG52QXF1N016QlR4Uy1nWUhfUGNtYXQ3dGJEX0VTVnBJY1ZGTFRQdEhYcHcwM0lSY3Awb2h5cDJPU3BKSVNFRHp6bW9WU1hVb3FzN0wyQmdfZ3k?oc=5)** _(Sat, 07 Nov 2026 23:30:00 GMT)_
+- **[Wisconsin reports measles death of a baby, first death in over 35 years - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU9Vbm5zSFB3TTg4ekxyOGVGQ1JiX0p1cHBtNzFRcVlNVm8tRzRLQWVINnE5ZWFSNk9xUEJoTGF0NHJ1WTBZRGhvVmM0b05EM0VTMTdIWG96aTFWQ2hrYkxEUzhLOHdmYXF0ZHJkZzZ4cmRfTTY1LWM5UEdIZVk4UXVYaC04bk1VODBXY3pzS0hDUW9mM1JWYkhDMUhqZnZQb3hIRnZVeFVKRTZEbExV?oc=5)** _(Fri, 06 Nov 2026 17:06:32 GMT)_
+- **[Struggling with depression? Psychiatrist says 6 habits may be making it worse - Fox News](https://news.google.com/rss/articles/CBMilwFBVV95cUxON2Y3WUd6TzF1eVRNNjVZMmM0YnE4cWEtbXVXWlhYOG1yRXA5MVFFN2d1dFhVR3FDbHdKOWtJcWJBanBodnBVUk5LMmlNMTQ5TVJRODAxWThObE5LeWs0TENzODNVZTBOdXNQYXhnd0t5S2ZLVXRINUltQWQ5aWx3MUFqRkFGT2ZvU2kwQUE0N05BcHBzZ0tF0gGcAUFVX3lxTE1DR0p2VWc2SGp0TWk3WGFJZW1KZVNHNF9RWTdIWjZDRmZqYUJXNlkxeXlrNjJtYlZCc1E5Zy0zaUc3OVNkZzM5TDNSSk9DT3VjRVhHcHFMZV9WSXU2WXVQN29MV1Y1c1BfOHNaZTFrSnBNcDZGc3p2NXVld2prSF9QbnplNDBYNDg4Vl9kbWZZSC1tVlJjRE5LWTdpVQ?oc=5)** _(Sun, 08 Nov 2026 11:00:35 GMT)_
+- **[Vitamin K deficiency on the rise as more parents decline recommended shots for their newborns - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1RKR1NzSFE5NEZ3endfbml0QzBreFROcjhhZG5WR3ZCWnFoSFFJekR4Q3JEbXpwNDhPdmFvR2V1aURFSkZOdFJKLWQ0NE10Mk9LOUdJaVNyYWU2Y3hZSGN4YzJJeE00d3Blci03TWE4MU5MTkM0V3lTLWFrNXBiaWdXYnloTlZWUnptUg?oc=5)** _(Fri, 06 Nov 2026 16:40:02 GMT)_
+
+---
+
 ## Digest Date: 2026-11-07
 
 ### Source: MedPageToday.com - medical news for physicians
