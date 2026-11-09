@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-09
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[What Do Patients With Sleep Disorder Really Mean by 'Brain Fog'?](https://www.medpagetoday.com/meetingcoverage/neicongress/123777)** _(Sun, 08 Nov 2026 16:26:27 -0500)_
+- **['They Don’t Know the Questions to Ask': What We Heard This Week](https://www.medpagetoday.com/opinion/what-we-heard/123755)** _(Sun, 08 Nov 2026 16:00:00 -0500)_
+- **[Triple-Target Incretin Drug Kills Knee Osteoarthritis Pain in Obesity](https://www.medpagetoday.com/meetingcoverage/acr/123776)** _(Sun, 08 Nov 2026 15:37:43 -0500)_
+- **[Adjunctive L-Methylfolate Tied to Executive Function Gains in Psychiatric Patients](https://www.medpagetoday.com/meetingcoverage/neicongress/123775)** _(Sun, 08 Nov 2026 15:07:04 -0500)_
+- **[Lost in the Labyrinth of Nicotine Products](https://www.medpagetoday.com/opinion/second-opinions/123759)** _(Sun, 08 Nov 2026 12:00:00 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Scientists discover a surprising link between acorns and lyme disease - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9XaXpRSGdQV2hvS1NrZm1MNkZoQWhYRDRWNnNXa2JkVVhfVm9IQ244b0UzcThNakJUWTlUdGhadzFfclZ0c1JWR0NseF9Ld05melhiYUx3MG9MX3ktVTlYWmdyaEk2MndVbGJBVHBBMA?oc=5)** _(Mon, 09 Nov 2026 11:47:38 GMT)_
+- **[In America’s measles epidemic, RFK Jr. is now on trial - Politico](https://news.google.com/rss/articles/CBMimwFBVV95cUxORl9ka0F3Ymx3bmJqU2k5UnZCX01VR0JlMVNEVkx1NFMtb21TRGtGZ2VmcWRMZXBTbUR2dDJUWTV2TUZyUk9Zbk9LZHo3LXlwS295d0tmN1pBdXdpazdtV2pTWXdCcy05MTBkNFZsQVlQeS1SSDRZbEEta3dwYnRKeEp0SjR0Y1QxUFY5c0wtMVR0Wnd5QndLbUZwQQ?oc=5)** _(Sun, 08 Nov 2026 21:00:00 GMT)_
+- **[Why the simple flu shot could be a surprise weapon against cancer - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2lzdUxXUFhqZ29ZaGxTYWMwWUZYMjBSTUdaN1FFNmhVaElOaUtTSl9haTVjQlg2Z2l4TjVxOW9kS2pSVldNUXRXU0wyVnEyWi1EZ0UtcnVFd3Y3U3lkdFlxaDU2dUQ1a1hReXdIbU1LUFd0ZjhFamE5MDQ1dTZaYTRvMjZIczhsUTVJUHZSSUJGVkxOWjZORnRwdko5UDVEdHZZSFlOMVhIcThlVFE?oc=5)** _(Sun, 08 Nov 2026 18:00:00 GMT)_
+- **[Wisconsin Reports Its First Infant Death Linked To Measles In 36 Years - HuffPost](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEZhNFpPM2pGY01YdTBYVkZDOEJaM0VsUjM5RVMwcjRPZ3ZBUEs2bkV3a3FLNXM0UmtBbzNvR1hjZkRsQ1c0RVNjODlYZHVOOEtqTnNMWWptSTV2UmhJOTE5T1RSSEZmeE40RXVZQjRGeldERzBObllkVEllaW1rc25vdkp6STZYU3lpN0tnVU55Z9IBlwFBVV95cUxQQlh6VktsaFRpczBCZTUwanhZeGZmN0k0dVVOTVFvbEE4eUFEOVRuMURaSGxuX3A2U0phYXYwbHBDY0JnY292ZG1fb3hhYW80OTRualJqNkZhTnUwdzRiejFEclAzaWtCeW5mV2pvVm1QSGhOWlpKN2xBaXdRWEljNi02SDhuTTJhdnVDdzBMNG1xeU5xYXBF?oc=5)** _(Fri, 06 Nov 2026 13:49:11 GMT)_
+- **[Column | Your stroke risk is 72 percent higher during these 3 hours of the day - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUtZb0dfOGJYM05Sc19JWTRocFdJQ2c0SG1HbS1JREVpX1ZqUWRZUDYwNE5JX3BRekJKUEFxNkN1bzE0Uy1rcWVsMkZPdmtoQzdCX1RncHdXT2VWakQ3X0R5RW9MNDFfOExOcTgwZHJtN2piZDJjQ2l6RnFpM2YzUWk5Q0NBamdtV0tKajFBdXlMUXVzZlZYQ3RaX2VnUG56WHlhQ2RuOEFCQkNDZU9WR2x5QmI?oc=5)** _(Mon, 09 Nov 2026 14:32:35 GMT)_
+
+---
+
 ## Digest Date: 2026-11-08
 
 ### Source: MedPageToday.com - medical news for physicians
