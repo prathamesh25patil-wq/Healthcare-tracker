@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-10
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Common Antibiotic Tied to Pregnancy Loss Risk](https://www.medpagetoday.com/obgyn/pregnancy/123801)** _(Mon, 09 Nov 2026 17:44:51 -0500)_
+- **[Smartwatch Detection of Reduced LVEF? Not So Fast, Study Says.](https://www.medpagetoday.com/meetingcoverage/aha/123800)** _(Mon, 09 Nov 2026 17:44:05 -0500)_
+- **[Police Investigate After 25 Half-Marathon Runners Seek Medical Care](https://www.medpagetoday.com/emergencymedicine/emergencymedicine/123799)** _(Mon, 09 Nov 2026 17:40:04 -0500)_
+- **[Early Response to MASH Drug Linked to Resolution, Fibrosis Improvement](https://www.medpagetoday.com/meetingcoverage/aasld/123798)** _(Mon, 09 Nov 2026 17:33:40 -0500)_
+- **[Feud Between Former Trump Officials Exposes Divisions Over MAHA Movement](https://www.medpagetoday.com/washington-watch/washington-watch/123797)** _(Mon, 09 Nov 2026 17:23:16 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **['You didn't even tell your best friend'. The complications from childbirth that never go away - BBC](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMThCUW5rV3MzLUQ1SF9ZQ1VjanBRalVEWWZVOXJXbm5DdVdoY2ZnWmNKQ290dGZ2RzZlQ18tTkt5bzhiWHRqX3BSM3VqeU1SNjZtZ2s5UmpsMktCdE0wR3dDb0Yyb0xicmdDanZKRG5lczhoN0p2aGpGTlBUMzZnLW9nSlVKNHVNMTRiR2h2OHRSSWR3aWNtT2xvUjhERGJuVHdGRlNiZDJ4VHh3RE9UTw?oc=5)** _(Tue, 10 Nov 2026 10:00:00 GMT)_
+- **[Retatrutide reduces knee pain and body weight in osteoarthritis patients - News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnFONUxMWTY5cWxPaDhfQ2VoRjRwbV9kNHZrZFgtUjB6djlfLXU1QjFVVFQxLV9WVUxXZ1hWMm5BSVp6bk5tcFRyRkQyS3BORFdHbkplRTRLdTVDa0t6aHlSaURWbkI0anNRYklGTFphRGFTSWxBRkRMZzg1MV9fVlI1R0s0dlg0ZnJYQ2RHQlo4LUdSOEhlUVcyd3dSZ2kxd1owSHl0STRDNmo4T21xTnRyRUVvWWU1X0h5aA?oc=5)** _(Mon, 09 Nov 2026 01:46:00 GMT)_
+- **[Upcoming meeting could determine if US loses its measles elimination status - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMirAFBVV95cUxOU09FOHRvZldZaldNUU8ySm1SQzhOZlNFN1RaU3dmTUxsOHhsa0t6d0lxRlJ5Qml4b0JJTDhpRVBGcjJHSHZxdGJ6S1lMRXpjSTdMYnBkOV9ReHZndWE4bFJzR3h4UWZheUJxTWxnVVdBVTJZczVWQlhkOF9ib1hMMllWTm1uMng3cm5sOGtyZEZQRWo1d0xmYWtWV0Z3M0ZVTHFrMzQ5eVJJbHBJ0gGyAUFVX3lxTE1pcmdTRnlGM3BkekdScGItZGFxckw0bW51U1g2Zng5T1RQRzFxWnZ0ODJPVzhwUmJuajRpTDNPXy1YLWt3SHlxODVoRFBidFVMVGZ0V244N09TSFVmY1NyQnZ6QWtCMGtrV3E2X1gwekxsMUxmZ0lPQzRKVWlwb1ltZWlGZkMzbjdnTTVqVTROQW9xNlk2eHk2Y21VTkZMZFk4SHFpczVIUHNneXhkekF4Y1E?oc=5)** _(Tue, 10 Nov 2026 10:54:30 GMT)_
+- **[How word of mouth is helping an Amish community's fight against measles - NPR](https://news.google.com/rss/articles/CBMijgFBVV95cUxNME9XOWJGNk83dFVQeTgzWEs2YUROZVJGSlcxRms4QmQ3RDBudlJYU0tzQ3hCOTkxMi1Mc1pCU2QtdXhHMVBRdDFFRW1pcTBvcklnWGU4YWIzTkdZOV95SmZ5M2xMWkgwdnN0ZUtHTllqeU5lTjJXZHdOdXJLdDZBb0w4VWF0cVoxYnlfeG5R?oc=5)** _(Tue, 10 Nov 2026 10:00:00 GMT)_
+- **[Measles cases confirmed in Orleans County; North Country Hospital to screen visitors - WPTZ](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmdCcTh0dXhuOXdDMGpVZC0wLTFoMGFaeThZUlV4X1B0VF9XdlB2SFF5MENuTVh1LUdiWExfNmh2SlNVc1VwMzVYMFVGLUszSmpqT2ZrREtGU0s4VjM4emY1RGRUbjJJN2FNNnNxNy1SNEhYZmJ4RnJFazFhY0dmQzhMeloydVdpVGlydHdIcTJxZXVtTGc?oc=5)** _(Mon, 09 Nov 2026 22:54:00 GMT)_
+
+---
+
 ## Digest Date: 2026-11-09
 
 ### Source: MedPageToday.com - medical news for physicians
