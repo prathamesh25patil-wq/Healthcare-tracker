@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-11
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[HHS Vaccine Task Force Misses Report Deadline](https://www.medpagetoday.com/infectiousdisease/vaccines/123823)** _(Tue, 10 Nov 2026 17:20:54 -0500)_
+- **[Novel siRNA Therapeutic Cuts Liver Fat in MASLD, Early Trial Shows](https://www.medpagetoday.com/meetingcoverage/aasld/123822)** _(Tue, 10 Nov 2026 17:07:14 -0500)_
+- **[Bioengineered Liver System Passes Safety Test in Phase I Trial](https://www.medpagetoday.com/meetingcoverage/aasld/123821)** _(Tue, 10 Nov 2026 16:53:42 -0500)_
+- **[More Women on Testosterone; Hormone Patch Updates; Drug-Induced Bone Loss](https://www.medpagetoday.com/endocrinology/generalendocrinology/123820)** _(Tue, 10 Nov 2026 16:50:40 -0500)_
+- **[GLP-1 Pill Shows Benefit in Sleep Apnea](https://www.medpagetoday.com/meetingcoverage/aha/123819)** _(Tue, 10 Nov 2026 16:49:07 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[What to do if you, or someone around you, might be having a heart attack - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHY4NEJfR0xmZlFrS2pLVVZiSEpSa2xLV0p5OFo1M0I0RVUtTmtFcElhOTZwa1NsbTdIVFBOTFJRc2hhc3hMcDdYbFNEYXpzcTFKQWIxVi0yaGVCbUlKYVpBVEpxMGNoanFzM1lTeHQwRDlGWlBCUjRjSk1RZ2w2dkZuWjRGSUxHbHBwLVNIWXZ4Z1dGS0NvaHFGT1A1bFdVUFZmM0Z1aEh4Ym9EeGRSUEViTml5Zw?oc=5)** _(Wed, 11 Nov 2026 13:02:52 GMT)_
+- **[U.S. on verge of losing measles-free status and Democrats brace for Stephen Miller clashes: Morning Rundown - NBC News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVF9tVWd5YlFSaS1lYlpydWIzRzlIbHNkRHExVlNvNXZqbjJVZHNyMGpnb0dEVmhHM08zbFBHblI2OWNRMlkxLW56dGhlamRsWVUtN243a0t1eUQ2QVh4UlV1d0NUSS1KOEUtOGFfVEtNaUtUWXF6REFMSHhrZVpaNWMwT1gxbzVJUVBia1RyaGdoVDV1R3EyMVVITEwwdXVsYlVfQQ?oc=5)** _(Wed, 11 Nov 2026 12:02:29 GMT)_
+- **[Ebola tops 11,000 cases in Congo’s deadliest outbreak - AP News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5)** _(Wed, 11 Nov 2026 11:41:00 GMT)_
+- **[Eating less protein could slow aging, review of 350 studies finds - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE54S05QNXZCdF9HX2t3eS1SRThzajdRd3pXTFVDRjdzU3BLZlB1NFVPd1ZjR1UyREo4RFhzRkdTdEFkblF6S0x5Y0tpU1BsRi1xZWwtREQxcHpQRTN6TnBnQjc5Yy03QXpmMXJqdnhjSQ?oc=5)** _(Tue, 10 Nov 2026 12:50:08 GMT)_
+- **[Subtle Changes in Speech May Help Predict Dementia Risk - The New York Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQjdIZWhfQnE3LW8wYmRqeWl2Q0NOS01EOW1TNmtZTEc2d1ZoWEs0ak1paXBtSlBITHZiQWRLTHBfVTVkMDdJRkk0cDVkMTdvbFlqQUltSG5tWUttTUJBRlo3bnNEX3pUMkJMZ3lOYThvTjVOdGk2WXY4ZEFaa0tpUTRBZzRqS1FxaUJwbjVMOU1JVDY5?oc=5)** _(Wed, 11 Nov 2026 10:00:09 GMT)_
+
+---
+
 ## Digest Date: 2026-11-10
 
 ### Source: MedPageToday.com - medical news for physicians
