@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-12
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[GLP-1 Drugs Linked to Improved Survival After Liver Transplant](https://www.medpagetoday.com/meetingcoverage/aasld/123845)** _(Wed, 11 Nov 2026 17:43:58 -0500)_
+- **[Upfront PCI Still Not Beneficial for Stable CAD as Far Out as 25 Years](https://www.medpagetoday.com/meetingcoverage/aha/123844)** _(Wed, 11 Nov 2026 17:10:08 -0500)_
+- **[Anticoagulants Reign Supreme in VTE Prevention After Joint Replacement](https://www.medpagetoday.com/cardiology/venousthrombosis/123840)** _(Wed, 11 Nov 2026 17:00:00 -0500)_
+- **[Last Batch of New Residency Spots Doled Out by CMS](https://www.medpagetoday.com/hospitalbasedmedicine/graduatemedicaleducation/123843)** _(Wed, 11 Nov 2026 16:37:23 -0500)_
+- **[Ibuprofen and Kidney Injury: Study Reveals Who Is Most at Risk](https://www.medpagetoday.com/nephrology/generalnephrology/123842)** _(Wed, 11 Nov 2026 16:04:03 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[New prostate cancer screening guidelines include regular testing for most older men - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjBTVHlQeFdIYzhwOXdNWWNxNVBOUEdadFRfR2thajQ5eWxHUWE4ZVVEUVhPZWhsTzR3TmlZLWREc21kS0dFeHlpbEdkVFBrY0t5ZTlXeGNWdDczWk1IazhycFZBX1FfNTBQeTdrOC1hVk9jTDh1a3JYVDJkclZXd1hLbFVSdjZUZjIyNkJaaTZ4d2xUWHBrRG5zWkJOd0tITTNvUUZQSGZvQQ?oc=5)** _(Thu, 12 Nov 2026 12:00:41 GMT)_
+- **[Why ‘brainier’ sports may be better for people with ADHD - The Washington Post](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN014dWZwb2tac1hJQThvMjBhY0lROXVOdy1FT0toWkRBQlJhM3JoN2xUWG5OQmszdUhYNUduckI0Y0RxSm9hSEdJTE1fZ19jWk50UWhkY2dYc2Z5d1d0bWFieGxXRFE2WjFXalk3TWtKeEtweFUxZ2c3ZVZNYkZVcktTTndRWHR4Sm45S2h0RW1DX2ZUYW1TMi1HSDIzVnFReFE?oc=5)** _(Thu, 12 Nov 2026 13:45:57 GMT)_
+- **[Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LZHZGWnNNZUdtLXNjT2FXZEFQcXNiWkxsdzN1bHhXLXNBcFg5MlI1dzBuaXhYanp1N3JtSkNKMUY0VS1QRjNTcm9ES3pqNGhjNDIxNG9DSUJLajA?oc=5)** _(Thu, 12 Nov 2026 13:02:37 GMT)_
+- **[History of measles cases in US as meeting could decide elimination status - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1ZCSnhWMXQwazdacTJ6eWt0M3RERWpXbUN1RjVmUEotbVU4V0F2N2ZBSEx3aGgwLWNMTkRSMXdMWFpndktvTjN2QzlfTTBtb2tVRmpZeWstNk10eERUVmNtMWhBNmNOclByQnZuR0pQZzJOd3NJME5HQ0V2MGh5ZVNqZEZtTWw0a0MwemtpQUZkcmgySUpOdVdwdjVjZlhtSGdUSDJOZ9IBrAFBVV95cUxQRjJyLVRuXzA1SzExYmdCUmlCOThkRm9YUGlmTzM3eWE3UXA1VWtEMjlPTmMtNXBRdGtMbFgtWWR6NUxmdkNKRFJ5THlDcmlyTWpJYWpNVW11WTZWVHpVSlllTmNwYzRZbmFVRnNmbE1ockF2cnlxMklPVU4yVmZjOHNaMWExX1VObFV5eHpZX2tfSWRlZkVYMjFUY1BqMC0zNkF6dnR1TnV6Tktx?oc=5)** _(Thu, 12 Nov 2026 10:41:35 GMT)_
+- **[Aggressive cancer type linked to common chemical exposure in new study - New York Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxObi12NU1DYVlBb24wWHBCTTlCUm92WWxneU5QSFVLcWRRRmpXQVpBak1RTTJ6NEJHV0stdGxRa3hlNmZsaEQ2TmxkZkdTT2w4Q0ZIV0pESXVucy1HY0dvU0xrSGVoTEFySDlnVGhGVHVOd21RVlBNeE1RQTRFYnpGckM0TnBMWkk4TDlRZUlSTkVmM2U3WHRnWFByQlNNbjdBWm9qVHdsbXAzdlZH?oc=5)** _(Tue, 10 Nov 2026 16:21:00 GMT)_
+
+---
+
 ## Digest Date: 2026-11-11
 
 ### Source: MedPageToday.com - medical news for physicians
