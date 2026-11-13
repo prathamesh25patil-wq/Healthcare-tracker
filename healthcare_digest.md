@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-13
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Prescriptions Down 25%, Overdoses Cut in Half: What Stopped a Gabapentinoid Surge?](https://www.medpagetoday.com/neurology/painmanagement/123867)** _(Thu, 12 Nov 2026 17:37:29 -0500)_
+- **[MD Defends 'The Pitt'; Dr. Glaucomflecken Talks Surprise Billing; Holiday Health PSA](https://www.medpagetoday.com/popmedicine/popmedicine/123866)** _(Thu, 12 Nov 2026 17:04:25 -0500)_
+- **[Trump Officials Will Fund New Research on Controversial Psychedelic Drug Ibogaine](https://www.medpagetoday.com/publichealthpolicy/washington-watch/123865)** _(Thu, 12 Nov 2026 17:00:19 -0500)_
+- **[Response to Standard PBC Treatment at 1 Year Linked to Lower Long-Term Risks](https://www.medpagetoday.com/meetingcoverage/aasld/123864)** _(Thu, 12 Nov 2026 16:45:13 -0500)_
+- **[Advances and Unmet Needs in Pediatric Sickle Cell Disease](https://www.medpagetoday.com/spotlight/sickle-cell-anemia/123862)** _(Thu, 12 Nov 2026 15:45:12 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Regular prostate cancer screening recommended under new American Cancer Society guidelines - CBS News](https://news.google.com/rss/articles/CBMidEFVX3lxTFAyTHV5NldlVDg1OWp1aGhOSVQ1US1uejlzbnFKUlhCcnBoWjltZ1dQNEJnZTJoaTY2MHZ1Q1RhUG5rRWpaT1N5b0FUOEtScXB0Q1ZSb21fUWtJeXBFX3pVeDZxSVpUdDByUGVHbks3dmlrd0dO?oc=5)** _(Thu, 12 Nov 2026 22:13:00 GMT)_
+- **[Timeline: How the US wrangled the deadly measles virus and how it has come raging back - CNN](https://news.google.com/rss/articles/CBMid0FVX3lxTFBmdlJaQ29iOUo2T1BpNFNYb1laZVJGWnlnTlZBR1F1MnFVREV1LVdBZUk5bmwwVUE2ZDBDOVdlQ21UYXZIeGpaSUUxam05c3M3SXh4d1djS0xFTGJlRUI1MjEtNEU3Um42TkRhZHhqa1ZZYVJYS0Jn?oc=5)** _(Fri, 13 Nov 2026 11:00:16 GMT)_
+- **[Caught Between Killers: Ebola on One Side, Islamic State on the Other - The New York Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE5udms4RHB4TFMtWldCTl93aks3SkV5OTBieXM2a2hDNmJWX2FSSHlrcGkwZEpYTTVUX09zckl2VWdSUXhhbjVvM3U5ZmtqMkNZdG9KbDdMUWVYX1ByUzJER2FGVjRyd25zVWk0amR4Z3pmUFBXQ1JlUA?oc=5)** _(Fri, 13 Nov 2026 10:02:06 GMT)_
+- **[Popular snack may help support brain health in older adults, new study finds - Fox News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdldGaVp2UnpVYjI2SWQ0MmZ1V3dvdk14YXFtM3pFVGFWOUxlZHhOOFZwanE1Tm0tbURWNl8ya2VpS3VHT3FnSEZxQUhDUVlrd3JPU3hPSThmUVBOb1FlZDh0aUt4NnQwV3hHUDBIVUZqZDNfdW8wRFdqdDRKZ0dHMHlGdFNLZnBTa213MFY5U1hqZE5mOW9ZTi1xR1NRSVkwdnBmSjh6N0NQSGvSAbABQVVfeXFMT3RqNVp2cnpfcFc3UzN2UkQyNDVoVml2VkpHbkV5emN1WGxEU0taVS0yUEpPSUxMeGtDa0lOSHA5bGZsXzBmcC0tRVAyX2RRdlF6UmRKbUk5c1dhMUp1NERMY2JvZzFKVWZndEdpYUFnVWJZS0JLV0V4UGFnc1pnRlViaHFTVG1HU3c5RmE4aFJJWUdBT25vdnpGWFI2cGs3bGV5UFRiaWhqS21JQTU2SDk?oc=5)** _(Fri, 13 Nov 2026 11:00:04 GMT)_
+- **[Healthy runner suffers sudden stroke at 27 as doctors discover possible cause - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmdCV0F4ajBQQUVhbDNxbzR4bUdHV25maTFHQ2dLOVdubVFkWUJZbnlXM1ExNDRSNjFVcC1rY2poQVpzam1UZjU2WlpNWGd1cFZRRnZleHF0aW5wNFY2M3FuNEpFTzg1Wlh6UW9oNGM3WmJZajJFVmdGeWIyWXZyT0ctak1KRDFUenNlaUdleXdnQmFTNGMxUVJrNEhZVjNUYS1iS9IBqgFBVV95cUxNVEtyRE54aFJrQkJDM0EtQll5UGRLYzRjQjRDYllMSUhSNWktUC1zT1NQd3pOV2tGWU5aWkh1VHVFZU4wTllmSTAyUDFWdjRyakM2S0FSRWp1Z0xNbE5tckRiRExQMkd1QnJRcnJ3N3Z2S3ZWUlRwSE1kcXVTUGNRRUpGb3VtaWFrYmNBWXFNSDJZVDhnZU04d052VS1iOHdmYWw1eFpKcG9Odw?oc=5)** _(Fri, 13 Nov 2026 12:00:41 GMT)_
+
+---
+
 ## Digest Date: 2026-11-12
 
 ### Source: MedPageToday.com - medical news for physicians
