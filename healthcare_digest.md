@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-14
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[More Measles Deaths Reported as U.S. Cases Top 5,400](https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123886)** _(Fri, 13 Nov 2026 17:38:46 -0500)_
+- **[Injectable Nanobody Wins FDA Approval for Myasthenia Gravis](https://www.medpagetoday.com/neurology/generalneurology/123885)** _(Fri, 13 Nov 2026 17:24:00 -0500)_
+- **[What Was FDA's GLP-1 Warning About?](https://www.medpagetoday.com/quizzes/news-quiz/123884)** _(Fri, 13 Nov 2026 17:00:00 -0500)_
+- **[Shorter Cycle Maintains Efficacy of Colorectal Cancer Regimen](https://www.medpagetoday.com/hematologyoncology/coloncancer/123883)** _(Fri, 13 Nov 2026 16:47:30 -0500)_
+- **[Democrat Pitches 'TrumpCare': Universal Healthcare From Cradle to Grave](https://www.medpagetoday.com/publichealthpolicy/washington-watch/123881)** _(Fri, 13 Nov 2026 15:39:36 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[US loses measles-free status as two more deaths reported - Al Jazeera](https://news.google.com/rss/articles/CBMiswFBVV95cUxPczhLUHVMV0tuNV8tZjNfSy03RVhnb3VPdUtzeDBuZ3d1Vm96X0FQR25oRG5SSjV0NHh6OXM3MmVqazBNcEZoOExnSVBnRnVvZFBWTUJVVjdjNDlHMXNOOEYtdGJqYkpaUVQwckxBMUJSMmp0RVZKX3FBdjFrOEl2S19nWVZ6WlhYMnVwOTIzZk5keDFvc0pMem03OV9nZXIyNzNGZEVrTVplU1p4NHNpODk0NNIBuAFBVV95cUxNMDNpbFNPTXlBd3JoTmZPdFVEVnRuYUNDUURqMHJoQ3daY04teDhaazZmdE9qampJV2dPZWVmLUUwVDBuUERWVXBzV2M3ODBxaS1oeU82YXFRVS1HLWlvbGZuNWdzdmhwRnJXbEo5SDJ3bThETTVwQ081YzUxTm1DakkzbEx3ZmwyX2w5MzZlaWlFZ080cTBBTm9aU3FoMWdUbEdWSXpWbEtlZk9nZmVoODBGTTRzdEti?oc=5)** _(Sat, 14 Nov 2026 12:06:08 GMT)_
+- **[What men need to know after a major update to prostate cancer guidelines - PBS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2RxWnpJX1VSUm9kWno2QXpLdzRCZnJsOWJraTV1dWo2c1M0amJUZWs2emhSYURsc0lnUFhRNUtFQWtGUEN3U1d0emp1ZVFDN0pnSWVRWFZpM01HZmxWNmZ2cTJHVUV4SmJGQm8xZG4wQU13aU1yMlg0cnFPT3Z2dWdqbVZ0WmNLd2ZTQzJQbWVVU2xfTmYxVXh2cEY4enFaVkZQejlYWUg1NUN3?oc=5)** _(Fri, 13 Nov 2026 17:58:31 GMT)_
+- **[Second child dies from measles in Grant County - Channel 3000](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRGNqOHc2ODV5Rm93d3R1Y1RwUTFKckNlYkoyT0dhenloMmZ1a1dWRG5HWEhlYUZZUkNXeTM4Rm9hdzVsN0d6Y2RseGhIZWdYOHlkMjhoT21rNUl1UFhhdldOQU5pZ3c2YU5BRm9vdVVGdEZzRE5LLWhtVWZlaVBkb2J3ZExDZFlxdHRjZHpER19lemN6V1ByekZySmdKY0d4NmR4Z19qZkVVS1NxTWt3VHhYdGwxa0FuYjJ2MlpnT2JuRHJQUWQ1bw?oc=5)** _(Fri, 13 Nov 2026 20:03:00 GMT)_
+- **[Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock - Fox News](https://news.google.com/rss/articles/CBMisAFBVV95cUxORS02dXpZT2h4V1BWS1FKV3p4dGQ1Y3p2WjJjRkNWM1RhNFRLLVF6dVNpWThvR0RPSFlydkNQUm5PVUZDMVl0WkNoNHBVb3l4WHhQVGdYREtJaU9lbkpMYmtXNUhHVmFQS1hic2VLSzZIcFMxMC1QdHJZc0ZVVmRqN3ZKSjE1RjBTWHJkU20wb08xbUJNS0tXOG1idFJ1czdoYlVEMkpQbnpDakVNY3piN9IBtgFBVV95cUxQZVJnRHRzUDVlY3NvSV9vM19hNER0SzBBX3hTSEpuUklKUmVjQ1dMZWJPb1JBM1ppc3ZMbHpodE9MUHZYTmpmVExyQ3lHRFhUak9lZDZkZmlGSXRmTWlNME1VMDZQQ0VXLW4wbnZUR3FJdzVEQWxMNVJPQ3VmbDBLYzZwOTYtTDN5QTJJWVFCeXdmTHZkcGQzbkRNeERxdVhobFotRHQ3dU85by1FbTJmQnRodU5Wdw?oc=5)** _(Fri, 13 Nov 2026 05:20:20 GMT)_
+- **[Caught Between Killers: Ebola on One Side, Islamic State on the Other - The New York Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE5udms4RHB4TFMtWldCTl93aks3SkV5OTBieXM2a2hDNmJWX2FSSHlrcGkwZEpYTTVUX09zckl2VWdSUXhhbjVvM3U5ZmtqMkNZdG9KbDdMUWVYX1ByUzJER2FGVjRyd25zVWk0amR4Z3pmUFBXQ1JlUA?oc=5)** _(Fri, 13 Nov 2026 10:02:06 GMT)_
+
+---
+
 ## Digest Date: 2026-11-13
 
 ### Source: MedPageToday.com - medical news for physicians
