@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-15
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Could Early Eosinophilic Esophagitis Treatment Prevent Asthma?](https://www.medpagetoday.com/meetingcoverage/acaai/123889)** _(Sat, 14 Nov 2026 17:24:23 -0500)_
+- **[Israeli Strike on Hospital Highlights the Devastation to Gaza's Healthcare System](https://www.medpagetoday.com/hospitalbasedmedicine/hospitalists/123869)** _(Sat, 14 Nov 2026 16:00:00 -0500)_
+- **[Early-Onset Colorectal Cancer; AI-Enabled Prior Auth; Type 1 Diabetes Subtypes](https://www.medpagetoday.com/podcasts/healthwatch/123879)** _(Sat, 14 Nov 2026 14:00:00 -0500)_
+- **[Trump Admin Pauses Enforcement of Its Medicaid Work Rules](https://www.medpagetoday.com/washington-watch/washington-watch/123887)** _(Sat, 14 Nov 2026 13:09:09 -0500)_
+- **[Are AI Data Centers a Health Concern?](https://www.medpagetoday.com/opinion/climate-checkup/123882)** _(Sat, 14 Nov 2026 12:00:00 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[U.S. reportedly will lose measles elimination status, as Pa. confirms 7th death of current outbreak - Pittsburgh Post-Gazette](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbEdQY0JvbFB1Zk0ySUY5bzFZUWFXN2h2OTNtRW1uRzVycWlwa1REMGdLYmRDRlhXWkloN2M5eURHMjRJeXgyQnlGeUQ5WHAtVWRMYkxnYWJPVkFnTmlvZm1fekVYVEJrX1lJVW03bndsV2tLUXVBbURiUTgyT25jRThyZHF3NjRqZ2txcmpwaWdKeXFBeXQzUVlyUGEyeTEtaU40OA?oc=5)** _(Sun, 15 Nov 2026 06:35:33 GMT)_
+- **[Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBhVGxjTnpfbGlWQm4xV2tOUTl2MDZXZjYyX3oybXlyR0dEUm1xQmMtcEdTQW1sMER6STJxRmZ5SmcxNUFYTlhqbGNFUy1IV3FtdkRNTzNSQml0Qnh1LXRfMzJ1SzFsSW84SEhnM2hRYw?oc=5)** _(Sat, 14 Nov 2026 12:50:46 GMT)_
+- **[Ebola outbreak remains out of control in Congo 6 months into response - AP News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVhKNmdzYlJFM2diX0VPVXgtM1oyY2dVZTBlQTREWUtidDAwejNMa1hXeHFtUGJDcU02el85VWRCT2FJWXZwWVFHcGVtSXBwQURpU1UyQjh6b3hBNVlIc1ltM0Q2dlBNVDVfQndSYUZnSnJIVjlYM3M1UXhXSW1ieFJaMU1lUGFGVEE?oc=5)** _(Sun, 15 Nov 2026 05:02:00 GMT)_
+- **[U.S. reports at least 10 measles deaths in 2026 - The Washington Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTZTUWJYdGhjMV9QMndzYi1kRURCUXZPRWZnN3hfeTZQY2NzOVNhcXltb0lucVR1UThmVEg0aHVRVmM5Y2ptdFE5NGJ3aHVYUHFNbTdxV1JRcmh3bkVGS0d3elVGWUZ3S1lZUGY1TWRTT1RuR19KWlBRdFdUNWdoUEJoWG1Mb3pwMTIzQUo2ZUM2SWc?oc=5)** _(Sat, 14 Nov 2026 06:24:59 GMT)_
+- **[New prostate cancer guidelines urge men to start screening at specific age - Fox News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNM05QOGoyNzlBa1AtSmZjZFhjZEQ4b0t0TVN0UFowb19Pd19xSHdjM3FicE9yZ1V2MlpmY3NjOF84Ty1FbENwQUE5UEJzZ2lCdWZVS2hrdkFIbXJKSzVjMkVlYTJWV1pNZG9COW9NbUZmY1dWcXk5ZUFqcnBTUXpQcmJLWDVKQkNRSUsxMXoyc2pyeHBfcEJJVXNxeWhiQmp10gGmAUFVX3lxTE5DaVY2Z2dQVVlENklySFVvN21IdWJUNkkwOGJfLXpSWUVkaXJvaEVPWU5zLWZjdGpqOHBvRmZhT1dISmU1VmRMdlVlbDliSDV1OF9NMFRkVDkwSUhZdWNwYThtN2lqTU9KUVAybVhyR1BrMXBIY29NelFyU1RrMFgzWjJnVzVtRmRhWUR2S2YxQTlEb0JZbGxKZllMMnkyZUlOVXhhc1E?oc=5)** _(Sat, 14 Nov 2026 17:48:19 GMT)_
+
+---
+
 ## Digest Date: 2026-11-14
 
 ### Source: MedPageToday.com - medical news for physicians
