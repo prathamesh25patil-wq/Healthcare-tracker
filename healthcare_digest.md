@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-16
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[FDA OKs First Drug for Primary Membranous Nephropathy](https://www.medpagetoday.com/nephrology/generalnephrology/123892)** _(Mon, 16 Nov 2026 09:03:10 -0500)_
+- **[Tirzepatide Cuts BMI in Adolescents With Obesity in Phase III Trial](https://www.medpagetoday.com/meetingcoverage/obesityweek/123891)** _(Sun, 15 Nov 2026 18:00:00 -0500)_
+- **['Opioids Cause Pain. Full Stop.': What We Heard This Week](https://www.medpagetoday.com/opinion/what-we-heard/123878)** _(Sun, 15 Nov 2026 16:00:00 -0500)_
+- **[Omalizumab Linked With Anaphylaxis Elimination in Meat Allergy](https://www.medpagetoday.com/meetingcoverage/acaai/123890)** _(Sun, 15 Nov 2026 15:28:54 -0500)_
+- **[The Fine Print on Our National Bet](https://www.medpagetoday.com/opinion/second-opinions/123873)** _(Sun, 15 Nov 2026 12:00:00 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[After 26 years, the US has lost its measles elimination status - KSL News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOT0c1WmkyVE1LWTM5cTBWalNBVDdqVEFTQUdyZzR4enVwNU80S2FHSmthaUFPVm5nUGJlSEhmaHNCQkpxN3MzYm1pbGtYNXBDdS1sdXdvWkswN3hoWmFnbkctb2RFb00tc3A3UWV1V3c5UmtkV1lsQ2RQR3pPUXZUeUJKMHpXQWJpQTRuZmdEODdHUmpCQlVaT0JQTlZmVFk?oc=5)** _(Sun, 15 Nov 2026 21:39:08 GMT)_
+- **[This Common Daytime Habit May Be Linked To A Higher Dementia Risk, Study Finds - HuffPost](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFA3Nzdncm5oM295aFd3U0tNeC1hX3ozTkVWcWVWRzFqSnJmNG05dExHTTZhWi1fMnpaY0ROYks3WG15Y1M5QWE1cGRXNDRITGRZRnNYTks4WFRCRnBYX0FNNjN3RTlCNFg1RTJCWjZDM3lnR2ZqaUNTOXlQajhkNm1TcTV0MmdBYkdpTVFGT195NURMMTBiZlU0eWN6aGJNRnloSHM5S0HSAa4BQVVfeXFMTVYyWDdVUFVieG0wUzRvVVA0Zi1XNldHZ1RfOXZCS3Q2eXBNakFtbEhXNmE4X3BOc1p3bGdYb0w5b0FtcmFOcXdMVkp4UGMyT2M0U1NhX083Y1pkOW1fLVlFR3JJLVltTVljQ0Q3S0s2QjJvMHc4T18xLUJwQ1NJNW9Rb3YwOEM3TU1EN3hxV3BtOVBVNHV2aDdoaVBwTmdNQzNJVktIcEt5ZTZOb2Vn?oc=5)** _(Sun, 15 Nov 2026 12:00:17 GMT)_
+- **[MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSjQzSUFNV0cxblZIRzdoaFQwaTNtR1lMcnVIR2FDYjh4ZHJhVkJFSnltaWFZMVhQd0FoN2M4Ulo0emxlMFRRcERGTE0xd3JwZU9aOVBNSGdBNDRCTUJadzhhVThaeFRxWWkxZ0I5VQ?oc=5)** _(Mon, 16 Nov 2026 01:41:45 GMT)_
+- **[Africa CDC says Ebola outbreak still out of control six months since it was declared - Reuters](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU25FZUdud21zOGRwcHdZRTZESUh4dUY0ajFFSTBhSXQwUWo5SXFVNGtXb0ZBcF9HUnZJeklFQXd0c0h4MUtWandzSVhzeldqZXFEdGZ3d0poQU5KV1dtTWZWUzdCQk1tQW56ZTAwT0cwZklldnZ6Q3dHVHFDQWJmNjhQaHFYOGZOa1lnU1Y2dGNwVGRZaFBrTTlESzk0a1B6Z0JQU0swOTZCanZBanVRS0hnTFhrQlRsSHRRbXhfTlFRaXB4aUhGS2VDV09VVDFvZThlOUFQLTJiaDJx?oc=5)** _(Sun, 15 Nov 2026 16:14:00 GMT)_
+- **[Why sleep matters when it comes to weight gain and loss - NPR](https://news.google.com/rss/articles/CBMidkFVX3lxTE93bEhFVHZ3cjBzOElIbXlwTFpSNWt5UWRMQmJuWHVLbkUwS01FcHo1bmgxUU5odGhyZzc0WkRlVmU4emRuYTQ3UmdfQ0hCVFp0WV9kdEdlYWZDOGtyd00zTVNkdXFlNmFoSERjc0pXTnpldktvZGc?oc=5)** _(Mon, 16 Nov 2026 10:00:00 GMT)_
+
+---
+
 ## Digest Date: 2026-11-15
 
 ### Source: MedPageToday.com - medical news for physicians
