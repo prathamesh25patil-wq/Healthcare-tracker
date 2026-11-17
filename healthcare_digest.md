@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-17
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[CDC Researchers Sound the Alarm on Congenital Measles](https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123912)** _(Mon, 16 Nov 2026 17:43:02 -0500)_
+- **[CBD Didn't Top Placebo for Behavioral Problems in Kids With Intellectual Disability](https://www.medpagetoday.com/pediatrics/generalpediatrics/123911)** _(Mon, 16 Nov 2026 17:21:35 -0500)_
+- **[Wegovy Reduces BMI in Kids With Obesity as Young as 6](https://www.medpagetoday.com/meetingcoverage/obesityweek/123910)** _(Mon, 16 Nov 2026 16:47:48 -0500)_
+- **[How Impactful Is Stock Epinephrine for Anaphylaxis at Schools?](https://www.medpagetoday.com/meetingcoverage/acaai/123906)** _(Mon, 16 Nov 2026 15:01:38 -0500)_
+- **[Fellow Physicians, Let AI Fill in the Blanks](https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/123905)** _(Mon, 16 Nov 2026 14:59:48 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[U.S. loses measles-elimination status, erasing decades of progress - NBC News](https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3EtY1JzbmcwVS1OQWZ3dlAzWUNxSmNOOG9WNXRxMzY2R3l6WU1IcWFYQ0VPeXZqVnUzVnF6YUM0WWJYNkFOTU1iSWVZUGRMcnEtSUJETGxoOU9pZnBoMlBzMFBlVjdrRmFyZU8yRWJjU1oxdVFnXzNWQlkxMUsxeFlwSkVKRTR0Y2h5VTFB?oc=5)** _(Tue, 17 Nov 2026 00:41:00 GMT)_
+- **[CDC declined to alert risk of measles in pregnancy. A journal released the data. - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkM0VjZ6TVBKcGwzLURQWG4zNlFkMEJxeDhmTzdMdi1EZUFpbWhhMkM5eVNrdDkyNjUtVUNjc1VPanp5b0pJVjR3d0ZiTnUybm5GUXBnMjk5ZjBlaUJGX2JnLXJVSnZfODJwWGJrY0d6N1VSSDdsSkRfcHI4TjVxY2NQOV84Zzk3dUNjbVFvdnpLSThOUV9QNGZIODRMQTRTSE05dWF0VG0tNmRBdFFHdVlBdw?oc=5)** _(Tue, 17 Nov 2026 07:12:34 GMT)_
+- **[This teen had no place to go, so a hospital became his home - CBS News](https://news.google.com/rss/articles/CBMidEFVX3lxTE8xdF9kZUlTQWNWWnVzY1lYaC1LdzhkX3JMeVVkVlJlRmp4RVBEV1N6T0RzcUMyaXRfREVoVVBVNXRwbmxxeXNOT1hnbVhJak56YUx6SGQxX2lvVVVnMlJHd2VOSUMxdFRUWmVfendBNTI5VzlP?oc=5)** _(Tue, 17 Nov 2026 10:00:10 GMT)_
+- **[Prostate cancer testing now urged for men in their 50s and 60s – a lead author of the new screening guidelines explains why - The Conversation](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYUpSMXZXTnNrZ0Zmb19QYUMxblFRM2YtZnRHaFJpdHhVWS1Kbll2RVQzNlRpTU5QWEdtWkZqeW5GREVzME5ZQlRIOF9DWVV5TlNScDYzSDV5c0o4UTlrR3pFNU5uSzg0R25FVzZMVm1HWks1SVgxbFdfREVndTJtUDg1SUNoeDRneGltWjQ1ZDNweTBBUU1abzg4cUFGYndMbFhBRUpHczN1dU1EZVlFQXJMY002OWFZc1liUTJWNzI3V3kxM2RLMDhTdGJuQ2l6UGVMN2xXam1fcTIycHlhVG5iQlo5bFNWTW1lWQ?oc=5)** _(Sun, 15 Nov 2026 14:00:41 GMT)_
+- **[Congo's Ebola outbreak is spreading and killing at a record pace - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEFWMzBNRHVFZGVza1RSRXBVZkxZZlJuUmI3cDYzc1Z0RU4xTmZvM0lWZzBTdFRCXzlaUURKQTBRX2FBakk2eWtXN1JYelhKNjdvRmd1TDZxUFJCQ3puQ0lYOW5aYzd2cmF3YUxCaGtONUE4YXJPc1VRQmY0dGp1NjBZTzFSYUJUdHFramt0SEV1Tmx5TGVlUG1hVHlFbjh1WTdvUWR4N2NCRExCT1lVM1FUZjFiM0ZPeTkxTHJ5Z2w2M3pK?oc=5)** _(Tue, 17 Nov 2026 13:18:08 GMT)_
+
+---
+
 ## Digest Date: 2026-11-16
 
 ### Source: MedPageToday.com - medical news for physicians
