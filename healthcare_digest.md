@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-18
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[White House Yanks Pick for FDA Chief](https://www.medpagetoday.com/washington-watch/fdageneral/123940)** _(Tue, 17 Nov 2026 20:12:31 -0500)_
+- **[Macrotroponins One Reason Not to Take cTnI Readings at Face Value](https://www.medpagetoday.com/cardiology/generalcardiology/123939)** _(Tue, 17 Nov 2026 17:43:53 -0500)_
+- **[Erectile Dysfunction Drug Shows Mixed Results in Alzheimer's](https://www.medpagetoday.com/meetingcoverage/ctad/123938)** _(Tue, 17 Nov 2026 17:38:59 -0500)_
+- **[FDA Adds Another Player in ALK-Positive Lung Cancer](https://www.medpagetoday.com/hematologyoncology/lungcancer/123937)** _(Tue, 17 Nov 2026 17:29:15 -0500)_
+- **[314 Action Celebrates Its Victories in Getting Docs, Other Clinicians Elected](https://www.medpagetoday.com/washington-watch/electioncoverage/123936)** _(Tue, 17 Nov 2026 17:04:54 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[‘I’m heartbroken’: experts dismayed as US loses long-held measles elimination status - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0RLNnY4WmFTeG5LcHFXOXBNQW1PME8tMzhSWTJCVEpva2JQcWpWeHc0RVVjcGx0eUlodmNsQXByX2lSbFBGTlNwcEpiVXhWQVJNcjI0OXdFdFJHenA2YUhIcUcyUHpHZ2hZSWhLREF6dzJPVmFfc3VtNmoxWU5SMC1UY0EzQmZIbk4xUVZB?oc=5)** _(Wed, 18 Nov 2026 12:02:00 GMT)_
+- **['The pinnacle of human health': What it takes to be a super pooper - BBC](https://news.google.com/rss/articles/CBMingFBVV95cUxOcUxWU2Y3ekFmR2Rzb3ZoNXIwMHF0TmE1UThFTmtxMlZDaXoyZDdtdGk1RUVwQ0MyWkpHQ3dKLUxKc2FRYlNNUG9xVmd4WUpoajdJZkhXVTFGelRzcTBjNkphY3ZTT2tBU0xyYXlpRl9DSTR3YkhVY2ZTWktISWswdjFEcXRfYWQxWnpsZzBqWFliRUVDUWpva09fdG4tZw?oc=5)** _(Wed, 18 Nov 2026 10:00:00 GMT)_
+- **[MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSjQzSUFNV0cxblZIRzdoaFQwaTNtR1lMcnVIR2FDYjh4ZHJhVkJFSnltaWFZMVhQd0FoN2M4Ulo0emxlMFRRcERGTE0xd3JwZU9aOVBNSGdBNDRCTUJadzhhVThaeFRxWWkxZ0I5VQ?oc=5)** _(Mon, 16 Nov 2026 01:41:45 GMT)_
+- **[Five surprising ways to boost your iron - that have nothing to do with meat - BBC](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGdkbHhpcmt4cnZnNlRMR3dvY0xjc3k5MHFMbW1CeXZuLXZ6T1RJeHVHMEdpQU5BcnpfVTBPRFZ1bmZDbDV4VjhPSE5RSWQwb05QaGJoaDdOb0ZjNDREWklYY2NId2xhRi1SNi1GaEdvd2hwWDYzVUtVc2RsTUVpZVhOSUFmOVZrYjdET01qdU9JSFRPemNUTEhLWVhxejV1d05pRWRUZ0pMWVp5ejZjTF9rdXpjdm8wYVVTZjBn?oc=5)** _(Tue, 17 Nov 2026 10:00:00 GMT)_
+- **[Second child dies of measles in Wisconsin, as state surpasses 650 cases - Bring Me The News](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnB4Q3ZVQUZJbVRndmdJY3k5NUlOcXJhaHprOVpHakgtUWxFTlhjMEk0OHB5YmdBYTFtbGVrQUZzaTI0bG43UkdKajNJZURVbWFwYnhjWC1vZ0JvSUJ6bmlvalA5bm55dGotY0syUGRDRHRGODd0TnNYOTlDQ3BLT3FjZ2hrZjZQalo0LU1WYTBLTUoyTWFoazhRMkM5VU9YbEdiUVp2SlJJNzZEWUJqeERR?oc=5)** _(Mon, 16 Nov 2026 21:59:39 GMT)_
+
+---
+
 ## Digest Date: 2026-11-17
 
 ### Source: MedPageToday.com - medical news for physicians
