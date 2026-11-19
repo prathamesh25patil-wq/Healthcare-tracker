@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-19
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Tau Therapy Shows Continued Benefit at 2 Years in Alzheimer's](https://www.medpagetoday.com/meetingcoverage/ctad/123956)** _(Wed, 18 Nov 2026 16:36:56 -0500)_
+- **[Quadruple Agonist Reduced Weight Without Major Muscle Loss in Mid-Stage Trial](https://www.medpagetoday.com/meetingcoverage/obesityweek/123955)** _(Wed, 18 Nov 2026 15:41:52 -0500)_
+- **[Should All Adults Be Screened for Lipoprotein(a)?](https://www.medpagetoday.com/cardiology/generalcardiology/123952)** _(Wed, 18 Nov 2026 14:32:43 -0500)_
+- **[Neanderthal DNA and Schizophrenia; Ayahuasca for PTSD; GLP-1 Reduced Binge Eating](https://www.medpagetoday.com/psychiatry/generalpsychiatry/123951)** _(Wed, 18 Nov 2026 14:01:02 -0500)_
+- **[Novel ADC Could Expand Treatment Options in Ovarian Cancer](https://www.medpagetoday.com/meetingcoverage/esmofuturefocus/123950)** _(Wed, 18 Nov 2026 13:50:32 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Eighth measles death reported as Pennsylvania nears 1,600 cases - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDJwUVVOam91SHFIZTJtUk9KdUduZ000T0VHQVVZMmpfNEg5UUk3dEVka2ZiTVhXb212NnJEclJianh3YlFxQUZUWFBscUtOZTBnMURTekhsQTJWaHJTYnRHX3lRYXJSRDVyMS1tdTk3WlFidE9zNUpfX0V3NXJGTnBOQ2FYaVFINzd3c0tDUkxlUzBPbVFndy1kY2w3akVZMUZ2aXkzMHg4STFURXc?oc=5)** _(Thu, 19 Nov 2026 07:24:00 GMT)_
+- **[Measles has come raging back in the US. Robert F Kennedy Jr should be impeached | Judith Levine - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZkZPZ1NQdzRHNmY2QW9yNHduLUNyNWM4bUJLZ2tuZWxlZWlGZDhTUGNQS0lHX08xS3doNjRlNGlZaUgzeGdUQTZseVpfYmtuaWh2UEptRGlKX0hwc2FYWVVmY3hmZXJRVGZxZnpva0VOS3Z0VXlTNjVuUXQ3eGdMZHllTWg2TjBVSGVfMDl3U1JOS1E?oc=5)** _(Thu, 19 Nov 2026 12:05:00 GMT)_
+- **[Multiple short walks better than one long walk for controlling blood sugar - Medical Xpress](https://news.google.com/rss/articles/CBMiekFVX3lxTE1wYXN2RG5FWG14cUpJQ2Z2Nk1nMU9OeXNmc25TRTUzN0kzYUQ4QjBWcENUbjI4bWc5RDIzZjNnZzVqNG5WWTlDM1Y5d0tOUDR3eHo3eUpsaDdOMWpSX294a3ViV0JLZWVic25QOXRqTFdMd0JsTnZKUGdn?oc=5)** _(Wed, 18 Nov 2026 08:10:02 GMT)_
+- **[More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution - Health.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JUXp5ZldJZmtpZ2lpZTNXN0VpeEI2N1RHQU5HWUg3OHFSTzhuN3l5MTROZEZzZ1R4cXBOWmhTQTY1b2ZwSjJTVFp5bzk5eWt5dmxCb3gxMWVoT25oN3BISDFYcEM0U0U?oc=5)** _(Mon, 16 Nov 2026 13:55:00 GMT)_
+- **[I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins - STAT](https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDlHcFVVUF9oZ1M1Ti1FamZEVm01NEJ2aWJQTk1ZTkpxeFhTM2dlM0lJdW1HMHNkUkVBR3lNNk5VSGtPSjRmTl9wSjlhQUVGTGxTclBTVFZ0NHp5Rzc1cXVkbE5WSC1ZdDBqNTAydUZSR2lnYlNBVThfLXhzLS1SalE1MXpzTnNNVUFpYjIxUWJ5dUJ4VXc?oc=5)** _(Thu, 19 Nov 2026 10:43:40 GMT)_
+
+---
+
 ## Digest Date: 2026-11-18
 
 ### Source: MedPageToday.com - medical news for physicians
