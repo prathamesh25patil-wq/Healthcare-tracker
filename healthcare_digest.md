@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-20
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Prostate Cancer Screening Is Changing. Health Systems Must Catch Up.](https://www.medpagetoday.com/opinion/second-opinions/123973)** _(Fri, 20 Nov 2026 08:52:57 -0500)_
+- **[Doctor's Mass Shooting Stuns Medical Community](https://www.medpagetoday.com/special-reports/features/123965)** _(Fri, 20 Nov 2026 08:00:00 -0500)_
+- **[First siRNA Therapy Approved for Myasthenia Gravis](https://www.medpagetoday.com/neurology/generalneurology/123972)** _(Thu, 19 Nov 2026 17:43:02 -0500)_
+- **[Simple Lab Test May Predict Recurrence Risk in Most Common Type of Breast Cancer](https://www.medpagetoday.com/hematologyoncology/breastcancer/123971)** _(Thu, 19 Nov 2026 17:41:23 -0500)_
+- **[Two Tuberculosis Regimens Containing Novel Agents Show Promise](https://www.medpagetoday.com/infectiousdisease/tuberculosis/123970)** _(Thu, 19 Nov 2026 17:30:49 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)** _(Fri, 20 Nov 2026 13:46:00 GMT)_
+- **[Eighth measles death reported as Pennsylvania nears 1,600 cases - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDJwUVVOam91SHFIZTJtUk9KdUduZ000T0VHQVVZMmpfNEg5UUk3dEVka2ZiTVhXb212NnJEclJianh3YlFxQUZUWFBscUtOZTBnMURTekhsQTJWaHJTYnRHX3lRYXJSRDVyMS1tdTk3WlFidE9zNUpfX0V3NXJGTnBOQ2FYaVFINzd3c0tDUkxlUzBPbVFndy1kY2w3akVZMUZ2aXkzMHg4STFURXc?oc=5)** _(Thu, 19 Nov 2026 07:24:00 GMT)_
+- **[Experts have for decades wanted to diagnose CTE in living people. BU researchers may have found a way. - The Boston Globe](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QQndwa25DMUdfRXpVVU9iUi1mQVQxYmt1WVhxcG84VmVmdnNGcWFhQWd6bGdRclRUSXU0cXNxQUYxbGE3V0dVS0FHRGxhVW5FdzlORVhueGZ1M2Y2UzNxNG9ncE9IQWRWbWVSZTEyRVU3SU9ZMUNjTnNrcWxPdw?oc=5)** _(Fri, 20 Nov 2026 00:50:03 GMT)_
+- **[Measles comeback puts daycares, schools on the front lines - The Hill](https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVNwNXZIazZVVkVjR3JIMHJwelh3dWhMcUY2SU1jMmVZZUUyNUFpNUpvZm5HVXc0N0h5VjNRNTlrbXJMNEhnNEkwUnRFOFNaWlVndW1qRTBKWXVOcVl3NHpYR3pyWmgzZENaTHRjWklhbS13T3pNemx0VW12WF9NZDk4YUYtcGdKTUo2VTBKRG4?oc=5)** _(Thu, 19 Nov 2026 11:03:00 GMT)_
+- **[Column | Just one minute of this activity may cut blood sugar spikes by 40 percent - The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlNBSFVmOHYwUjNGaUJUc1R5Ul9YUFZ4bTQtWXZZM2JScU9HbndhZmQ3QTIyU1BCT3BsOXEzOWtkWW9lZi1vQWxoZ1JxRHVab0hGdkJzRGdoeVhYVUlQZ000ekt2M3FycEJnelV0amZOUFNPSDNDdC1jUmMxVDlpWVlHV0N4UFRnSjdEY1djYUhncE16M3BOMm80TlFfdmVJU0JEVlBMeTJucm9FV1ZSQk9KY0NUa2FfMXRCalFxVQ?oc=5)** _(Fri, 20 Nov 2026 14:33:09 GMT)_
+
+---
+
 ## Digest Date: 2026-11-19
 
 ### Source: MedPageToday.com - medical news for physicians
