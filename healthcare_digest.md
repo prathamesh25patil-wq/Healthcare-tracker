@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-21
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Alzheimer's Test Results Delivered Digitally Didn't Increase Distress](https://www.medpagetoday.com/meetingcoverage/ctad/123991)** _(Sat, 21 Nov 2026 08:00:00 -0500)_
+- **[Court Approves $7.25B Settlement With Bayer Over Claims Roundup Caused Cancer](https://www.medpagetoday.com/publichealthpolicy/environmentalhealth/123993)** _(Fri, 20 Nov 2026 17:39:43 -0500)_
+- **[Insulin Resistance by Age 30 Quite Telling of Future Heart Health](https://www.medpagetoday.com/cardiology/generalcardiology/123992)** _(Fri, 20 Nov 2026 17:21:00 -0500)_
+- **['Grand Slam' Pancreatic Cancer Drug Shows Promise as First-Line Treatment](https://www.medpagetoday.com/hematologyoncology/othercancers/123989)** _(Fri, 20 Nov 2026 15:15:46 -0500)_
+- **[Cancer Care Driving Insurance Costs; Unnecessary Chemo? Profiting by Non-Profits](https://www.medpagetoday.com/hematologyoncology/othercancers/123988)** _(Fri, 20 Nov 2026 14:22:22 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[RFK Jr. vows to curb a measles crisis he initially underestimated - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5)** _(Sat, 21 Nov 2026 13:13:34 GMT)_
+- **[Virginia reports first measles-related death of 2026 - The Hill](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSWVWekdCQ2dOMkJHV2pyQ1lnMlJZRFhpWWpYMU9oQ2lWX3hKWEhJSnd0OWNoLWJreW1aWF94U1BBVXp1UldtTm1MWWJRRFZRVDBrOWF3bHBxemxrOXZxQmhaU3B2UTdmQXZWNFBzTzBoMThWYmNmbHdrMkEtUFNha0NENXZxYl82d1ktX3oyVlptZWY2YTFCQkFn0gGfAUFVX3lxTE5ueU9JaEVtUlEyN2std3lYNUJ3UW9NaERvOXpPNzhWVFZlc3J0SjVUcFRDVzdGWndxTDNvcF94eU5sNkR6NW9hWjFOcEpXLXRIYWZMYWZJdVEzSDVQcE1HZ0hVTnlzM2s5SFZDaHZfUUZwdUx5Z240SlVYZDE5d2VfTVRoQTZKRTFtZi1XcHBOZ0l3M1U4ZEVJaC12aGt3VQ?oc=5)** _(Sat, 21 Nov 2026 04:20:00 GMT)_
+- **[New studies indicate possibility of detecting CTE through blood tests, paving way to test for disease in living patients - Yahoo Sports](https://news.google.com/rss/articles/CBMigAJBVV95cUxQMlpfdzlQWFJ6aVgzSTdYTEJJU3lDSkFxQzk5d2xvZW1yeE1WR3Iza3BqVFBWblJRV2h6ZnNXbXVfT2tTd2llaWhqOTM5ZEU2NlQ2WHNOT0VqRGNYT1BEMFVDcDVkcVd2T3hPbzdxcHJHRWJtUGJ5Q0ZnNzlwRHpZbksyQXdfYUVINFpMT2V6dWhFSWhoUWZRaHhIN2JGQ2xNWHlxNmMxSjgzNi1CRTBta2RiWWN3OFA0VE5QN1JQTzczZC1TWkVJeHJGV1pRZXJWTVNBdU5Ud3haSi1MZEpJbl8tSWsyOC1BbDNEUE1ZcFdyTlVMZnNXb3hielpVeEt6?oc=5)** _(Fri, 20 Nov 2026 00:14:00 GMT)_
+- **[New pancreatic cancer drug halts tumour growth in 90% of patients - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5)** _(Fri, 20 Nov 2026 12:17:51 GMT)_
+- **[Oregon health officials confirm human case of bird flu at Morrow County dairy farm - KATU](https://news.google.com/rss/articles/CBMilwJBVV95cUxOY0VMOGtFM2l4S05mdjRQejhuOXRnbExEenZMb3FFMGlJU0taUjM3NVN2bjJqbWdFMkhjLUVKMjBRbDNOWTU4RFFOek1aZDNfdzE4cFptMnZqcTdmSkk0N184ekgwQnVRR3Zla1BZbGt4YkIxbUh3R2sycG9XeTg4eS1pRVZJYU9QWGc2U0ZQQVpaVm5ucXhWWGJSNVFyRFVRd2ZPemNCWktWTjJTMXhORE5JY2I1YkpBeW1qd2hENGZzYzNZNF9sWDQzTVhfZzBlZzloSzgyZmFHV1VDU2xpb1pJNVJyZ3hfNDRYbWtUZTFjUlpNY19IcGJsQlQtUnpyaDAyY1NjUWIwZm9pdmkxRG1kOVJYYWc?oc=5)** _(Fri, 20 Nov 2026 01:46:33 GMT)_
+
+---
+
 ## Digest Date: 2026-11-20
 
 ### Source: MedPageToday.com - medical news for physicians
