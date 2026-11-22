@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-22
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Metformin and Long COVID; Lp(a) Lowering for Cardiovascular Disease](https://www.medpagetoday.com/podcasts/healthwatch/123985)** _(Sat, 21 Nov 2026 14:00:00 -0500)_
+- **[An Insurer Paid Me $6.73 to Save a Teen's Life](https://www.medpagetoday.com/opinion/second-opinions/123980)** _(Sat, 21 Nov 2026 12:00:00 -0500)_
+- **[Plastic Surgeon Convicted of Killing Lawyer Is Sentenced to Death](https://www.medpagetoday.com/surgery/plasticsurgery/123990)** _(Sat, 21 Nov 2026 10:00:00 -0500)_
+- **[Alzheimer's Test Results Delivered Digitally Didn't Increase Distress](https://www.medpagetoday.com/meetingcoverage/ctad/123991)** _(Sat, 21 Nov 2026 08:00:00 -0500)_
+- **[Court Approves $7.25B Settlement With Bayer Over Claims Roundup Caused Cancer](https://www.medpagetoday.com/publichealthpolicy/environmentalhealth/123993)** _(Fri, 20 Nov 2026 17:39:43 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Virginia reports young child is the state’s first measles death in 2026 - AP News](https://news.google.com/rss/articles/CBMikAFBVV95cUxNSk9HQklCN2x4dXV0OXM4eEtFTDdiSTlveWhiSTNYa1dPVEFTU1k3UG5fbF9pLXBrUlNDNE51QWM3YWtGWnBNWFUwU1V6RHQwemxSVnp1VU12MXkxdVQwcU9scTFNcDNNbTQ5T2ZwT2xWNHAxeVJMQ1lEQzVDS1VVSWdRMlR0U2Z3bTRvYk5EWnA?oc=5)** _(Sat, 21 Nov 2026 22:07:00 GMT)_
+- **[Map: Measles cases in each U.S. state - Axios](https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTGFIRzc4akdjV1ZiTi1ickJvMjNKX1pzc2VENndYd0MwSmFxaTlEYW9HOVBfcTFBYWdrZGlUYmEwaGowQ1Z5ZXNEcWxwOFBMSFAwallBLXJSRTRlUFdEWndLR0t4OGlza2RWVDgyc3lkTG5uNEZhRjJQYnZsZVU?oc=5)** _(Sat, 21 Nov 2026 21:27:54 GMT)_
+- **[Studies: Blood test has potential to detect CTE in the living - ESPN](https://news.google.com/rss/articles/CBMilgFBVV95cUxPaVA0Nlh5TUlBZk1ndGtJSm5CM1lzQW1xc0tWMVRkQXJNNGpWQ3oxbmZsQU5PYUY0UW9qQWM5c2gwaUhMUVlJOHg3RndhelY3ODlndlg5NS03Rm9kMVN4eTBpSmVSRXJaUTBVNTc2cXBuZElEMkRsUkxOdGtKZTltVWdfS0RkYzFnQ2ZzNkVHQWZiX25Fdmc?oc=5)** _(Thu, 19 Nov 2026 18:50:00 GMT)_
+- **[Multiancestry genome-wide association and integrative multiomics analyses implicate key pathways in endometriosis - Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MZWJnRWVVTENBLWpTbGgzNE5uYi04dU4yb01CYzY2Q21BRUpRal80LWp4N3hkZzk4Sl9CREZyQ0xzUlRYTmRNVGZvLV9MOS1ac051UTFuZUgyVHcyY1Vv?oc=5)** _(Fri, 20 Nov 2026 17:26:24 GMT)_
+- **[New pancreatic cancer drug stops tumor growth: Study - NewsNation](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEU1WUljbVoySEdNdXJFSWJzZjJyM2ZUeGpiLTE1TEUtWnpsS09UT19Pakt4U2JXZ2lhZ253UVFMTVJLMmRWQTByU0pYYTNuaHhSVERISHRQM0dLNXlzV09obmNkaGpRUzdGVzVybFJfRE54bW4wSldFMlRrNTN1aXo1ZWd1QdIBiwFBVV95cUxOb2g1TUpDajZTWUJVWDl0ZktDZmFuYjhTNFBTSnZkWVctMnhYVnR5SUdjT0ZSTk41aUhhN0Fha0lVaHdJSWJTX2lpeTU5WUdsRUY1eHhfN3lQSk80dFFFeXlEd01hODdDLUVHQmFGbVhudjh6dVcwVVVKSEhfczIxOVdKMWhKNE9KRzdV?oc=5)** _(Sun, 22 Nov 2026 02:49:15 GMT)_
+
+---
+
 ## Digest Date: 2026-11-21
 
 ### Source: MedPageToday.com - medical news for physicians
