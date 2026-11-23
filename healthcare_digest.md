@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-23
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[He Thought It Was a Muscle Strain. Then, Doctors Raced to Save His Leg.](https://www.medpagetoday.com/casestudies/emergencymedicine/124004)** _(Mon, 23 Nov 2026 10:40:46 -0500)_
+- **[Stop Washing the Turkey. If You Want a Safe Thanksgiving, Here's What to Do Instead.](https://www.medpagetoday.com/publichealthpolicy/publichealth/124003)** _(Mon, 23 Nov 2026 10:19:10 -0500)_
+- **[Virginia Reports Young Child Is the State's First Measles Death in 2026](https://www.medpagetoday.com/pediatrics/generalpediatrics/124002)** _(Mon, 23 Nov 2026 09:59:25 -0500)_
+- **[GLP-1 Drugs May Have Benefits for Some Schizophrenia Patients](https://www.medpagetoday.com/spotlight/schizophrenia/124001)** _(Mon, 23 Nov 2026 09:49:00 -0500)_
+- **[UnitedHealth Sues the U.S.; Chaos at USPSTF Meeting; Antisemitism in Medical Schools](https://www.medpagetoday.com/publichealthpolicy/healthpolicy/124000)** _(Mon, 23 Nov 2026 09:40:44 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Virginia reports first measles-linked death of 2026 in child younger than 5 - Al Jazeera](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVVlY2JXaFRVTkdvVXZaR0hDRWlFbHdSdU40NjA5Q25SS25TY29BYkl5aTNPN1hFTFVHVGtmTllHcG9EQUQyV2hFVUxILW9EZUE4V2FYTF90WTRWVDRGZUdoLXZLeW50NGJpYUszeWpWcTQ3bmExNk1zSmdvUGR2SVpsOGlQcTJPT3l6RGo2STlSMGoyUktTR3VRZGxWajVEc1o5eDZlRUo3Z2VzNVpKSjNnSFhjQ0NQ0gG-AUFVX3lxTFBsQjg2RnZfX1ZodV8xaVc2QlRxVjBpM2xnQnkwb3RJNWNJNXQySlNlWGhSR0VaLTI1SFFEQ0tRWWRwSGlxemRVMGRiRWtJakFkT0R1RUw5U2Q3UUFpS1ltVDdQdlV0STk3b3A0VU5pa3ZqSzQtNzVwaVd2RFVmV2lVZVNLUEpUN0NhcjlmQm83b1RRUldKUExZaGx2c244bU1Fc3VnOG9MSy1JOUk2N3NzTWFlRHhJOHVWSVFHLVE?oc=5)** _(Sun, 22 Nov 2026 18:11:07 GMT)_
+- **[SD doctor, mom react to measles cases concerns - KELOLAND.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPem1CZVJXSmJGOGZ0UzAxTmtaYW5ORmpHd1lPclNuUWpGSlozTl9obkVlcHduWGF6OU9oRXZ2V2dyek1tei10ZmY2VG1HYkJ1X0Y2dks3bDJYZ05PQmFuVlJlQVo4WHJ5U2xid2xMdUVPVXYxR21FTzFMZWhVNkR4RHJVY0V4NG5TMDJjMHlzYnrSAZYBQVVfeXFMTWpRNTlVSDdvWHRlaTJyaTVQWVJKRXVRVElRQXd4c25ZblU5cGFmeFRjUGVaaFJaamtKcTBNMkVma1hXQms1STlRWXNEM0ZRMGpvZ0JPN0dhc2dEWEpJRGR3ZGJ2N0dPTkt6a1EzX2s4bUhoTVF0VmJiY015aDJsSXE5SjZRbWlhTWtLSHpTQkR0ZmhHeGhn?oc=5)** _(Mon, 23 Nov 2026 00:15:16 GMT)_
+- **['I was willing to try anything': NH mother sets record for living year with pig kidney transplant - WMUR](https://news.google.com/rss/articles/CBMilgFBVV95cUxPeF83Wmx1RzFPTXcwZkx3cDRjTUt0NG5fX01wWE5JVkZQWEdjQzJtR2RERW5NWWxOSHhnTXBTYk5uNXY0NlVWbUN1YTZqOUR6ZGxuZlBHUkFvemtmazZhMUhjRU9rbXpIejBaa1BfbENqeUdIR2lHTHZ6RDNnZmNyd3hWWUZRc3hNNHFWUGc4WTJQc2xZZkE?oc=5)** _(Mon, 23 Nov 2026 10:49:00 GMT)_
+- **[Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ | Pancreas cancer - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDVVUjhwbXdaZTJDY25DTjFjTHRYd3I0bjhIT2xVV18tLVVJeGVKMEFzc1hmeUNJWnlFa1BHR0cyQ1lSbUFDNmt0SEZuZFpYNjFvc1lqT2VnXzY0bEhQTlQ3RXdVbWprX2laZzg2YnJDRF9RMXA4cnZEaTVqU00zM1FDZ3pIM3RoX01IbkFyUjgxVEVsS0RRUHVEcFo?oc=5)** _(Fri, 20 Nov 2026 09:36:00 GMT)_
+- **[Mushroom supplements promise health benefits. What does the science say? - NPR](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZi1aeEpyVmh0SUlkSERsRW9IQlZiQTVBaFJ1TjZnenBsdG53dEtSYl9WUEIwN0swNVFCS2JpT1pWRldkS2lSa0pPOThkSEZSektIckxIeWFrOVI2U0MxUXpYS0FoMEZFRHdXeEFLZzZPV2I2Qk1Zb1h0dXd6MjlSekF4WWhEdnJV?oc=5)** _(Mon, 23 Nov 2026 10:00:00 GMT)_
+
+---
+
 ## Digest Date: 2026-11-22
 
 ### Source: MedPageToday.com - medical news for physicians
