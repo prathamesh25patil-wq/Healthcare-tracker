@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-24
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[GLP-1 Use Linked to Increased Breast Density on Mammograms](https://www.medpagetoday.com/meetingcoverage/rsna/124022)** _(Tue, 24 Nov 2026 10:53:28 -0500)_
+- **[Rare Muscle Disease Gets Its First Approved Therapy](https://www.medpagetoday.com/neurology/generalneurology/124021)** _(Tue, 24 Nov 2026 10:29:49 -0500)_
+- **[Texas Drops Lawsuits Accusing Docs of Illegally Providing Transgender Care to Minors](https://www.medpagetoday.com/pediatrics/transgendermedicine/124020)** _(Tue, 24 Nov 2026 10:18:34 -0500)_
+- **[Boxing Champ's Schizophrenia; Doctor vs AI in Court? Holiday Cooking Danger Zones](https://www.medpagetoday.com/psychiatry/schizophrenia/124017)** _(Tue, 24 Nov 2026 09:32:40 -0500)_
+- **[Early Sepsis Interventions Didn't Reduce Risk of Death](https://www.medpagetoday.com/criticalcare/sepsis/124015)** _(Tue, 24 Nov 2026 08:34:36 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Pennsylvania reports ninth measles death in ongoing state outbreak - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDJrMHJRRmVQdjBiV0RZT3paRmp6R21DblU5Ull5dV9GQ2cwTENkemEwOXNoeklBelFtNmpaREJucU1ScGxnU3dwN3J2azFBTFozV0JneS01TEtyMHBucHotcFRzVnJVdHo1aFV5Q0E0d29KcTcwSUFFU0lVQVpnLTRJc1p4V3VJWkRzZ3FGY1ppQWF4RGwzWXpZNVNVMVJlYTRCNHVBaF9zam9f0gGyAUFVX3lxTE5CYlZuSkZfSTUySlNJd254Tmd4LXk3QWZXRkJkYnF5YzI4Yk9OdHJ2WENUQzZUUVU0RXIxelZSTFlDSzREMTlNRkU1V0JodUxPdzZLenZIczdnQmx6a0taWHBpeEZJSWR6eFJlMVJNQjZLNVctTm8zYU5iaUNxdjdfSS1meDZYZVZNWEQyR3RwYkhHdjRudFBIVmdEOVNMOUxGbEl6ai1HcDdVRzlKU0xRd1E?oc=5)** _(Tue, 24 Nov 2026 05:02:39 GMT)_
+- **[Opinion | It’s not just measles. RFK Jr.’s vaccine policies could bring back another disease. - The Washington Post](https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEVDclJRcDEtdU1wNmVoOWhUaE5WcFl1cnBJMXE5MFRNb3dzQ2NScWxGNTB5VUJUOTU0T1l0ZFB6QkdhQlpjQXBEbW9ydGR5dnRPbE1BZnNKYjNOQ0VyUHRKU1FQSU1LVG5Sak8wSmtYWXcxazktdURuZlZJYW53dDRFNlF3Q3E3U212Zk5SUnp6a0c4bzVzclRQeHpJSVViY2Q3OGkzWW53TzRlNkpGNmNmNzRmSnFYcXc?oc=5)** _(Tue, 24 Nov 2026 15:24:35 GMT)_
+- **[Can you get measles if you are vaccinated? Explaining the MMR vaccine - USA Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxPbUZRNEhOeUFEQV9idFh5bTRMcnluc1VfNUM0YVRHTTVtX1FRUzNZczNWUUpUQmlQaWp0QllsUXhOMVctdnh5Vm9UdE1mVGtzSmMtSUZsel9Na1Q2SlJIMzRjMGpkdUJsNmNKUDhMaFlFYTZjRDMwdFpGTk9aZm0xTldYTGVCZDdxRk5HSzliREt5RkZTVXJrek5fWFJSR1E?oc=5)** _(Mon, 23 Nov 2026 18:51:00 GMT)_
+- **[Bird flu detected among cows at Grant County dairy farm - KREM](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZXRTRWtsVFROeERUa3ZiUUpFRDZzRUZCZWlWbnNKX3hGMjVIV1FVNHh4cFhTSmc1SktMWVA2NTRONDU1TDNyQTV0MWdZQ2hPYjZJa0ludU1ORURfUFZpVEZnT3FOUXRqZFVoTWRsb0VPQ0dGb3dsRDJ3SGUya0JOV21TQkZMZnpNWjJSakxteUVUdnh5S3JWS2VMX2Vqb1ppMkRmdkVYRllPNWxwbG9MWFlyemoyV3k3dDg5UWxMVGlDbG1Zd09vTm9MamtuRktaN0ktUDJkd1FRZXRfNXhUNg?oc=5)** _(Tue, 24 Nov 2026 00:38:00 GMT)_
+- **[Child with measles dies in Virginia, marking state's 1st measles-related death this year - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUwtVjh5YTdXTjBVMm0xdHNrOXQ5Z1VrWnY0dnFpU2w3UnVYY19vNnJXckQ5WkJSejUtMjltYWJhT1N4MzV4aDFzaU9YZXhOdFZ4Rl9JZXh0TzdtVm9Va0FOUThfZWg2ekZ2bXZlSGNTZWtROU1kYXdVWmVKMENLY1g4ak9SRGJKNlVjVjdMdEExUFRiV05BSjBnTUt6dm96MlHSAacBQVVfeXFMTzBYYWh0aW9ENjltOWxQNURCbHVKRU5nQklCUGgwamVRTkVwNGhldUs0anozUV9fbjdtNGNJaWdoSjNaN0FJVFBvcGc3b04zWExWWEJoUU5GMGJwUy12TnZ2S3ZGaURQd2JmRHNxNWxZT1FDTnNJQVZuQ2xHWlFpRHhHakxqS3llelJhVWtZOWpIZ0Uyb1R5bUEwUHRUa2VlLUFjQUEwQTg?oc=5)** _(Fri, 20 Nov 2026 22:52:25 GMT)_
+
+---
+
 ## Digest Date: 2026-11-23
 
 ### Source: MedPageToday.com - medical news for physicians
