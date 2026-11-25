@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-25
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Antibiotic Paste Approved to Prevent Surgical Site Infections](https://www.medpagetoday.com/surgery/generalsurgery/124056)** _(Wed, 25 Nov 2026 10:48:46 -0500)_
+- **[As GLP-1 Use Grows, Patients and Doctors Rethink Thanksgiving Dinner](https://www.medpagetoday.com/endocrinology/obesity/124054)** _(Wed, 25 Nov 2026 10:44:26 -0500)_
+- **[CDC Director Draws Doubts From Employees and Ire From Legislators](https://www.medpagetoday.com/publichealthpolicy/washington-watch/124053)** _(Wed, 25 Nov 2026 10:09:05 -0500)_
+- **[How Certain Foods in Adolescence Are Linked to IBD Risk](https://www.medpagetoday.com/gastroenterology/inflammatoryboweldisease/124052)** _(Wed, 25 Nov 2026 10:01:46 -0500)_
+- **[Sjogren's Disease Brings a Lot More Misery Beyond Dryness](https://www.medpagetoday.com/spotlight/acr-sjogrens-syndrome/124019)** _(Wed, 25 Nov 2026 10:00:00 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Unvaccinated Pennsylvania resident dies of measles in state's ninth fatal case this year - Fox News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2dMMHhMWmQydzRpQnJrMWFXMGJQVDEtcVdnMTAydHZvUHZ1bTJIaVNoOVprSUpObjJGLXlJcnBLSkJWNUZrTmxRaVR1YzhId2JhS3ZtM3RPSjRQZi16cEZIdFZteEZtOGpfSXhWTzMtMmxpNHF5NmJ3WFVTTmlTd0FDMzJ6b0F6OWF2blVrbGF2VDVEeF9oTVJiRjlXMENsZUN1ZjBwN3FXZG_SAbABQVVfeXFMTWhCdTE5YzBJdDgzRTFCRUxNQTljY2QyeDdHeFdrTlRDLWRkc2xNemswTHJTYVNWVmNrUFVoT0JZV3pQSVdDV3JWWEhIMVkwVU9JcG9IMzE2UXNhZU9fMlZpM2UyaFZaLUdRQmNrRlhMeHpOWm02QnVWWUJEdTFpckQtQVBxYU52WVFqZFhHYWhRUTQwSklXc0pWWURodkVzbkhMdDNWZFNmOWVsWWFDRUc?oc=5)** _(Tue, 24 Nov 2026 17:50:49 GMT)_
+- **[3 common drugs older adults might be overusing - AOL.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFBMYUF0QjIxQ2tQenVZWmd0Z3lFcGs4dm1KUU96LTNrdDhIbXlVTGNTRHZfNUhmc3llYzJhc1VPNzM4Ri1iR3hrLU16LWV0SXpkZmRsdDAycENrWkRJNW93LWNMZTJDTlA1dGY0Y0Z1X0U1Um1Cc3B4NFotOA?oc=5)** _(Tue, 24 Nov 2026 13:28:22 GMT)_
+- **[Flu activity picks up Nationwide: See the hardest-hit states - USA Today](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWdGVW1NNjBYamhicGFPZ0FWQ3lzUjZPUjZLSHk0TVltbmcxekNFVWlMNllLZ2VjQzZvODFfbVVEdFFTNHhpSVVCUEJZTXoxcXpTXzhJVUVGSk81UjNHcjVmUlJVN2ZjUmZza1VabnhjdUxFazRITkMyNkVmZjNMdlNmOWVyYS16WUFxcDdGeXRGZENlM25kdm0ya25Gdw?oc=5)** _(Tue, 24 Nov 2026 19:17:00 GMT)_
+- **[Do adults need another measles vaccine? Pittsburgh doctors explain who should consider it - TribLIVE.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQNW41d3hlaDZQRFJESk5MMUlnS21JZklYX0JqYU5MZGc1N2g2UmJoTFplRF9odjlzbzMzLUFQS01zYzl1ekNPTjM1cDdYWWhiLTRrYWo3aVRsYTdJRl96S0wzQVpEOVlsRURlYVQxYTVYakhGUVdLNmRGNWxzNFA3dWJjVGVFMDh1U3NOeDJ3V3d5Tm5xbjYta1cyWVRzeE80LWZWWlB6WTY3LTk2YkYxeXdzbDZGRHlWREVlOWliODZTOXht?oc=5)** _(Tue, 24 Nov 2026 21:22:54 GMT)_
+- **[Wisconsin reports 3rd measles death, as illnesses spread to the general public - NBC News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZNQ1V3YTBhZVlUT3VyR2ZNZDduUjJDazUxd0lnUzJEVGJhWGZfdXVUdGM2MFlqbG1JdmFjejQ1SDlWV1B1ZTdRMENpNVJkOFZhaUR1NW9Fc1lYeTk0WXRibmcwclkxWVhaNE5TY0lGUjVnZWo4WTU3NklrZm5ycGwwTFpEMWFUajZJaG1WQ05QYzBYWk5fdjgxSFJtenJlYkJEdw?oc=5)** _(Tue, 24 Nov 2026 23:02:54 GMT)_
+
+---
+
 ## Digest Date: 2026-11-24
 
 ### Source: MedPageToday.com - medical news for physicians
