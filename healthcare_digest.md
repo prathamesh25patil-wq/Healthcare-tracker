@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-26
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Antihypertensives Still Worth It for the Healthiest 10%, Large Study Suggests](https://www.medpagetoday.com/cardiology/hypertension/124070)** _(Wed, 25 Nov 2026 17:00:00 -0500)_
+- **[New Obesity Definition Flags More Adults at Dementia Risk](https://www.medpagetoday.com/neurology/dementia/124069)** _(Wed, 25 Nov 2026 16:00:00 -0500)_
+- **[Lithium Suicide Review; Restraint Chairs for Teens; YouTube's $3B Addiction Deal](https://www.medpagetoday.com/psychiatry/generalpsychiatry/124068)** _(Wed, 25 Nov 2026 14:33:53 -0500)_
+- **[Hepatitis B Shot at Birth Dips Among Babies of Infected Moms](https://www.medpagetoday.com/infectiousdisease/hepatitis/124067)** _(Wed, 25 Nov 2026 14:20:27 -0500)_
+- **[Inside RFK Jr.'s Day-to-Day; 'Not Dying Fast Enough'; Peddling Unproven Cures](https://www.medpagetoday.com/publichealthpolicy/healthpolicy/124062)** _(Wed, 25 Nov 2026 12:04:32 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3NZTFdoSVNxWWdjdmJZOXhZUVNOYVpPa3RaeEt3dm1pRWJPR1JOWGs2S0NYOEI4MWQwelIxZElqcVVPQ1A1UC14X0NnWmhaVEVYb2VkZ1BwSGVocHpEZ0ZCUjBpREtodXBQcmlYQXFnRTRremdnSHFCd09YWHNZajNSMWpPQ3FVNzlaN1JpNDluRDJyWTNqQWc4NFh5RWlxbEV1N0dB0gGrAUFVX3lxTE1NMzhhbVFkcTE5S3VBVFJLYXZKNGJYMzQ1OXZ6di00Y1ZQVHc2WVVkMWFBOG05cjMtTlFILUZTMDNhQ3pVY2RHT3lpaGhrTXNpSVV5a1Y3azNRQ1J5WjdlZ2liNEY4aGdYZkh3Q0xxcU9IVnY3S0dmUnR5V3VUbFF1LWc5M25wVHRUNVFvT1ZuVmlnY2JLd3J3TVNDYWc3dUpUd3dIdUhXZjQwNA?oc=5)** _(Thu, 26 Nov 2026 13:34:32 GMT)_
+- **[Significant decrease in Black-white mortality gap during past 30 years - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkkwSER0cEVCMGtpa3JvWExLQS1nRmpOTVo4d0VVN09BRy1IX2RBOWdSdEZraHRPNnU2TnI4OWJ1aDktS0lhWkNTMnJIangyTGlteWthNFAyY0xpc0tsRmV4LXlzblJpWDhqZXhaNkowLTBIa3hxVnRRNmJFR3JFcHVPSXFwVUZNRmdDZmVSMA?oc=5)** _(Mon, 23 Nov 2026 22:00:32 GMT)_
+- **[Unvaccinated Pennsylvania resident dies of measles in state's ninth fatal case this year - Fox News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2dMMHhMWmQydzRpQnJrMWFXMGJQVDEtcVdnMTAydHZvUHZ1bTJIaVNoOVprSUpObjJGLXlJcnBLSkJWNUZrTmxRaVR1YzhId2JhS3ZtM3RPSjRQZi16cEZIdFZteEZtOGpfSXhWTzMtMmxpNHF5NmJ3WFVTTmlTd0FDMzJ6b0F6OWF2blVrbGF2VDVEeF9oTVJiRjlXMENsZUN1ZjBwN3FXZG_SAbABQVVfeXFMTWhCdTE5YzBJdDgzRTFCRUxNQTljY2QyeDdHeFdrTlRDLWRkc2xNemswTHJTYVNWVmNrUFVoT0JZV3pQSVdDV3JWWEhIMVkwVU9JcG9IMzE2UXNhZU9fMlZpM2UyaFZaLUdRQmNrRlhMeHpOWm02QnVWWUJEdTFpckQtQVBxYU52WVFqZFhHYWhRUTQwSklXc0pWWURodkVzbkhMdDNWZFNmOWVsWWFDRUc?oc=5)** _(Tue, 24 Nov 2026 17:50:49 GMT)_
+- **[WA measles situation ‘much worse,’ with five outbreaks so far - The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdms1cXJSREoyV04tRHBOS05KczBmMkMtb3NEU0dEcTJkb3BKOEp0a0dHY0IzZF9fUlR1YVp3MkVzdmd4TDd2LXFJeXp2Nld1M3M3bExBdGt6MGIzbWI2X2VsR3VZQzRsYWNyQTBWbHFxbG1CclhFX0FFNWxEeVM4ZXZZQU5QZmFTNEg5UXVVbnlRQVgtelgxSHRJN0diSUN3RmxZOUk5dkdrdVVsYVZmZDE4VTBKUG9LZEIwVw?oc=5)** _(Wed, 25 Nov 2026 14:00:00 GMT)_
+- **[Flu surge hits N.J. kids just before Thanksgiving. Here's what parents should know. - NJ.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZElCQ21NTm5LZzlOSnRGZ0FwaFdYRGIwanRwSEtXRTZkRGNWZEx2eVlUaTRSVXJqdm1aMXA3dlFlNE9xbXVSaVRqZERSY3RRbGZjUWpYWDNDN1ZwVnlHZk42NEkzU1RsNUZMWWpfMkRLUEVIYkdtSW44RS1zekNKbWRmOW5Vbkp1TUx3QUNMN0dzcFlFUi1WU2Z1MmJGelAwQVZpRGJqRllRTDZpOUpzcUpwS25CY0tIQzd0YnB2NWtLcm1UZXc?oc=5)** _(Wed, 25 Nov 2026 12:30:00 GMT)_
+
+---
+
 ## Digest Date: 2026-11-25
 
 ### Source: MedPageToday.com - medical news for physicians
