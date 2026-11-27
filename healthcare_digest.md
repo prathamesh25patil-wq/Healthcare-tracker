@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-27
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Antihypertensives Still Worth It for the Healthiest 10%, Large Study Suggests](https://www.medpagetoday.com/cardiology/hypertension/124070)** _(Wed, 25 Nov 2026 17:00:00 -0500)_
+- **[New Obesity Definition Flags More Adults at Dementia Risk](https://www.medpagetoday.com/neurology/dementia/124069)** _(Wed, 25 Nov 2026 16:00:00 -0500)_
+- **[Lithium Suicide Review; Restraint Chairs for Teens; YouTube's $3B Addiction Deal](https://www.medpagetoday.com/psychiatry/generalpsychiatry/124068)** _(Wed, 25 Nov 2026 14:33:53 -0500)_
+- **[Hepatitis B Shot at Birth Dips Among Babies of Infected Moms](https://www.medpagetoday.com/infectiousdisease/hepatitis/124067)** _(Wed, 25 Nov 2026 14:20:27 -0500)_
+- **[Inside RFK Jr.'s Day-to-Day; 'Not Dying Fast Enough'; Peddling Unproven Cures](https://www.medpagetoday.com/publichealthpolicy/healthpolicy/124062)** _(Wed, 25 Nov 2026 12:04:32 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[The surprising reason some people sleep better than others - The Washington Post](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTBidnYtbTVzWVU1aHNKelpWSFBTWjMyY2hYUjY0cHRzRFlWUkIwRkkyeC1PM05SbmZQWm9jZVFiQXBtdkJDMl85aWZIaGtmdi1Ua2ItbkpnZWhLVjYtekREYmJPQVNFYXpPNmFidE9IWmVYNkdHS1FaUENMRVdzdHEtcUp3cDdEUlpXMUppbWtyeVR2UkxOcHpSRGZNSEQyRlZlcjdGOEdjNkhFa0NR?oc=5)** _(Fri, 27 Nov 2026 14:32:18 GMT)_
+- **[The Mortality Gap Between Black and White Americans Is Shrinking - The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnlpYU96SUUydnc2OFNXTG9CNmZDWUFud3B4NzAzQmJhQk9ZS3RSWEh5Y2hwWHViUVlpTEpGSU1HUmRFbjJpeFRpRWEtQzdkeE1QQ0NKYVBCUC1KU3hLNWVONlZveXFxbkdHMG45X2tNbVcyTEtldjZZdkcySzNrSHhKa1lFVWIzTFV0Mnd3?oc=5)** _(Tue, 24 Nov 2026 16:11:25 GMT)_
+- **[WA measles situation ‘much worse,’ with five outbreaks so far - The Seattle Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOdms1cXJSREoyV04tRHBOS05KczBmMkMtb3NEU0dEcTJkb3BKOEp0a0dHY0IzZF9fUlR1YVp3MkVzdmd4TDd2LXFJeXp2Nld1M3M3bExBdGt6MGIzbWI2X2VsR3VZQzRsYWNyQTBWbHFxbG1CclhFX0FFNWxEeVM4ZXZZQU5QZmFTNEg5UXVVbnlRQVgtelgxSHRJN0diSUN3RmxZOUk5dkdrdVVsYVZmZDE4VTBKUG9LZEIwVw?oc=5)** _(Wed, 25 Nov 2026 14:00:00 GMT)_
+- **[Wisconsin reports 3rd measles death, as illnesses spread to the general public - NBC News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZNQ1V3YTBhZVlUT3VyR2ZNZDduUjJDazUxd0lnUzJEVGJhWGZfdXVUdGM2MFlqbG1JdmFjejQ1SDlWV1B1ZTdRMENpNVJkOFZhaUR1NW9Fc1lYeTk0WXRibmcwclkxWVhaNE5TY0lGUjVnZWo4WTU3NklrZm5ycGwwTFpEMWFUajZJaG1WQ05QYzBYWk5fdjgxSFJtenJlYkJEdw?oc=5)** _(Tue, 24 Nov 2026 23:02:54 GMT)_
+- **[The CDC stays quiet on flu as an early season catches many Americans off-guard - CNN](https://news.google.com/rss/articles/CBMibkFVX3lxTFBaSDVQX2tUa2Z5ZHcwRV8ycmZ1dWMxSWoyZ19fbW9iVnNPNG1XWTdqS0Z4OVZ3Mm9VS01yTW9uZTJMb2h4blBUbGl5aFg0eG9WalV2bGQ5cWNyMGw2UUhpWW4tcFZXRkxaVWRsQUJ3?oc=5)** _(Tue, 24 Nov 2026 12:01:19 GMT)_
+
+---
+
 ## Digest Date: 2026-11-26
 
 ### Source: MedPageToday.com - medical news for physicians
