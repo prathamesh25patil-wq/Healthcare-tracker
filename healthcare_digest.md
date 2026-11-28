@@ -1,5 +1,25 @@
 # Automated Healthcare Trends Archive
 
+## Digest Date: 2026-11-28
+
+### Source: MedPageToday.com - medical news for physicians
+
+- **[Live Webinar Dec. 1: The Debate Over Universal Lipoprotein(a) Screening](https://www.medpagetoday.com/cardiology/generalcardiology/124050)** _(Sat, 28 Nov 2026 08:00:00 -0500)_
+- **[Tobacco for Cancer Therapy? Panel Backs HPV Test Over Pap; Too Few Cancer Surgeons](https://www.medpagetoday.com/hematologyoncology/lungcancer/124066)** _(Fri, 27 Nov 2026 15:00:00 -0500)_
+- **[Scientists Report Strong Evidence That Specially Bred Mosquitoes Can Fend Off Dengue](https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/124008)** _(Fri, 27 Nov 2026 14:00:00 -0500)_
+- **[Our Patients May Already Be Using Peptides. Counseling Matters.](https://www.medpagetoday.com/opinion/second-opinions/124036)** _(Fri, 27 Nov 2026 12:00:00 -0500)_
+- **[Most Lupus Patients in Remission Can Safely Stop Steroids, Study Finds](https://www.medpagetoday.com/rheumatology/lupus/124063)** _(Fri, 27 Nov 2026 11:00:00 -0500)_
+
+### Source: Health - Latest - Google News
+
+- **[3 memory changes experts warn you should never ignore as you’re aging - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzJyNzV4MEdjNkpxbWoxY2VSU3FOMmNCYjB5THppVDFpeFpFNGgtZUtxSDJlUUp4RDJoOENaOC1kMGhlU3AtTnh0WUxpOHNtQXNHckZrMlMydGpSMElGN1J4U3BKdHZ2amQwQ3dxcEVFX1RFeV9OMWc0ckRpYjlDS3dJTHNScGJsSDdsOUJZZ0YtZFhMd0xCVTFGV19jbk0zb2RxOGowbklVcGFYYWZWVE00cw?oc=5)** _(Sat, 28 Nov 2026 14:07:20 GMT)_
+- **[Wealthy Sleep Best, Research Suggests - Newser](https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTl1d1NpbVlHQmlhYWFBaEItXzZNaUd6U0tMRmtidmhOVXZRalJGaHJERlI3YlE1MXpnR0xsSEYzT09sZFl0MTJ6b1oyOW51dks3T0E3OHJ3NEU5a0UzR3ZsTUY5ZWttazFIT2VXeldaTUpKYVB5N2hRalFlMXM5cVZpcw?oc=5)** _(Fri, 27 Nov 2026 21:08:00 GMT)_
+- **[Uganda starts mRNA Ebola vaccine trial in first for Africa - Al Jazeera](https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0wwRDlWSGVDUVNERWhibXE0dTg0M2tCelI1UUNsSk9KRklWbTMzNDF6cUM2OVFtbVZJbGFfOEVoaVIwYUFnenpOdHc1T1Zhdkk0UHh5NGxSbnZVZW5RMVBkWTU0TXRiVDRnUnJGOFFRdlRxem1sQ0liMEpjbnREdkFkS1VjNFRQU1FBTEdDSHlMMTlFS1NrY0pDTGVHMlhhSWfSAacBQVVfeXFMUC1Mc0k3Rks5ck02WU9heFZDSmVzZ1c5X2tOOTJQUjZ1eTViVVdzbDA2VDgxM253akV5dmVaRUMySG14djhDOXFPRGhNSl9COXAzNUE5U3hFMFhGVThweU9wbUpraWc4RjBpcXhHNWpfQzBzRU9SSXgteUpOZlp2VWJwdWlXT0dpaW55WVZNSVFJbTMyWE5rOHBqb3RvOGNyREFSSnN2WG8?oc=5)** _(Sat, 28 Nov 2026 07:30:01 GMT)_
+- **[Measles Is a Growing Risk for Adults in the United States - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGtaQzBHT0syWURzekZ3WkxPWEVlcXFlZXRGVXZHNGh1akRVTlA4c2dxNHlJbzNNWnBIekU5Wi1VRkhOUEhNU0lPNmRsVnE2TXJIVURzYkFWektCTk1fVXMwQmFBMmdpUXdUcndKemV5R2g4eXBRVmRzSnN6S0c3QjRVN28?oc=5)** _(Mon, 23 Nov 2026 15:20:00 GMT)_
+- **[Low levels of common vitamin could be stealing nearly 30 minutes of your sleep - Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxNYzUyVC1HcUdQVnVNVm85QnlRMmRGbzB5T3Mza1h5XzlFYV9jZVllMmsweHNqUVZLM3VuWFBJRjNCVWtQSDFOOGFqLUJUaVNzMjVDN1VlSFlGYTI4eHFMRjlDZncwOTZqcU5SSEhPM1JCUGpESXpjTEg0aDczajUwSVVWdWYycmxDV3fSAY8BQVVfeXFMT3pzZDVHTW1Wc0dGeE1rcU5SMEZQSE41bC1KU2hCTXlPZ3lXWVcyaGN1a0ZTMFdJOEFYMDRfOWZvSk5OWTFCaWtvdTJjMWZ1dFNjUVFJUk5WenMyRHRRYWRJek50aWpnUm16YzZMTWNuR1Q5ejg0a2dGS2h2ak10dFJkdTdLLW1RMWdXV2xTSGs?oc=5)** _(Fri, 27 Nov 2026 23:06:05 GMT)_
+
+---
+
 ## Digest Date: 2026-11-27
 
 ### Source: MedPageToday.com - medical news for physicians
